@@ -1,0 +1,11 @@
+; Atelier Rorona: The Alchemist Of Arland
+; BLUS30465
+;From Game Genie For PS3
+
+:USR-DATA
+
+[Max Money]
+20015453 0098967F
+
+[Reset Game Save Time]
+20005C80 00000000

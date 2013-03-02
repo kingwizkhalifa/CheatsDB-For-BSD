@@ -1,0 +1,11 @@
+; Rune Factory: Tides Of Destiny
+; BLUS30759
+;From Game Genie For PS3
+
+:USR-DATA
+
+[Max Money]
+20000004 05F5E0FF
+
+[Max Experience]
+20000034 05F5E0FF

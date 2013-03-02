@@ -1,0 +1,34 @@
+; Resident Evil 6
+; BLES01465
+;From Game Genie For PS3
+
+:DATA0.DAT
+
+[Max Skill Points]
+200006F8 0098967F
+20000980 0098967F
+
+;Made by Skiller from Codemasters Project
+[Max All Weapon Stats Time Used]
+42000A8C 0098967F
+402B002C 00000000
+
+;Made by Skiller from Codemasters Project
+[Max All Weapon Stats kills]
+42000A90 0098967F
+402B002C 00000000
+
+;Made by Skiller from Codemasters Project
+[Max All Weapon Stats kills]
+42000A90 0098967F
+402B002C 00000000
+
+;Codes by BK201 and CrazyGreenNinja
+[500 Health Pills All Characters - Including Ada]
+10004B22 000001F4
+10004B92 000001F4
+10004C02 000001F4
+10004C72 000001F4
+10004CE2 000001F4
+10004D52 000001F4
+10004DC2 000001F4

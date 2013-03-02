@@ -1,0 +1,13 @@
+;STAR OCEAN THE LAST HOPE -INTERNATIONAL-
+;MRTC00001
+;Patch created by haxxxen - 2013-02-18
+
+;Do not remove copy protection on the save and everything will work fine.
+;Overwrite the old savefolder by ftp or filemanager and you avoid database rebuild.
+
+;The patch should only applied to the systemdata and not regular save.
+Path: MRTC00001-FIXED-
+
+:SYS-DATA
+[Unlock All Difficulties]
+0x00000028 60

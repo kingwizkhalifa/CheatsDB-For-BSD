@@ -1,0 +1,378 @@
+; Devil May Cry HD Collection
+; BLUS30764
+;From Game Genie For PS3
+
+:BLUS30764-DMC1\DATA
+
+; New game only.
+[Unlock All Characters And Difficulties]
+00005E68 000000FF
+
+; --- Files ---
+
+; --- File 1 ---
+
+[Max Red Orbs]
+20000634 000F423F
+
+[Max Yellow Orbs]
+10000620 000003E7
+
+; --- File 2 ---
+
+[Max Red Orbs]
+20000FA4 000F423F
+
+[Max Yellow Orbs]
+10000F90 000003E7
+
+; --- File 3 ---
+
+[Max Red Orbs]
+20001914 000F423F
+
+[Max Yellow Orbs]
+10001900 000003E7
+
+; --- File 4 ---
+
+[Max Red Orbs]
+20002284 000F423F
+
+[Max Yellow Orbs]
+10002270 000003E7
+
+; --- File 5 ---
+
+[Max Red Orbs]
+20002BF4 000F423F
+
+[Max Yellow Orbs]
+10002BE0 000003E7
+
+; --- File 6 ---
+
+[Max Red Orbs]
+20003564 000F423F
+
+[Max Yellow Orbs]
+10003550 000003E7
+
+; --- File 7 ---
+
+[Max Red Orbs]
+20003ED4 000F423F
+
+[Max Yellow Orbs]
+10003EC0 000003E7
+
+; --- File 8 ---
+
+[Max Red Orbs]
+20004844 000F423F
+
+[Max Yellow Orbs]
+10004830 000003E7
+
+; --- File 9 ---
+
+[Max Red Orbs]
+200051B4 000F423F
+
+[Max Yellow Orbs]
+100051A0 000003E7
+
+; --- File 10 ---
+
+[Max Red Orbs]
+20005B24 000F423F
+
+[Max Yellow Orbs]
+10005B10 000003E7
+
+:BLUS30764DMC2_DMC2\DMC2
+
+[Unlock All Characters And Difficulties]
+10000066 0000FFFF
+
+; --- Dante ---
+
+; --- Files ---
+
+; --- File 1 ---
+
+[Max Red Orbs]
+2000011C 000F423F
+
+[Max Golden Orbs]
+10000150 000003E7
+
+; --- File 2 ---
+
+[Max Red Orbs]
+2000031C 000F423F
+
+[Max Golden Orbs]
+10000350 000003E7
+
+; --- File 3 ---
+
+[Max Red Orbs]
+2000051C 000F423F
+
+[Max Golden Orbs]
+10000550 000003E7
+
+; --- File 4 ---
+
+[Max Red Orbs]
+2000071C 000F423F
+
+[Max Golden Orbs]
+10000750 000003E7
+
+; --- File 5 ---
+
+[Max Red Orbs]
+2000091C 000F423F
+
+[Max Golden Orbs]
+10000950 000003E7
+
+; --- File 6 ---
+
+[Max Red Orbs]
+20000B1C 000F423F
+
+[Max Golden Orbs]
+10000B50 000003E7
+
+; --- File 7 ---
+
+[Max Red Orbs]
+20000D1C 000F423F
+
+[Max Golden Orbs]
+10000D50 000003E7
+
+; --- File 8 ---
+
+[Max Red Orbs]
+20000F1C 000F423F
+
+[Max Golden Orbs]
+10000F50 000003E7
+
+; --- File 9 ---
+
+[Max Red Orbs]
+2000111C 000F423F
+
+[Max Golden Orbs]
+10001150 000003E7
+
+; --- File 10 ---
+
+[Max Red Orbs]
+2000131C 000F423F
+
+[Max Golden Orbs]
+10001350 000003E7
+
+; --- Lucia ---
+
+; --- Files ---
+
+; --- File 1 ---
+
+[Max Red Orbs]
+2000151C 000F423F
+
+[Max Golden Orbs]
+10001550 000003E7
+
+; --- File 2 ---
+
+[Max Red Orbs]
+2000171C 000F423F
+
+[Max Golden Orbs]
+10001750 000003E7
+
+; --- File 3 ---
+
+[Max Red Orbs]
+2000191C 000F423F
+
+[Max Golden Orbs]
+10001950 000003E7
+
+; --- File 4 ---
+
+[Max Red Orbs]
+20001B1C 000F423F
+
+[Max Golden Orbs]
+10001B50 000003E7
+
+; --- File 5 ---
+
+[Max Red Orbs]
+20001D1C 000F423F
+
+[Max Golden Orbs]
+10001D50 000003E7
+
+; --- File 6 ---
+
+[Max Red Orbs]
+20001F1C 000F423F
+
+[Max Golden Orbs]
+10001F50 000003E7
+
+; --- File 7 ---
+
+[Max Red Orbs]
+2000211C 000F423F
+
+[Max Golden Orbs]
+10002150 000003E7
+
+; --- File 8 ---
+
+[Max Red Orbs]
+2000231C 000F423F
+
+[Max Golden Orbs]
+10002350 000003E7
+
+; --- File 9 ---
+
+[Max Red Orbs]
+2000251C 000F423F
+
+[Max Golden Orbs]
+10002550 000003E7
+
+; --- File 10 ---
+
+[Max Red Orbs]
+2000271C 000F423F
+
+[Max Golden Orbs]
+10002750 000003E7
+
+:BLUS30764-DMC3SE\SYS-DATA
+
+; --- Files ---
+
+; --- File 1 ---
+
+[Max Red Orbs]
+200003BC 000F423F
+
+[Max Gold Orbs]
+000003C5 00000063
+
+[Max Yellow Orbs]
+000003C6 00000063
+
+; --- File 2 ---
+
+[Max Red Orbs]
+20000AC8 000F423F
+
+[Max Gold Orbs]
+00000AD1 00000063
+
+[Max Yellow Orbs]
+00000AD2 00000063
+
+; --- File 3 ---
+
+[Max Red Orbs]
+200011D4 000F423F
+
+[Max Gold Orbs]
+000011DD 00000063
+
+[Max Yellow Orbs]
+000011DE 00000063
+
+; --- File 4 ---
+
+[Max Red Orbs]
+200018E0 000F423F
+
+[Max Gold Orbs]
+000018E9 00000063
+
+[Max Yellow Orbs]
+000018EA 00000063
+
+; --- File 5 ---
+
+[Max Red Orbs]
+20001FEC 000F423F
+
+[Max Gold Orbs]
+00001FF5 00000063
+
+[Max Yellow Orbs]
+00001FF6 00000063
+
+; --- File 6 ---
+
+[Max Red Orbs]
+200026F8 000F423F
+
+[Max Gold Orbs]
+00002701 00000063
+
+[Max Yellow Orbs]
+00002702 00000063
+
+; --- File 7 ---
+
+[Max Red Orbs]
+20002E04 000F423F
+
+[Max Gold Orbs]
+00002E0D 00000063
+
+[Max Yellow Orbs]
+00002E0E 00000063
+
+; --- File 8 ---
+
+[Max Red Orbs]
+20003510 000F423F
+
+[Max Gold Orbs]
+00003519 00000063
+
+[Max Yellow Orbs]
+0000351A 00000063
+
+; --- File 9 ---
+
+[Max Red Orbs]
+20003C1C 000F423F
+
+[Max Gold Orbs]
+00003C25 00000063
+
+[Max Yellow Orbs]
+00003C26 00000063
+
+; --- File 10 ---
+
+[Max Red Orbs]
+20004328 000F423F
+
+[Max Gold Orbs]
+00004331 00000063
+
+[Max Yellow Orbs]
+00004332 00000063

@@ -1,0 +1,25 @@
+(Feb 22, 2013)
+- Star Ocean - The Last Hope -International- MRTC00001 // Added Comment
+- Trinity: Souls Of Zill O'll BLES01184 // Changed Comment
+- Trinity: Souls Of Zill O'll BLUS30503 // Changed Comment
+- The Darkness 2 BLUS30743 // Added Checksum
+- The Darkness 2 BLES01388 // Added Cheatfile
+- Batman Arkham City BLUS30538 // Added Comment that it may not work cause of additional encryption. Cannot test!
+- Splatterhouse BLUS30335 // Added Comment about first Cheat not supported (yet)
+- Splatterhouse BLES01120 // Added Comment about first Cheat not supported (yet)
+- Alpha Protocol BLUS30341 // Added Comment about first Cheat not supported (yet)
+- Alpha Protocol BLES00704 // Added Comment about first Cheat not supported (yet)
+- SSX BLUS30849 // Added Comment about Cheat not supported (yet)
+- SSX BLES01437 // Added Comment about Cheat not supported (yet)
+
+(Feb 25, 2013)
+- Splatterhouse BLES01120 // added new file with corrected/new cheats which work fine now
+- Splatterhouse BLUS30335 // added new file with corrected/new cheats which work fine now
+
+(Feb 26, 2013)
+- Alpha Protocoll BLES00704 // removed note, as the codes both work fine with BSD
+- Alpha Protocoll BLUS30341 // removed note, as the codes both work fine with BSD
+
+(Feb 28, 2013)
+- Splatterhouse BLES01120 // added new cheats and corrected title (sorry)
+- Splatterhouse BLUS30335 // added new cheats and corrected title (sorry)

@@ -1,0 +1,34 @@
+; Rainbow Moon (PSN)
+; NPUB30434
+;From Game Genie For PS3
+
+:NPUB30434-*\DATA.DAT
+
+[Max Rainbow Coins]
+20000104 3B9AC9FF
+
+[Unlock All Characters]
+410163B0 00000101
+
+[Reset Save Game Time]
+200000E5 00000000
+
+; --- Max Rainbow Pearl Points ---
+
+[Baldren]
+20016714 3B9AC9FF
+
+[Dozeru]
+200170AC 3B9AC9FF
+
+[Gorodo]
+20017578 3B9AC9FF
+
+[Serena]
+20017F10 3B9AC9FF
+
+[Trisha]
+20016BE0 3B9AC9FF
+
+[Zelorus]
+20017A44 3B9AC9FF

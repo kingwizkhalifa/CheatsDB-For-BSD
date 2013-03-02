@@ -1,0 +1,12 @@
+; Disgaea 3
+; BLUS30181
+;From Game Genie For PS3
+
+:SAVEDATA.DAT
+
+[Max HL]
+200003A0 00000918
+200003A4 4E729FFF
+
+[Reset Game Save Time]
+20000008 00000000

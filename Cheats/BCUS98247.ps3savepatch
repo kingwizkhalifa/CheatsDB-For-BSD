@@ -1,0 +1,21 @@
+; Sly Cooper: Thieves In Time
+; BCUS98247
+;From Game Genie For PS3
+
+:BCUS98247_SAVE_SLOT_*\SYS_DATA
+
+[Max Coins]
+20000020 05F5E0FF
+
+[Unlock All Masks]
+20000064 FFFFFFFF
+20000069 FFFFFFFF
+
+; Treasure Percentage will not increase when this cheat is used.
+[Unlock All Treasures]
+20000025 2899AFF6
+20000029 9E553B00
+
+[Unlock All Bottles]
+42000038 FFFFFFFF
+40050004 00000000

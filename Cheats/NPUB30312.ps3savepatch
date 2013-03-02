@@ -1,0 +1,335 @@
+; Resident Evil 4 HD (PSN)
+; NPUB30312
+;From Game Genie For PS3
+
+:NPUB30312-USA-*\DATA.BIN
+
+; --- Save Slot 1 ---
+
+[Max PTAs]
+200003CC 05F5E0FF
+
+[Max HP - Leon]
+200003D8 09600960
+
+[Max HP - Ada]
+200003DC 09600960
+
+[Number Of Times Saved: 1]
+100003C0 00000001
+
+[Number Of Times Saved: 999]
+100003C0 000003E7
+
+; --- Save Slot 2 ---
+
+[Max PTAs]
+2000D0DC 05F5E0FF
+
+[Max HP - Leon]
+2000D0E8 09600960
+
+[Max HP - Ada]
+2000D0EC 09600960
+
+[Number Of Times Saved: 1]
+1000D0D0 00000001
+
+[Number Of Times Saved: 999]
+1000D0D0 000003E7
+
+; --- Save Slot 3 ---
+
+[Max PTAs]
+20019DEC 05F5E0FF
+
+[Max HP - Leon]
+20019DF8 09600960
+
+[Max HP - Ada]
+20019DFC 09600960
+
+[Number Of Times Saved: 1]
+10019DE0 00000001
+
+[Number Of Times Saved: 999]
+10019DE0 000003E7
+
+; --- Save Slot 4 ---
+
+[Max PTAs]
+20026AFC 05F5E0FF
+
+[Max HP - Leon]
+20026B08 09600960
+
+[Max HP - Ada]
+20026B0C 09600960
+
+[Number Of Times Saved: 1]
+10026AF0 00000001
+
+[Number Of Times Saved: 999]
+10026AF0 000003E7
+
+; --- Save Slot 5 ---
+
+[Max PTAs]
+2003380C 05F5E0FF
+
+[Max HP - Leon]
+20033818 09600960
+
+[Max HP - Ada]
+2003381C 09600960
+
+[Number Of Times Saved: 1]
+10033800 00000001
+
+[Number Of Times Saved: 999]
+10033800 000003E7
+
+; --- Save Slot 6 ---
+
+[Max PTAs]
+2004051C 05F5E0FF
+2004D22C 05F5E0FF
+
+[Max HP - Leon]
+20040528 09600960
+2004D238 09600960
+
+[Max HP - Ada]
+2004052C 09600960
+2004D23C 09600960
+
+[Number Of Times Saved: 1]
+10040510 00000001
+1004D220 00000001
+
+[Number Of Times Saved: 999]
+10040510 000003E7
+1004D220 000003E7
+
+; --- Save Slot 7 ---
+
+; --- Save Slot 8 ---
+
+[Max PTAs]
+20059F3C 05F5E0FF
+
+[Max HP - Leon]
+20059F48 09600960
+
+[Max HP - Ada]
+20059F4C 09600960
+
+[Number Of Times Saved: 1]
+10059F30 00000001
+
+[Number Of Times Saved: 999]
+10059F30 000003E7
+
+; --- Save Slot 9 ---
+
+[Max PTAs]
+20066C4C 05F5E0FF
+
+[Max HP - Leon]
+20066C58 09600960
+
+[Max HP - Ada]
+20066C5C 09600960
+
+[Number Of Times Saved: 1]
+10066C40 00000001
+
+[Number Of Times Saved: 999]
+10066C40 000003E7
+
+; --- Save Slot 10 ---
+
+[Max PTAs]
+2007395C 05F5E0FF
+
+[Max HP - Leon]
+20073968 09600960
+
+[Max HP - Ada]
+2007396C 09600960
+
+[Number Of Times Saved: 1]
+10073950 00000001
+
+[Number Of Times Saved: 999]
+10073950 000003E7
+
+; --- Save Slot 11 ---
+
+[Max PTAs]
+2008066C 05F5E0FF
+
+[Max HP - Leon]
+20080678 09600960
+
+[Max HP - Ada]
+2008067C 09600960
+
+[Number Of Times Saved: 1]
+10080660 00000001
+
+[Number Of Times Saved: 999]
+10080660 000003E7
+
+; --- Save Slot 12 ---
+
+[Max PTAs]
+2008D37C 05F5E0FF
+
+[Max HP - Leon]
+2008D388 09600960
+
+[Max HP - Ada]
+2008D38C 09600960
+
+[Number Of Times Saved: 1]
+1008D370 00000001
+
+[Number Of Times Saved: 999]
+1008D370 000003E7
+
+; --- Save Slot 13 ---
+
+[Max PTAs]
+2009A08C 05F5E0FF
+
+[Max HP - Leon]
+2009A098 09600960
+
+[Max HP - Ada]
+2009A09C 09600960
+
+[Number Of Times Saved: 1]
+1009A080 00000001
+
+[Number Of Times Saved: 999]
+1009A080 000003E7
+
+; --- Save Slot 14 ---
+
+[Max PTAs]
+200A6D9C 05F5E0FF
+
+[Max HP - Leon]
+200A6DA8 09600960
+
+[Max HP - Ada]
+200A6DAC 09600960
+
+[Number Of Times Saved: 1]
+100A6D90 00000001
+
+[Number Of Times Saved: 999]
+100A6D90 000003E7
+
+; --- Save Slot 15 ---
+
+[Max PTAs]
+200B3AAC 05F5E0FF
+
+[Max HP - Leon]
+200B3AB8 09600960
+
+[Max HP - Ada]
+200B3ABC 09600960
+
+[Number Of Times Saved: 1]
+100B3AA0 00000001
+
+[Number Of Times Saved: 999]
+100B3AA0 000003E7
+
+; --- Save Slot 16 ---
+
+[Max PTAs]
+200C07BC 05F5E0FF
+
+[Max HP - Leon]
+200C07C8 09600960
+
+[Max HP - Ada]
+200C07CC 09600960
+
+[Number Of Times Saved: 1]
+100C07B0 00000001
+
+[Number Of Times Saved: 999]
+100C07B0 000003E7
+
+; --- Save Slot 17 ---
+
+[Max PTAs]
+200CD4CC 05F5E0FF
+
+[Max HP - Leon]
+200CD4D8 09600960
+
+[Max HP - Ada]
+200CD4DC 09600960
+
+[Number Of Times Saved: 1]
+100CD4C0 00000001
+
+[Number Of Times Saved: 999]
+100CD4C0 000003E7
+
+; --- Save Slot 18 ---
+
+[Max PTAs]
+200DA1DC 05F5E0FF
+
+[Max HP - Leon]
+200DA1E8 09600960
+
+[Max HP - Ada]
+200DA1EC 09600960
+
+[Number Of Times Saved: 1]
+100DA1D0 00000001
+
+[Number Of Times Saved: 999]
+100DA1D0 000003E7
+
+; --- Save Slot 19 ---
+
+[Max PTAs]
+200E6EEC 05F5E0FF
+
+[Max HP - Leon]
+200E6EF8 09600960
+
+[Max HP - Ada]
+200E6EFC 09600960
+
+[Number Of Times Saved: 1]
+100E6EE0 00000001
+
+[Number Of Times Saved: 999]
+100E6EE0 000003E7
+
+; --- Save Slot 20 ---
+
+[Max PTAs]
+200F3BFC 05F5E0FF
+
+[Max HP - Leon]
+200F3C08 09600960
+
+[Max HP - Ada]
+200F3C0C 09600960
+
+[Number Of Times Saved: 1]
+100F3BF0 00000001
+
+[Number Of Times Saved: 999]
+100F3BF0 000003E7

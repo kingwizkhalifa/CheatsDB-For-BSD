@@ -1,0 +1,29 @@
+; Metal Gear Solid 4: Guns Of The Patriots
+; BLUS30109
+;From Game Genie For PS3
+
+:BLUS30109G*\MGS4.SAV
+
+[Max DP]
+200001C0 05F5E0FF
+200001C4 05F5E0FF
+
+; Do not use this AND the Max Items cheat at the same time.
+[Max Rations]
+10000528 00007FFF
+
+; Owned weapons only.
+[Infinite Ammo]
+41000352 00007FFF
+40440002 00000000
+
+; Owned items only.
+[Max Items]
+41000528 0000270F
+40620002 00000000
+
+:BLUS30109S\MGS4SYS.SAV
+
+; New game only.
+[Unlock The Boss Extreme Difficulty]
+10000006 00000001

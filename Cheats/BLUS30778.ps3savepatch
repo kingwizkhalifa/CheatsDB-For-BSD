@@ -1,0 +1,16 @@
+; The Elder Scrolls V: Skyrim
+; BLUS30778
+;From Game Genie For PS3
+
+:BLUS30778-SAVE-*\SYS-DATA
+
+[Max Gold]
+80010004 40001422
+88010003 40000F00
+28000003 FFE0F505
+
+; Empty the chest beside the bed in Whiterun House and ONLY place 206 Gold in it. Save game and then use this cheat.
+[Max Gold @ Whiterun House]
+80010006 000FCE00
+00000000 00000000
+28000002 FFE0F505

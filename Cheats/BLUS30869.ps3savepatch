@@ -1,0 +1,9 @@
+; BlazBlue: Continuum Shift Extend
+; BLUS30869
+;From Game Genie For PS3
+
+:BLUS30869-SYSTEM\SYSTEM.DAT
+
+[Unlock All Gallery Visuals]
+41000160 0000202 4
+0F90002 0000000

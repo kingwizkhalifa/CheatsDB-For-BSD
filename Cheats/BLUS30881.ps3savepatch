@@ -1,0 +1,14 @@
+; Record Of Agarest: War 2
+; BLUS30881
+;From Game Genie For PS3
+
+:BLUS30881-L*\SYS-DATA
+
+[Max Money]
+20107050 05F5E0FF
+
+[Max TP]
+20107054 05F5E0FF
+
+[Max PP]
+20107058 05F5E0FF

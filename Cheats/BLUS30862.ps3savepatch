@@ -1,0 +1,33 @@
+[INFO: Same patches may not be supported by BSD yet]
+; Aliens: Colonial Marines
+; BLUS30862
+;From Game Genie For PS3
+
+:BLUS30862-PROFILE\PAYLOAD
+; type: none
+; type: none
+
+; --- Xenomorph ---
+
+[Max Upgrade Points (Not Working)]
+80010006 02000001
+30010000 00000000
+28000006 00000063
+; type: none
+
+[Max XP (Not Working)]
+80010006 02000001
+31060000 00000000
+28000024 00039210
+
+; --- Marine ---
+
+[Max Upgrade Points]
+80010006 02000001
+2F010000 00000000
+28000006 00000063
+
+[Max XP (Not Working)]
+80010006 02000001
+31060000 00000000
+2800001D 00039210

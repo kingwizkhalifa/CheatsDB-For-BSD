@@ -1,0 +1,11 @@
+; Warriors Orochi 3 (PSN)
+; NPUB30708
+;From Game Genie For PS3
+
+:NPUB30708-SAVEDATA\APP.BIN
+
+[Max Gems]
+20000DB0 0001869F
+
+[Max Growth Points]
+20000DAC 0001869F

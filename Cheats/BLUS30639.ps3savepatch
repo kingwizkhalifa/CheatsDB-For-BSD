@@ -1,0 +1,13 @@
+; Ar Tonelico Qoga: Knell Of Ar Ciel
+; BLUS30639
+;From Game Genie For PS3
+
+:BLUS30639-SETTINGS\SYS-DATA
+
+:BLUS30639-LIST-*\USR-DATA
+
+[Max Money]
+2000CCC8 0FFFFFFF
+
+[Reset Game Save Time]
+200B6085 00000000

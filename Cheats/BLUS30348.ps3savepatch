@@ -1,0 +1,17 @@
+; Cross Edge
+; BLUS30348
+;From Game Genie For PS3
+
+:SYS-DATA
+
+[Max Money]
+200CF70C 3B9AC9FF
+
+[Max TP]
+200CF710 3B9AC9FF
+
+[Max PP]
+200CF714 3B9AC9FF
+
+[Max Exp]
+200CF718 3B9AC9FF

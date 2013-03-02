@@ -1,0 +1,46 @@
+; One Piece: Pirate Warriors (PSN)
+; NPUB30836
+;From Game Genie For PS3
+
+:NPUB30836-*\DATA.BIN
+
+; --- Max Level ---
+
+[Boa Hancock]
+2000057C 000F4240
+
+[Brook]
+2000047C 000F4240
+
+[Franky]
+200003FC 000F4240
+
+[Jinbei]
+200005FC 000F4240
+
+[Monkey D.Luffy]
+2000007C 000F4240
+
+[Nami]
+2000017C 000F4240
+
+[Nico Robin]
+2000037C 000F4240
+
+[Port D.Ace]
+200004FC 000F4240
+
+[Roronoa Zoro]
+200000FC 000F4240
+
+[Sanji]
+2000027C 000F4240
+
+[Tony Chopper]
+200002FC 000F4240
+
+[Usopp]
+200001FC 000F4240
+
+[White beard]
+2000067C 000F4240

@@ -1,0 +1,21 @@
+; Ninja Gaiden: Sigma 2
+; BLUS30380
+;From Game Genie For PS3
+
+:SAVE_STR.DAT
+
+[Max Health]
+20000A54 0C800C80
+10000A58 0C800C80
+
+[Max Magic]
+20000a78 0C800C80
+
+[Max Essence]
+20000AA0 05F5E0FF
+
+[Reset Game Save Time]
+20000020 00000000
+
+[Max Game Time]
+20000020 84000000

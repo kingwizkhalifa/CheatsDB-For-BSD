@@ -1,0 +1,18 @@
+; Yakuza 3
+; BLUS30494
+;From Game Genie For PS3
+
+:BLUS30494L*\USER01
+
+[Max Money]
+20007CA8 3B9AC9FF
+
+[Max Exp]
+200058C8 3B9ACA00
+200058CC 3B9ACA00
+
+[Reset Game Save Time]
+20000008 00000000
+
+[Amount of times Saved 0]
+20007E00 00000000

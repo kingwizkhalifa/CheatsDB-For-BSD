@@ -1,0 +1,17 @@
+[INFO: Same patches may not be supported by BSD yet]
+; Tomb Raider
+; BLES01780
+;From Game Genie For PS3
+
+:SYS-DATA
+[Skill Point(s) 255]
+80010004 A530EE3D
+08000013 000000FF
+
+[Arrow 40 *After obtaining an arrow]
+80010004 8863BA99
+08000005 00000028
+
+[Salvage 999 *After point acquisition]
+80010004 8720EBCE
+18000004 0000270F

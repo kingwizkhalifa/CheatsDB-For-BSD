@@ -1,0 +1,11 @@
+; Resident Evil 5 / Resident Evil 5 Gold Edition
+; BLUS30270
+;From Game Genie For PS3
+
+:DATA0.DAT
+
+[Max Money]
+200000E0 05F5E0FF
+
+[Max Points]
+200000E4 05F5E0FF

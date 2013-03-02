@@ -1,0 +1,116 @@
+[INFO: Same patches may not be supported by BSD yet]
+; Final Fantasy XIII
+; MRTC00003
+;From Game Genie For PS3
+
+:MRTC00003-*\APP.DAT
+
+[Max Money]
+200046B4 3B9AC9FF
+
+[Reset Save Time]
+20004724 00000000
+
+; --- Main Characters ---
+
+; --- Fang ---
+
+[Max CP]
+200246B1 3B9AC9FF
+
+[Max HP]
+200246BD 0001869F
+
+[Max ATB]
+200246C5 0000003C
+
+[Max Strength]
+200246CD 3B9AC9FF
+
+[Max Magic]
+200246D1 3B9AC9FF
+
+; --- Hope ---
+
+[Max CP]
+200261B1 3B9AC9FF
+
+[Max HP]
+200261BD 0001869F
+
+[Max ATB]
+200261C5 0000003C
+
+[Max Strength]
+200261CD 3B9AC9FF
+
+[Max Magic]
+200261D1 3B9AC9FF
+
+; --- Lightning ---
+
+[Max CP]
+20027CB1 3B9AC9FF
+
+[Max HP]
+20027CBD 0001869F
+
+[Max ATB]
+20027CC5 0000003C
+
+[Max Strength]
+20027CCD 3B9AC9FF
+
+[Max Magic]
+20027CD1 3B9AC9FF
+
+; --- Sazh ---
+
+[Max CP]
+20028A31 3B9AC9FF
+
+[Max HP]
+20028A3D 0001869F
+
+[Max ATB]
+20028A45 0000003C
+
+[Max Strength]
+20028A4D 3B9AC9FF
+
+[Max Magic]
+20028A51 3B9AC9FF
+
+; --- Snow ---
+
+[Max CP]
+2002A531 3B9AC9FF
+
+[Max HP]
+2002A53D 0001869F
+
+[Max ATB]
+2002A545 0000003C
+
+[Max Strength]
+2002A54D 3B9AC9FF
+
+[Max Magic]
+2002A551 3B9AC9FF
+
+; --- Vanille ---
+
+[Max CP]
+2002B2B1 3B9AC9FF
+
+[Max HP]
+2002B2BD 0001869F
+
+[Max ATB]
+2002B2C5 0000003C
+
+[Max Strength]
+2002B2CD 3B9AC9FF
+
+[Max Magic]
+2002B2D1 3B9AC9FF

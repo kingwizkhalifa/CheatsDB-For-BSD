@@ -1,0 +1,51 @@
+; Yakuza 4
+; BLUS30643
+;From Game Genie For PS3
+
+:BLUS30643F*\USERDATA
+
+:BLUS30643L*\USER01
+
+; --- Akiyama ---
+
+[Max Money]
+200082D4 3B9AC9FF
+
+[Max Eco Points]
+20008334 3B9AC9FF
+
+[Max Souls]
+0000589C 00000063
+
+; --- Kiryu ---
+
+[Max Money]
+200082D0 3B9AC9FF
+
+[Max Eco Points]
+20008330 3B9AC9FF
+
+[Max Souls]
+000057EC 00000063
+
+; --- Sajima ---
+
+[Max Money]
+200082D8 3B9AC9FF
+
+[Max Eco Points]
+20008338 3B9AC9FF
+
+[Max Souls]
+0000594C 00000063
+
+; --- Tanimura ---
+
+[Max Money]
+200082DC 3B9AC9FF
+
+[Max Eco Points]
+2000833C 3B9AC9FF
+
+[Max Souls]
+000059FC 00000063

@@ -1,0 +1,9 @@
+; Afro Samurai
+; BLUS30264
+;From Game Genie For PS3
+
+:AFRO_0.SAV
+
+[Unlock All Treasures]
+420000E4 01010101
+40130004 00000000

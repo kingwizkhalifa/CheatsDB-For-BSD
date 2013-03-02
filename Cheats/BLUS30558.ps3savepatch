@@ -1,0 +1,10 @@
+; Enslaved: Odyssey To The West
+; BLUS30558
+;From Game Genie For PS3
+
+:MAINSAVE
+
+; Do not use on Chapter 1.
+[Max Tech Orbs]
+80020004 494E5400
+2800002C 0098967F

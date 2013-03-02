@@ -1,0 +1,185 @@
+; Metal Gear Rising: Revengance  
+; BLES01750 
+;From Game Genie For PS3 & Skiller
+
+:BLES01750-SAVEDATA0\SAVEDATA 
+
+[Max HP]
+00002EF7 00000005
+
+;This Cheat gives you even more HP! If you have issues, revert to using the standard Max HP.
+[Super Max HP]
+00002EF7 00000064
+
+[Max BP]
+20002EF0 05F5E0FF
+
+[Unlock All Main Weapons]
+4000291A 00000003
+40070006 00000000
+
+[Unlock All Skills]
+410029AA 00000302
+400E0006 00000000
+
+[Unlock Ripper Mode]
+00002EEF 00000001
+
+[Reset Save Time]
+20002828 00000000
+
+[Main Weapons: Armor Breaker: Unlock Armor Breaker]
+00002926 00000003
+
+[Main Weapons: Armor Breaker: Max Attack Power]
+00002928 00000005
+
+[Main Weapons: Armor Breaker: Max Uptake Rate]
+00002929 00000005
+
+[Main Weapons: Armor Breaker: Max Energy Use]
+0000292A 00000005
+
+[Main Weapons: Armor Breaker: Max Special Effect]
+0000292B 00000005
+
+[Main Weapons: HF Blade: Unlock HF Blade]
+0000291A 00000003
+
+[Main Weapons: HF Blade: Max Attack Power]
+0000291C 00000005
+
+[Main Weapons: HF Blade: Max Uptake Rate]
+0000291D 00000005
+
+[Main Weapons: HF Blade: Max Energy Use]
+0000291E 00000005
+
+[Main Weapons: HF Blade: Max Special Effect]
+0000291F 00000005
+
+[Main Weapons: HF Long Sword: Unlock HF Long Sword]
+0000292C 00000003
+
+[Main Weapons: HF Long Sword: Max Attack Power]
+0000292E 00000005
+
+[Main Weapons: HF Long Sword: Max Uptake Rate]
+0000292F 00000005
+
+[Main Weapons: HF Long Sword: Max Energy Use]
+00002930 00000005
+
+[Main Weapons: HF Long Sword: Max Special Effect]
+00002931 00000005
+
+[Main Weapons: HF Machete: Unlock MF Machete]
+0000293E 00000003
+
+[Main Weapons: HF Machete: Max Attack Power]
+00002940 00000005
+
+[Main Weapons: HF Machete: Max Uptake Rate]
+00002941 00000005
+
+[Main Weapons: HF Machete: Max Energy Use]
+00002942 00000005
+
+[Main Weapons: HF Machete: Max Special Effect]
+00002943 00000005
+
+[Main Weapons: HF Murasaka: Unlock HF Murasake Blade]
+00002938 00000003
+
+[Main Weapons: HF Murasaka: Max Attack Power]
+0000293A 00000005
+
+[Main Weapons: HF Murasaka: Max Uptake Rate]
+0000293B 00000005
+
+[Main Weapons: HF Murasaka: Max Energy Use]
+0000293C 00000005
+
+[Main Weapons: HF Murasaka: Max Special Effect]
+0000293D 00000005
+
+[Main Weapons: Wooden Sword: Unlock HF Wooden Sword]
+00002932 00000003
+
+[Main Weapons: Wooden Sword: Max Attack Power]
+00002934 00000005
+
+[Main Weapons: Wooden Sword: Max Uptake Rate]
+00002935 00000005
+
+[Main Weapons: Wooden Sword: Max Energy Use]
+00002936 00000005
+
+[Main Weapons: Wooden Sword: Max Special Effect]
+00002937 00000005
+
+[Main Weapons: Stun Blade: Unlock Stun Blade]
+00002920 00000003
+
+[Main Weapons: Stun Blade: Max Attack Power]
+00002922 00000005
+
+[Main Weapons: Stun Blade: Max Uptake Rate]
+00002923 00000005
+
+[Main Weapons: Stun Blade: Max Energy Use]
+00002924 00000005
+
+[Main Weapons: Stun Blade: Max Special Effect]
+00002925 00000005
+
+[Unique Weapons: Princer Blades (Bloodlust): Unlock Princer Blades (Bloodlust)]
+1000295C 00000003
+
+[Unique Weapons: Princer Blades (Bloodlust): Max Strength]
+0000295E 00000005
+
+[Unique Weapons: Polearm (L´Etranger): Unlocke Polearm (L´Etranger)]
+00002950 00000003
+
+[Unique Weapons: Polearm (L´Etranger): Max Strength]
+00002952 00000005
+
+[Unique Weapons: Tactical Sai (Dystopia): Unlock Tactical Sai (Dystopia)]
+00002956 00000003
+
+[Unique Weapons: Tactical Sai (Dystopia): Max Strength ]
+00002958 00000005
+
+[Items: Max 3D Photo Frame]
+20002F18 00000005
+
+[Items: Max Cardboard Box]
+20002F1C 00000005
+
+[Items: Max Drum Can]
+20002F20 00000005
+
+[Items: Max Electrolyte Pack]
+20002F24 00000005
+
+[Items: Max Elecrtomagnetic Greande]
+20002F14 00000005
+
+[Items: Max Grenade]
+20002F08 00000005
+
+[Items: Max Homing Missle]
+20002F04 00000005
+
+[Items: Max Jamming Grenade]
+20002F10 00000005
+
+[Items: Max Red Phosphorus Grenade]
+20002F0C 00000005
+
+[Items: Max Repair Nodepaste]
+20002F28 00000005
+
+[Items: Max Rocket Launcher]
+20002F00 00000005
