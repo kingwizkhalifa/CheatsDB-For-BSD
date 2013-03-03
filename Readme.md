@@ -1,6 +1,12 @@
 ## Cheats Database For Bruteforce Save Data
 ===========================================
 
+Please use one of the folloing channels to report cheats(new/issues/updates).
+----------------------------------------------------------------------------
+1 - Post a reply at [http://www.ps3hax.net/showthread.php?t=52344]
+2 - Create a __New Issue__. Make sure that __GameID__ and __Game Name__ is stated in the __Title Field__.
+Note : __Please do not post comments in the commit sections.__
+
 ## Version History
 
 Version 0.15 (Mar 03, 2013) - 233
