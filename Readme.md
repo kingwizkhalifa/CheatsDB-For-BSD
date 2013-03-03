@@ -9,6 +9,10 @@ Please use the following channels to report cheats(new/issues/updates).
 
 ## Version History
 
+Version 0.16 (Mar 03, 2013) - 235
+- Added Gran Turismo 5 BCUS98114 // From GG
+- Added Gran Turismo 5 BCES00569 // From GG
+
 Version 0.15 (Mar 03, 2013) - 233
 - Added Tomb Raider BLES01780 // From GG
 
