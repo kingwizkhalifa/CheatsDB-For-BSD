@@ -2,10 +2,8 @@ Cheats Database For Bruteforce Save Data
 ========================================
 
 ## ps3hax.net + aldostools.org
-==============================
 
 ## Compiled by gingerbread
-==========================
 
 Please use the following channels to report cheats(new/issues/updates).
 -----------------------------------------------------------------------
