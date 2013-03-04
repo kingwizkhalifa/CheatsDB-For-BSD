@@ -9,7 +9,7 @@
 :BLUS30756-DATA-*\USERDATA.BIN
 ; dependency: CRC.BIN
 
-; [Max Evolution]
+[Max Evolution]
 200017C4 00269AD0
 
 [Unlock Mass]

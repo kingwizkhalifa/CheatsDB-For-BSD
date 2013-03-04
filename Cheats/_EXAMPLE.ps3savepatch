@@ -79,6 +79,32 @@ Otherwise the text is displayed in black
 4A000000 00000001
 402A0004 00000000
 
+;-- Using Labels and Groupings --
+group: -> The labels of patches that follow this label are grouped as child.
+default: -> The patch is checked by default.
+yellow: -> The label is displayed with yellow background.
+Other available colors are:
+cyan:
+blue:
+green:
+red:
+orange:
+gray:
+
+Example :
+
+[group:orange:Group #1]
+[default:Cheat 1]
+00000000 00000000
+
+[red:info:Cheat below does not work]
+
+[Cheat 2 (partial working)]
+00000000 00000000
+
+[Cheat 3 (not working)]
+00000000 00000000
+
 
 ;-- Using Hash, crc32, md5 commands for saves that has Dependency --
 Example 1:

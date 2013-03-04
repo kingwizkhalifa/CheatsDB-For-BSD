@@ -1,7 +1,13 @@
-## Cheats Database For Bruteforce Save Data
-===========================================
+Cheats Database For Bruteforce Save Data
+========================================
 
-## Version History
+Version History
+===============
+
+Version 0.17 (Mar 05, 2013) - 237
+- Added Dynasty Warriors 7 Empires BCUS50563 // From KE-HA
+- Added Dynasty Warriors 7 Empires BLES01796 // From KE-HA
+- Updated Example Format (_EXAMPLE.ps3savepatch)
 
 Version 0.16 (Mar 03, 2013) - 235
 - Added Gran Turismo 5 BCUS98114 // From GG
