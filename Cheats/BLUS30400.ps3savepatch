@@ -25,3 +25,16 @@
 80010004 F3C2E15D
 93000000 0000002E
 28000000 000003E8
+
+[Max Money]
+08A2C58E 47C2FC2A
+
+[Max Weapon Parts]
+17EDC7C1 E93E6589
+
+[Max Vehicle Parts]
+5B0396FC 9E047C09
+
+; Unlocks all weapons and vehicles.
+[Max Chaos]
+27313460 B1916A52

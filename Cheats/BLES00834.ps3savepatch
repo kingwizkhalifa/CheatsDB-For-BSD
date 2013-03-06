@@ -1,10 +1,10 @@
 [INFO: Same patches may not be supported by BSD yet]
 ; Yakuza 3
-; BLUS30494
+; BLES00834
 ;From Game Genie For PS3
 
-:BLUS30494L*\USER01
-:BLUS30494F\USERDATA
+:BLES00834*\USER01
+:BLES00834F\USERDATA
 
 [Max Money (Not Working)]
 20007CA8 3B9AC9FF
@@ -26,7 +26,7 @@
 2C08475E F8DA1165
 
 [Reset Game Save Time]
-54D2B970 FBB395CC
+2DAEA679 372A8C23
 
 [Amount of times Saved 0]
 2D465955 2303469A
