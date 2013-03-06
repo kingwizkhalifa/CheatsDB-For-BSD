@@ -3,7 +3,7 @@
 ; BLES00834
 ;From Game Genie For PS3
 
-:BLES00834*\USER01
+:BLES00834L*\USER01
 :BLES00834F\USERDATA
 
 [Max Money (Not Working)]
@@ -18,15 +18,3 @@
 
 [Amount of times Saved 0 (Not Working)]
 20007E00 00000000
-
-[Max Money]
-44E7C6B4 454B4D99
-
-[Max Exp]
-2C08475E F8DA1165
-
-[Reset Game Save Time]
-2DAEA679 372A8C23
-
-[Amount of times Saved 0]
-2D465955 2303469A

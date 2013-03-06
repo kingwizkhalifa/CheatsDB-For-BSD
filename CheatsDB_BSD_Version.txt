@@ -4,6 +4,17 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.19 (Mar 07, 2013) - 243
+- Added Naruto Shippuden: Ultimate Ninja Storm 3 BLUS31066 // From KE-HA
+- Added Naruto Shippuden: Ultimate Ninja Storm 3 BLAS50577 // From KE-HA
+- Added Naruto Shippuden: Ultimate Ninja Storm 3 BLJS10200 // From KE-HA
+- Added Atelier Ayesha: The Alchemist of Dusk BLUS31152 // From KE-HA
+- Updated inFamous BCES00609 // From GG
+- Updated Just Cause 2 BLUS30400 // From GG
+- Updated Just Cause 2 BLES00517 // From GG
+- Updated Yakuza 3 BLUS30494 // From GG
+- Updated Yakuza 3 BLES00834 // From GG
+
 Version 0.18 (Mar 06, 2013) - 239
 - Added inFamous BCES00609 // From GG
 - Added Yakuza 3 BLES00834 // From GG
