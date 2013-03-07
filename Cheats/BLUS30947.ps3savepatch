@@ -1,6 +1,6 @@
 [INFO: Same patches may not be supported by BSD yet]
-;Ni No Kuni: Wrath Of The White Witch
-;BLUS30947
+; Ni No Kuni: Wrath Of The White Witch
+; BLUS30947
 ;From Game Genie For PS3
 
 :BLUS30947_*\SYS-DATA
@@ -29,14 +29,15 @@
 
 [Lots Of Battles]
 20004554 000007CC
+; type: none
 
 [Max Stamps]
 1000067C 00000226
 
-;--- Items ---
+; --- Items ---
+; type: none
 
-;WARNING! These cheats will delete ALL YOUR ITEMS. If in doubt, back up your save first. To use, you must turn on this cheat and then activate the Important Items you already own. Turning on Important Items you do not have will either fail or cause side effects.
-[All Main Items]
+; WARNING! These cheats will delete ALL YOUR ITEMS. If in doubt, back up your save first. To use, you must turn on this cheat and then activate the Important Items you already own. Turning on Important Items you do not have will either fail or cause side effects.<title>All Main Items</title>
 42007D0E 00000060
 401B0010 00010000
 42007EBE 00000060
@@ -475,722 +476,605 @@
 200096B8 7AF97B63
 200096C8 064CE511
 
-;--- Important Items ---
+; --- Important Items ---
 
 [Alicia's Pendant]
 A00097A4 00000010
 01B1001C 04F62656
 0000001B 00010000
 
-
 [Astra]
 A00097B4 00000010
 05680057 50495EC7
 00000056 00010000
-
 
 [Bard's Harp]
 A00097C4 00000010
 05C8005D 14A656AF
 0000005C 00010000
 
-
 [Bathing Raiment]
 A00097D4 00000010
 07480075 69847336
 00000074 00010000
-
 
 [Bathing Suit (Oliver)]
 A00097E4 00000010
 06480065 E6E6E461
 00000064 00010000
 
-
 [Bathing Suit (Esther)]
 A00097F4 00000010
 06880069 F4534B8F
 00000068 00010000
-
 
 [Bathing Suit (Swaine)]
 A0009804 00000010
 06C8006D 4CEF2CEA
 0000006C 00010000
 
-
 [Bathing Suit (Drippy)]
 A0009814 00000010
 07080071 D1381453
 00000070 00010000
-
 
 [Blossom Of The Bard]
 A0009824 00000010
 02310024 B4174E9E
 00000023 00010000
 
-
 [Brand-new Booster]
 A0009834 00000010
 03810039 F02887AF
 00000038 00010000
-
 
 [Broken Booster]
 A0009844 00000010
 03710038 202856D1
 00000037 00010000
 
-
 [Bronze Ticket]
 A0009854 00000010
 00D1000E 023DE4BD
 0000000D 00010000
-
 
 [Cad's Cannon]
 A0009864 00000010
 06080061 B501008B
 00000060 00010000
 
-
 [Cad's Clasp]
 A0009874 00000010
 02610027 609AE352
 00000026 00010000
-
 
 [Carved Holy Wood]
 A0009884 00000010
 0191001A 7CCEC496
 00000019 00010000
 
-
 [Cat's Whiskers]
 A0009894 00000010
 03C1003D 944442AB
 0000003C 00010000
-
 
 [Cauldron]
 A00098A4 00000010
 00610007 B651F0C7
 00000006 00010000
 
-
 [Cherub's Wing]
 A00098B4 00000010
 02110022 2A946310
 00000021 00010000
-
 
 [Cold Compress]
 A00098C4 00000010
 03B1003C DB05D46C
 0000003B 00010000
 
-
 [Dinoceros Ticket]
 A00098D4 00000010
 04610047 C87211B5
 00000046 00040000
-
 
 [Draggle Ticket]
 A00098E4 00000010
 04A1004B AC1ED4B1
 0000004A 00040000
 
-
 [Dragon Horn]
 A00098F4 00000010
 01110012 4F3ACC23
 00000011 00010000
-
 
 [Drongo Ticket]
 A0009904 00000010
 04C1004D 329DF93F
 0000004C 00040000
 
-
 [Esther's Clothes]
 A0009914 00000010
 06780068 FC8BD8DC
 00000067 00010000
-
 
 [Fairy Suit]
 A0009924 00000010
 06F80070 D9E08700
 0000006F 00010000
 
-
 [Feel-good Fungus]
 A0009934 00000010
 03610037 39336790
 00000036 00010000
-
 
 [Flower Of Faith]
 A0009944 00000010
 01D1001E 57E39755
 0000001D 00010000
 
-
 [Flower Of Hope]
 A0009954 00000010
 01E1001F 18A20192
 0000001E 00010000
-
 
 [Flower Of Youth]
 A0009964 00000010
 01C1001D 4EF8A614
 0000001C 00010000
 
-
 [Flutterby Tickets]
 A0009974 00000010
 04F10050 D0AB4AC3
 0000004F 00040000
-
 
 [Furry Suit]
 A0009984 00000010
 07280073 E30E76D1
 00000072 00010000
 
-
 [Giant Cheese Wedge]
 A0009994 00000010
 00710008 AF4AC186
 00000007 00010000
-
 
 [Golden Ticket]
 A00099A4 00000010
 00F10010 300B863F
 0000000F 00010000
 
-
 [Griff Tickets]
 A0009794 00000010
 07610077 C9B07B82
 00000076 00010000
-
 
 [Gyro-Grappler]
 A00099B4 00000010
 02510026 7981D213
 00000025 00010000
 
-
 [Hamelin Armor (Standard)]
 A00099C4 00000010
 06580066 E7248E56
 00000065 00010000
-
 
 [Hamelin Armor (Female)]
 A00099D4 00000010
 0698006A F59121B8
 00000069 00010000
 
-
 [Hamelin Armor (Large)]
 A00099E4 00000010
 06D8006E 4D2D46DD
 0000006D 00010000
-
 
 [Hamelin Armor (Full Body)]
 A00099F4 00000010
 07180072 D0FA7E64
 00000071 00010000
 
-
 [Heart Of The Muse]
 A0009A04 00000010
 02210023 338F5251
 00000022 00010000
-
 
 [Heart-Winning Harp]
 A0009A14 00000010
 0598005A 5BE7C068
 00000059 00010000
 
-
 [Herald's Harp]
 A0009A24 00000010
 05A8005B 42FCF129
 0000005A 00010000
-
 
 [Highwayman's Handgun]
 A0009A34 00000010
 05F80060 FA40964C
 0000005F 00010000
 
-
 [Hog's Cog]
 A0009A44 00000010
 02410025 AD0C7FDF
 00000024 00010000
-
 
 [Holy Wood]
 A0009A54 00000010
 01810019 ACCE15E8
 00000018 00010000
 
-
 [Hometown Flower]
 A0009A64 00000010
 03A1003B C21EE52D
 0000003A 00010000
-
 
 [Hurly Ticket]
 A0009A74 00000010
 04D1004E E29D2841
 0000004D 00010000
 
-
 [Idler Ticket]
 A0009A84 00000010
 04710048 87338772
 00000047 00010000
-
 
 [Imperial Scepter]
 A0009A94 00000010
 05580056 55A1CC77
 00000055 00010000
 
-
 [Letter Of Passage]
 A0009AA4 00000010
 0091000A 665121B9
 00000009 00010000
-
 
 [Locket]
 A0009AB4 00000010
 00110002 4CBE184D
 00000001 00010000
 
-
 [Lover's Lunch Basket]
 A0009AC4 00000010
 03010031 C3DC8F1A
 00000030 00010000
-
 
 [Lumberwood Ticket]
 A0009AD4 00000010
 04410045 FA447337
 00000044 00040000
 
-
 [Magic Wand]
 A0009AE4 00000010
 05280053 7B640D04
 00000052 00010000
-
 
 [Mandragorer Ticket]
 A0009AF4 00000010
 0491004A B505E5F0
 00000049 00040000
 
-
 [Map Of The Stones]
 A0009B04 00000010
 01210013 5621FD62
 00000012 00010000
-
 
 [Masterthief's Magnum]
 A0009B14 00000010
 06180062 AC1A31CA
 00000061 00010000
 
-
 [Mirror Of Truth]
 A0009B24 00000010
 02810029 55A5290C
 00000028 00010000
-
 
 [Mite Ticket]
 A0009B34 00000010
 04B1004C 2B86C87E
 0000004B 00040000
 
-
 [Moon Stone]
 A0009B44 00000010
 01610017 324D3866
 00000016 00010000
-
 
 [Mornstar]
 A0009B54 00000010
 05380054 627F3C45
 00000053 00010000
 
-
 [Mornstar (Upgraded)]
 A0009B64 00000010
 05480055 1BA384E1
 00000054 00010000
-
 
 [Muse's Harp]
 A0009B74 00000010
 05B8005C 0DBD67EE
 0000005B 00010000
 
-
 [Name Tag]
 A0009B84 00000010
 01F10020 1DED1717
 0000001F 00010000
-
 
 [Old Stick]
 A0009B94 00000010
 05080051 49526F86
 00000050 00010000
 
-
 [Oliver's Clothes]
 A0009BB4 00000010
 06280063 E8F5B5D9
 00000062 00010000
-
 
 [Peculiar Pot]
 A0009BC4 00000010
 00510006 31C9EC08
 00000005 00010000
 
-
 [Philmobile Key]
 A0009BD4 00000010
 02010021 01B930D3
 00000020 00010000
-
 
 [Pickpocket's Pistol]
 A0009BE4 00000010
 05D8005E C876F4CE
 0000005D 00010000
 
-
 [Piece Of Art]
 A0009BF4 00000010
 00A1000B 4D7C727A
 0000000A 00010000
-
 
 [Platinum Ticket]
 A0009C04 00000010
 01010011 B7939AF0
 00000010 00010000
 
-
 [Portrait]
 A0009C14 00000010
 00810009 7F4A10F8
 00000008 00010000
-
 
 [Proof Of Friendship]
 A0009C24 00000010
 00310004 03FF8E8A
 00000003 00010000
 
-
 [Proof Of Strength]
 A0009C34 00000010
 00410005 28D2DD49
 00000004 00010000
-
 
 [Proof Of Wits]
 A0009C44 00000010
 00210003 1AE4BFCB
 00000002 00010000
 
-
 [Rainbow Leaf]
 A0009C54 00000010
 03410035 A7B04A1E
 00000034 00030000
-
 
 [Red Earring]
 A0009C64 00000010
 02F10030 E8F1DCD9
 0000002F 00010000
 
-
 [Regal Attire]
 A0009C74 00000010
 07380074 615CE065
 00000073 00010000
-
 
 [Relixx Ticket]
 A0009C84 00000010
 04510046 D16920F4
 00000045 00040000
 
-
 [Riddle Rivet]
 A0009C94 00000010
 02710028 4BB7B091
 00000027 00010000
-
 
 [RIP Pass]
 A0009CA4 00000010
 00C1000D 1B26D5FC
 0000000C 00010000
 
-
 [Rogue's Revolver]
 A0009CB4 00000010
 05E8005F E35BA70D
 0000005E 00010000
-
 
 [Sapdragon Ticket]
 A0009CC4 00000010
 04E1004F FB861900
 0000004E 00040000
 
-
 [Serpent Key]
 A0009CD4 00000010
 01310014 19606BA5
 00000013 00010000
-
 
 [Shabby Coat]
 A0009CE4 00000010
 06B8006C 4437BFB9
 0000006B 00010000
 
-
 [Sheikh's Special Spices]
 A0009CF4 00000010
 03310034 8C9D19DD
 00000033 00010000
-
 
 [Silver Ticket]
 A0009D04 00000010
 00E1000F 2910B77E
 0000000E 00010000
 
-
 [Skeleton Key]
 A0009D14 00000010
 00B1000C 5467433B
 0000000B 00010000
-
 
 [Sky Tree Wand]
 A0009D24 00000010
 05780058 0613F941
 00000057 00010000
 
-
 [Slapstick]
 A0009D34 00000010
 03510036 BEAB7B5F
 00000035 00030000
-
 
 [Snazzy Swimsuit]
 A0009D44 00000010
 0391003A E933B6EE
 00000039 00010000
 
-
 [Spicy Seeds]
 A0009D54 00000010
 03210033 9586289C
 00000032 00030000
-
 
 [Spirit Of The Flame]
 A0009D64 00000010
 02C1002D 818F00F5
 0000002C 00010000
 
-
 [Spirit Of The Glade]
 A0009D74 00000010
 02A1002B 2D3A4FF9
 0000002A 00010000
-
 
 [Spirit Of The Snow]
 A0009D84 00000010
 02E1002F 7AA28248
 0000002E 00010000
 
-
 [Spirit Of The Storm]
 A0009D94 00000010
 02D1002E 4894E0CA
 0000002D 00010000
-
 
 [Spirit Of The Temple]
 A0009DA4 00000010
 02B1002C 1F0C2D7B
 0000002B 00010000
 
-
 [Spirit Of The Woods]
 A0009DB4 00000010
 0291002A 7B60E87F
 00000029 00010000
-
 
 [Star Stone]
 A0009DC4 00000010
 01510016 2B560927
 00000015 00010000
 
-
 [Sun Stone]
 A0009DD4 00000010
 01410015 007B5AE4
 00000014 00010000
-
 
 [The Clarion]
 A0009DE4 00000010
 01A1001B 65D5F5D7
 0000001A 00010000
 
-
 [The Wizard's Companion]
 A0009784 00000010
 00010001 67934B8E
 00000000 00010000
-
 
 [Timeworn Harp]
 A0009DF4 00000010
 05880059 70CA93AB
 00000058 00010000
 
-
 [Tin-Man Ticket]
 A0009E04 00000010
 04810049 9E28B633
 00000048 00040000
-
 
 [Traveler's Clothes]
 A0009E14 00000010
 06380064 EE3E7732
 00000063 00010000
 
-
 [Traveler's Diary (Ding Dong Dell)]
 A0009E24 00000010
 04310044 EB7508B7
 00000043 00010000
-
 
 [Traveler's Diary (Nazcaa)]
 A0009E34 00000010
 04210043 F26E39F6
 00000042 00010000
 
-
 [Traveler's Diary (Old Smoky)]
 A0009E44 00000010
 03E1003F A6722029
 0000003E 00010000
-
 
 [Traveler's Diary (Pig Iron Plain)]
 A0009E54 00000010
 04010041 38F10DA7
 00000040 00010000
 
-
 [Traveler's Diary (Rolling Hills)]
 A0009E64 00000010
 03D1003E 8D5F73EA
 0000003D 00010000
-
 
 [Traveler's Diary (Teeheeti)]
 A0009E74 00000010
 03F10040 BF691168
 0000003F 00010000
 
-
 [Traveler's Diary (Winter Wonderland)]
 A0009E84 00000010
 04110042 21EA3CE6
 00000041 00010000
-
 
 [Turmeric Root]
 A0009E94 00000010
 03110032 DAC7BE5B
 00000031 00010000
 
-
 [Wingds Of Xanadu]
 A0009EA4 00000010
 01710018 B5D524A9
 00000017 00010000
-
 
 [Winter Clothes (Blue)]
 A0009EB4 00000010
 06680067 D4D086E3
 00000066 00010000
 
-
 [Winter Clothes (Pink)]
 A0009EC4 00000010
 06A8006B C665290D
 0000006A 00010000
 
-
 [Winter Clothes (Green)]
 A0009ED4 00000010
 06E8006F 7ED94E68
 0000006E 00010000
-
+; type: none
 
 [Winter Vestments]
 A0009EE4 00000010
 07580076 5BB211B4
 00000075 00010000
 
+; --- Main Characters ---
+; type: none
 
-;--- Main Characters ---
+; --- Oliver ---
 
-;--- Oliver ---
-
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 8EFE45EC
 28000024 05F5E0FF
 
@@ -1227,15 +1111,15 @@ Level up to the next available level.
 [Max Accuracy]
 80010004 8EFE45EC
 1800003A 000003E7
+; type: none
 
 [Max Evasion]
 80010004 8EFE45EC
 1800003C 000003E7
 
-;--- Drippy ---
+; --- Drippy ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 BFEB7735
 28000024 05F5E0FF
 
@@ -1272,15 +1156,15 @@ Level up to the next available level.
 [Max Accuracy]
 80010004 BFEB7735
 1800003A 000003E7
+; type: none
 
 [Max Evasion]
 80010004 BFEB7735
 1800003C 000003E7
 
-;--- Esther ---
+; --- Esther ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9A8028E9
 28000024 05F5E0FF
 
@@ -1317,15 +1201,15 @@ Level up to the next available level.
 [Max Accuracy]
 80010004 9A8028E9
 1800003A 000003E7
+; type: none
 
 [Max Evasion]
 80010004 9A8028E9
 1800003C 000003E7
 
-;--- Gascon ---
+; --- Gascon ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 49F5EFD7
 28000024 05F5E0FF
 
@@ -1362,15 +1246,15 @@ Level up to the next available level.
 [Max Accuracy]
 80010004 49F5EFD7
 1800003A 000003E7
+; type: none
 
 [Max Evasion]
 80010004 49F5EFD7
 1800003C 000003E7
 
-;--- Marcassin (Kid) ---
+; --- Marcassin (Kid) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 07571050
 28000024 05F5E0FF
 
@@ -1407,15 +1291,15 @@ Level up to the next available level.
 [Max Accuracy]
 80010004 07571050
 1800003A 000003E7
+; type: none
 
 [Max Evasion]
 80010004 07571050
 1800003C 000003E7
 
-;--- Marcassin ---
+; --- Marcassin ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F14988B2
 28000024 05F5E0FF
 
@@ -1452,15 +1336,15 @@ Level up to the next available level.
 [Max Accuracy]
 80010004 F14988B2
 1800003A 000003E7
+; type: none
 
 [Max Evasion]
 80010004 F14988B2
 1800003C 000003E7
 
-;--- Pea ---
+; --- Pea ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 DDEE2C53
 28000024 05F5E0FF
 
@@ -1497,15 +1381,15 @@ Level up to the next available level.
 [Max Accuracy]
 80010004 DDEE2C53
 1800003A 000003E7
+; type: none
 
 [Max Evasion]
 80010004 DDEE2C53
 1800003C 000003E7
 
-;--- Rashaad ---
+; --- Rashaad ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 DEBE6C1B
 28000024 05F5E0FF
 
@@ -1542,15 +1426,15 @@ Level up to the next available level.
 [Max Accuracy]
 80010004 DEBE6C1B
 1800003A 000003E7
+; type: none
 
 [Max Evasion]
 80010004 DEBE6C1B
 1800003C 000003E7
 
-;--- Swaine ---
+; --- Swaine ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 223C4F8C
 28000024 05F5E0FF
 
@@ -1587,17 +1471,18 @@ Level up to the next available level.
 [Max Accuracy]
 80010004 223C4F8C
 1800003A 000003E7
+; type: none
 
 [Max Evasion]
 80010004 223C4F8C
 1800003C 000003E7
 
-;--- Familiars ---
+; --- Familiars ---
+; type: none
 
-;--- Acee ---
+; --- Acee ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 683ACCEA
 28000024 05F5E0FF
 
@@ -1642,15 +1527,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 683ACCEA
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 683ACCEA
 180000F8 00000000
 
-;--- Adamantiger ---
+; --- Adamantiger ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 7A8F6304
 28000024 05F5E0FF
 
@@ -1695,15 +1580,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 7A8F6304
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 7A8F6304
 180000F8 00000000
 
-;--- Airhead ---
+; --- Airhead ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 25CAE55A
 28000024 05F5E0FF
 
@@ -1748,15 +1633,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 25CAE55A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 25CAE55A
 180000F8 00000000
 
-;--- All-Seeing Idler ---
+; --- All-Seeing Idler ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 6CDC4B62
 28000024 05F5E0FF
 
@@ -1801,15 +1686,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 6CDC4B62
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 6CDC4B62
 180000F8 00000000
 
-;--- Angelixx ---
+; --- Angelixx ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0859DD5D
 28000024 05F5E0FF
 
@@ -1854,15 +1739,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0859DD5D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0859DD5D
 180000F8 00000000
 
-;--- Astralynx ---
+; --- Astralynx ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0E53AB80
 28000024 05F5E0FF
 
@@ -1907,15 +1792,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0E53AB80
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0E53AB80
 180000F8 00000000
 
-;--- Auric Collum ---
+; --- Auric Collum ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 462D2083
 28000024 05F5E0FF
 
@@ -1960,15 +1845,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 462D2083
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 462D2083
 180000F8 00000000
 
-;--- Auroralynx ---
+; --- Auroralynx ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0DD77FEE
 28000024 05F5E0FF
 
@@ -2013,15 +1898,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0DD77FEE
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0DD77FEE
 180000F8 00000000
 
-;--- Aye-Aye Catcher ---
+; --- Aye-Aye Catcher ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 96E4BB68
 28000024 05F5E0FF
 
@@ -2066,15 +1951,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 96E4BB68
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 96E4BB68
 180000F8 00000000
 
-;--- Aye-Aye Sir ---
+; --- Aye-Aye Sir ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9726D15F
 28000024 05F5E0FF
 
@@ -2119,15 +2004,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 9726D15F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 9726D15F
 180000F8 00000000
 
-;--- Baabarian ---
+; --- Baabarian ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 DB36F02F
 28000024 05F5E0FF
 
@@ -2172,15 +2057,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 DB36F02F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 DB36F02F
 180000F8 00000000
 
-;--- Baabie ---
+; --- Baabie ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 D9704E76
 28000024 05F5E0FF
 
@@ -2225,15 +2110,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 D9704E76
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 D9704E76
 180000F8 00000000
 
-;--- Baarndancer ---
+; --- Baarndancer ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 D8B22441
 28000024 05F5E0FF
 
@@ -2278,15 +2163,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 D8B22441
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 D8B22441
 180000F8 00000000
 
-;--- Baatender ---
+; --- Baatender ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 DAF49A18
 28000024 05F5E0FF
 
@@ -2331,15 +2216,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 DAF49A18
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 DAF49A18
 180000F8 00000000
 
-;--- Baddy-Daddy ---
+; --- Baddy-Daddy ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 7C8515D9
 28000024 05F5E0FF
 
@@ -2384,15 +2269,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 7C8515D9
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 7C8515D9
 180000F8 00000000
 
-;--- Balloonatic ---
+; --- Balloonatic ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 CE6921DC
 28000024 05F5E0FF
 
@@ -2437,15 +2322,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 CE6921DC
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 CE6921DC
 180000F8 00000000
 
-;--- Batterhorn ---
+; --- Batterhorn ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 BC737790
 28000024 05F5E0FF
 
@@ -2490,15 +2375,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 BC737790
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 BC737790
 180000F8 00000000
 
-;--- Beachhead ---
+; --- Beachhead ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 24088F6D
 28000024 05F5E0FF
 
@@ -2543,15 +2428,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 24088F6D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 24088F6D
 180000F8 00000000
 
-;--- Beam-Man ---
+; --- Beam-Man ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 782757BF
 28000024 05F5E0FF
 
@@ -2596,15 +2481,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 782757BF
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 782757BF
 180000F8 00000000
 
-;--- Beam-Man (Gold Version) ---
+; --- Beam-Man (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 48C5DBC9
 28000024 05F5E0FF
 
@@ -2649,15 +2534,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 48C5DBC9
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 48C5DBC9
 180000F8 00000000
 
-;--- Bedraggle (Gold Version) ---
+; --- Bedraggle (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 BAAF0314
 28000024 05F5E0FF
 
@@ -2702,15 +2587,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 BAAF0314
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 BAAF0314
 180000F8 00000000
 
-;--- Bedreggle ---
+; --- Bedreggle ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 BA5B63BA
 28000024 05F5E0FF
 
@@ -2755,15 +2640,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 BA5B63BA
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 BA5B63BA
 180000F8 00000000
 
-;--- Big Bopper (Gold Version) ---
+; --- Big Bopper (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 AB9E7894
 28000024 05F5E0FF
 
@@ -2808,15 +2693,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 AB9E7894
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 AB9E7894
 180000F8 00000000
 
-;--- Big Bopper ---
+; --- Big Bopper ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3C03F901
 28000024 05F5E0FF
 
@@ -2861,15 +2746,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3C03F901
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3C03F901
 180000F8 00000000
 
-;--- Big Daddy ---
+; --- Big Daddy ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 7F01C1B7
 28000024 05F5E0FF
 
@@ -2914,15 +2799,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 7F01C1B7
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 7F01C1B7
 180000F8 00000000
 
-;--- Bigger_Boggle ---
+; --- Bigger_Boggle ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9FFCD473
 28000024 05F5E0FF
 
@@ -2967,15 +2852,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 9FFCD473
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 9FFCD473
 180000F8 00000000
 
-;--- Bighorn ---
+; --- Bighorn ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 BE35C9C9
 28000024 05F5E0FF
 
@@ -3020,15 +2905,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 BE35C9C9
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 BE35C9C9
 180000F8 00000000
 
-;--- Blessy Plessie ---
+; --- Blessy Plessie ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 E69A318A
 28000024 05F5E0FF
 
@@ -3073,15 +2958,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 E69A318A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 E69A318A
 180000F8 00000000
 
-;--- Blubber Bubbler ---
+; --- Blubber Bubbler ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9CB4E808
 28000024 05F5E0FF
 
@@ -3126,15 +3011,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 9CB4E808
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 9CB4E808
 180000F8 00000000
 
-;--- Boggly-boo ---
+; --- Boggly-boo ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9E3EBE44
 28000024 05F5E0FF
 
@@ -3179,15 +3064,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 9E3EBE44
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 9E3EBE44
 180000F8 00000000
 
-;--- Bone Baron ---
+; --- Bone Baron ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 CDA9305C
 28000024 05F5E0FF
 
@@ -3232,15 +3117,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 CDA9305C
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 CDA9305C
 180000F8 00000000
 
-;--- Bone Brigadier ---
+; --- Bone Brigadier ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 CC6B5A6B
 28000024 05F5E0FF
 
@@ -3285,15 +3170,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 CC6B5A6B
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 CC6B5A6B
 180000F8 00000000
 
-;--- Bone Ranger ---
+; --- Bone Ranger ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 CE2DE432
 28000024 05F5E0FF
 
@@ -3338,15 +3223,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 CE2DE432
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 CE2DE432
 180000F8 00000000
 
-;--- BoneHead ---
+; --- BoneHead ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 CFEF8E05
 28000024 05F5E0FF
 
@@ -3391,15 +3276,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 CFEF8E05
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 CFEF8E05
 180000F8 00000000
 
-;--- Boo-bougie ---
+; --- Boo-bougie ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B3430CA1
 28000024 05F5E0FF
 
@@ -3444,15 +3329,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B3430CA1
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B3430CA1
 180000F8 00000000
 
-;--- Bougie-Woogie ---
+; --- Bougie-Woogie ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B105B2F8
 28000024 05F5E0FF
 
@@ -3497,15 +3382,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B105B2F8
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B105B2F8
 180000F8 00000000
 
-;--- Bougie ---
+; --- Bougie ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B2816696
 28000024 05F5E0FF
 
@@ -3550,15 +3435,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B2816696
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B2816696
 180000F8 00000000
 
-;--- Bougieman ---
+; --- Bougieman ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B0C7D8CF
 28000024 05F5E0FF
 
@@ -3603,15 +3488,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B0C7D8CF
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B0C7D8CF
 180000F8 00000000
 
-;--- Bubbud ---
+; --- Bubbud ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 C537F09E
 28000024 05F5E0FF
 
@@ -3656,15 +3541,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 C537F09E
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 C537F09E
 180000F8 00000000
 
-;--- Burly Hurly ---
+; --- Burly Hurly ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 8145B81E
 28000024 05F5E0FF
 
@@ -3709,15 +3594,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 8145B81E
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 8145B81E
 180000F8 00000000
 
-;--- Burly Hurly (Gold Version) ---
+; --- Burly Hurly (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9C4088A6
 28000024 05F5E0FF
 
@@ -3762,15 +3647,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 9C4088A6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 9C4088A6
 180000F8 00000000
 
-;--- Bushido Bantam ---
+; --- Bushido Bantam ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 E8C26F80
 28000024 05F5E0FF
 
@@ -3815,15 +3700,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 E8C26F80
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 E8C26F80
 180000F8 00000000
 
-;--- Cap'n Zombo ---
+; --- Cap'n Zombo ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 825B625B
 28000024 05F5E0FF
 
@@ -3868,15 +3753,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 825B625B
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 825B625B
 180000F8 00000000
 
-;--- Captain Whamtastic ---
+; --- Captain Whamtastic ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F08DDC02
 28000024 05F5E0FF
 
@@ -3921,15 +3806,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F08DDC02
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F08DDC02
 180000F8 00000000
 
-;--- Catastrocetos ---
+; --- Catastrocetos ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3671C896
 28000024 05F5E0FF
 
@@ -3974,15 +3859,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3671C896
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3671C896
 180000F8 00000000
 
-;--- Celestius Primus ---
+; --- Celestius Primus ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 873B4A0A
 28000024 05F5E0FF
 
@@ -4027,15 +3912,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 873B4A0A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 873B4A0A
 180000F8 00000000
 
-;--- Chloroboro ---
+; --- Chloroboro ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 638A974A
 28000024 05F5E0FF
 
@@ -4080,15 +3965,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 638A974A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 638A974A
 180000F8 00000000
 
-;--- Clanketyclank DX ---
+; --- Clanketyclank DX ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 57F2D1E1
 28000024 05F5E0FF
 
@@ -4133,15 +4018,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 57F2D1E1
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 57F2D1E1
 180000F8 00000000
 
-;--- Clanketyclank LX ---
+; --- Clanketyclank LX ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 5630BBD6
 28000024 05F5E0FF
 
@@ -4186,15 +4071,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 5630BBD6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 5630BBD6
 180000F8 00000000
 
-;--- ClapTrap ---
+; --- ClapTrap ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 2D10E076
 28000024 05F5E0FF
 
@@ -4239,15 +4124,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 2D10E076
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 2D10E076
 180000F8 00000000
 
-;--- Clinketyclank Mk.2 ---
+; --- Clinketyclank Mk.2 ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 5476058F
 28000024 05F5E0FF
 
@@ -4292,15 +4177,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 5476058F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 5476058F
 180000F8 00000000
 
-;--- Clinketyclank ---
+; --- Clinketyclank ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 55B46FB8
 28000024 05F5E0FF
 
@@ -4345,15 +4230,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 55B46FB8
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 55B46FB8
 180000F8 00000000
 
-;--- Clubber Cub ---
+; --- Clubber Cub ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 790BB76A
 28000024 05F5E0FF
 
@@ -4398,15 +4283,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 790BB76A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 790BB76A
 180000F8 00000000
 
-;--- Cogdenser ---
+; --- Cogdenser ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1ACE1044
 28000024 05F5E0FF
 
@@ -4451,15 +4336,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1ACE1044
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1ACE1044
 180000F8 00000000
 
-;--- Collum ---
+; --- Collum ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 446B9EDA
 28000024 05F5E0FF
 
@@ -4504,15 +4389,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 446B9EDA
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 446B9EDA
 180000F8 00000000
 
-;--- Crackpot ---
+; --- Crackpot ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B6EFCCE5
 28000024 05F5E0FF
 
@@ -4557,15 +4442,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B6EFCCE5
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B6EFCCE5
 180000F8 00000000
 
-;--- Crashing Boar ---
+; --- Crashing Boar ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 8355E079
 28000024 05F5E0FF
 
@@ -4610,15 +4495,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 8355E079
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 8355E079
 180000F8 00000000
 
-;--- Crowhawk ---
+; --- Crowhawk ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 FF9FC5C4
 28000024 05F5E0FF
 
@@ -4663,15 +4548,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 FF9FC5C4
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 FF9FC5C4
 180000F8 00000000
 
-;--- Cutpurrse ---
+; --- Cutpurrse ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 76D546B9
 28000024 05F5E0FF
 
@@ -4716,15 +4601,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 76D546B9
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 76D546B9
 180000F8 00000000
 
-;--- Danglerfish ---
+; --- Danglerfish ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 5F28D4CD
 28000024 05F5E0FF
 
@@ -4769,15 +4654,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 5F28D4CD
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 5F28D4CD
 180000F8 00000000
 
-;--- Dayglo ---
+; --- Dayglo ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 5D6E6A94
 28000024 05F5E0FF
 
@@ -4822,15 +4707,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 5D6E6A94
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 5D6E6A94
 180000F8 00000000
 
-;--- Deecee ---
+; --- Deecee ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 69F8A6DD
 28000024 05F5E0FF
 
@@ -4875,15 +4760,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 69F8A6DD
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 69F8A6DD
 180000F8 00000000
 
-;--- Deep Fry ---
+; --- Deep Fry ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3F69A78D
 28000024 05F5E0FF
 
@@ -4928,15 +4813,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3F69A78D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3F69A78D
 180000F8 00000000
 
-;--- Demoliceros ---
+; --- Demoliceros ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 37B3A2A1
 28000024 05F5E0FF
 
@@ -4981,15 +4866,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 37B3A2A1
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 37B3A2A1
 180000F8 00000000
 
-;--- Destroceros ---
+; --- Destroceros ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 35F51CF8
 28000024 05F5E0FF
 
@@ -5034,15 +4919,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 35F51CF8
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 35F51CF8
 180000F8 00000000
 
-;--- Dinkey ---
+; --- Dinkey ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 12141568
 28000024 05F5E0FF
 
@@ -5087,15 +4972,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 12141568
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 12141568
 180000F8 00000000
 
-;--- Dinoceros ---
+; --- Dinoceros ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 343776CF
 28000024 05F5E0FF
 
@@ -5140,15 +5025,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 343776CF
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 343776CF
 180000F8 00000000
 
-;--- Docotoko (Gold Version) ---
+; --- Docotoko (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 02136471
 28000024 05F5E0FF
 
@@ -5193,15 +5078,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 02136471
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 02136471
 180000F8 00000000
 
-;--- Docotoko ---
+; --- Docotoko ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1F1654C9
 28000024 05F5E0FF
 
@@ -5246,15 +5131,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1F1654C9
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1F1654C9
 180000F8 00000000
 
-;--- Don Key ---
+; --- Don Key ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1052AB31
 28000024 05F5E0FF
 
@@ -5299,15 +5184,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1052AB31
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1052AB31
 180000F8 00000000
 
-;--- Doric Collum ---
+; --- Doric Collum ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 45A9F4ED
 28000024 05F5E0FF
 
@@ -5352,15 +5237,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 45A9F4ED
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 45A9F4ED
 180000F8 00000000
 
-;--- Dragamuffin (Gold Version) ---
+; --- Dragamuffin (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 BB6D6923
 28000024 05F5E0FF
 
@@ -5405,15 +5290,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 BB6D6923
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 BB6D6923
 180000F8 00000000
 
-;--- Dragamuffin ---
+; --- Dragamuffin ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 BB99098D
 28000024 05F5E0FF
 
@@ -5458,15 +5343,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 BB99098D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 BB99098D
 180000F8 00000000
 
-;--- Dragette (Gold Version) ---
+; --- Dragette (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B92BD77A
 28000024 05F5E0FF
 
@@ -5511,15 +5396,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B92BD77A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B92BD77A
 180000F8 00000000
 
-;--- Dragette ---
+; --- Dragette ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B9DFB7D4
 28000024 05F5E0FF
 
@@ -5564,15 +5449,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B9DFB7D4
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B9DFB7D4
 180000F8 00000000
 
-;--- Draggle (Gold Version) ---
+; --- Draggle (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B8E9BD4D
 28000024 05F5E0FF
 
@@ -5617,15 +5502,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B8E9BD4D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B8E9BD4D
 180000F8 00000000
 
-;--- Draggle ---
+; --- Draggle ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B81DDDE3
 28000024 05F5E0FF
 
@@ -5670,15 +5555,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B81DDDE3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B81DDDE3
 180000F8 00000000
 
-;--- Drone Bumbler ---
+; --- Drone Bumbler ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 242AED9A
 28000024 05F5E0FF
 
@@ -5723,15 +5608,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 242AED9A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 242AED9A
 180000F8 00000000
 
-;--- Drongo (Gold Version) ---
+; --- Drongo (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 253E85F4
 28000024 05F5E0FF
 
@@ -5776,15 +5661,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 253E85F4
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 253E85F4
 180000F8 00000000
 
-;--- Drongo ---
+; --- Drongo ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 383BB54C
 28000024 05F5E0FF
 
@@ -5829,15 +5714,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 383BB54C
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 383BB54C
 180000F8 00000000
 
-;--- Dualynx ---
+; --- Dualynx ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0F91C1B7
 28000024 05F5E0FF
 
@@ -5882,15 +5767,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0F91C1B7
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0F91C1B7
 180000F8 00000000
 
-;--- Duck-Billed Bopper (Gold Version) ---
+; --- Duck-Billed Bopper (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A9D8C6CD
 28000024 05F5E0FF
 
@@ -5935,15 +5820,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A9D8C6CD
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A9D8C6CD
 180000F8 00000000
 
-;--- Duck-Billed Bopper ---
+; --- Duck-Billed Bopper ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3E454758
 28000024 05F5E0FF
 
@@ -5988,15 +5873,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3E454758
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3E454758
 180000F8 00000000
 
-;--- Dumbelemur ---
+; --- Dumbelemur ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 95606F06
 28000024 05F5E0FF
 
@@ -6041,15 +5926,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 95606F06
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 95606F06
 180000F8 00000000
 
-;--- Duncecap ---
+; --- Duncecap ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B00B30DA
 28000024 05F5E0FF
 
@@ -6094,15 +5979,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B00B30DA
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B00B30DA
 180000F8 00000000
 
-;--- Dusty Fug ---
+; --- Dusty Fug ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A80046B6
 28000024 05F5E0FF
 
@@ -6147,15 +6032,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A80046B6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A80046B6
 180000F8 00000000
 
-;--- Dynamire (Gold Version) ---
+; --- Dynamire (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 340FFE74
 28000024 05F5E0FF
 
@@ -6200,15 +6085,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 340FFE74
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 340FFE74
 180000F8 00000000
 
-;--- Dynamite ---
+; --- Dynamite ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 290ACECC
 28000024 05F5E0FF
 
@@ -6253,15 +6138,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 290ACECC
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 290ACECC
 180000F8 00000000
 
-;--- Earth Ogrrr ---
+; --- Earth Ogrrr ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0A5BA6EA
 28000024 05F5E0FF
 
@@ -6306,15 +6191,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0A5BA6EA
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0A5BA6EA
 180000F8 00000000
 
-;--- Eggroll ---
+; --- Eggroll ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F669203D
 28000024 05F5E0FF
 
@@ -6359,15 +6244,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F669203D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F669203D
 180000F8 00000000
 
-;--- Eggtptian ---
+; --- Eggtptian ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F42F9E64
 28000024 05F5E0FF
 
@@ -6412,15 +6297,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F42F9E64
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F42F9E64
 180000F8 00000000
 
-;--- Eldritch Empress ---
+; --- Eldritch Empress ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 09B9D59D
 28000024 05F5E0FF
 
@@ -6465,15 +6350,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 09B9D59D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 09B9D59D
 180000F8 00000000
 
-;--- Electrixx ---
+; --- Electrixx ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0BDD0933
 28000024 05F5E0FF
 
@@ -6518,15 +6403,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0BDD0933
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0BDD0933
 180000F8 00000000
 
-;--- Electrongo (Gold Version) ---
+; --- Electrongo (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 27783BAD
 28000024 05F5E0FF
 
@@ -6571,15 +6456,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 27783BAD
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 27783BAD
 180000F8 00000000
 
-;--- Electrongo ---
+; --- Electrongo ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3A7D0B15
 28000024 05F5E0FF
 
@@ -6624,15 +6509,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3A7D0B15
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3A7D0B15
 180000F8 00000000
 
-;--- Elegantiger ---
+; --- Elegantiger ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 7B4D0933
 28000024 05F5E0FF
 
@@ -6677,15 +6562,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 7B4D0933
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 7B4D0933
 180000F8 00000000
 
-;--- Evil Idler ---
+; --- Evil Idler ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 6D1E2155
 28000024 05F5E0FF
 
@@ -6730,15 +6615,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 6D1E2155
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 6D1E2155
 180000F8 00000000
 
-;--- Ex-girlfiend ---
+; --- Ex-girlfiend ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 DB1492D8
 28000024 05F5E0FF
 
@@ -6783,15 +6668,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 DB1492D8
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 DB1492D8
 180000F8 00000000
 
-;--- FightingGale ---
+; --- FightingGale ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 EA84D1D9
 28000024 05F5E0FF
 
@@ -6836,15 +6721,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 EA84D1D9
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 EA84D1D9
 180000F8 00000000
 
-;--- Fire Ogrr ---
+; --- Fire Ogrr ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 081D18B3
 28000024 05F5E0FF
 
@@ -6889,15 +6774,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 081D18B3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 081D18B3
 180000F8 00000000
 
-;--- Firebyrde ---
+; --- Firebyrde ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 79C75F7F
 28000024 05F5E0FF
 
@@ -6942,15 +6827,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 79C75F7F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 79C75F7F
 180000F8 00000000
 
-;--- FireFry ---
+; --- FireFry ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3D2F19D4
 28000024 05F5E0FF
 
@@ -6995,15 +6880,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3D2F19D4
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3D2F19D4
 180000F8 00000000
 
-;--- Flapdragon ---
+; --- Flapdragon ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A8222441
 28000024 05F5E0FF
 
@@ -7048,15 +6933,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A8222441
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A8222441
 180000F8 00000000
 
-;--- Flash Fry ---
+; --- Flash Fry ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3CED73E3
 28000024 05F5E0FF
 
@@ -7101,15 +6986,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3CED73E3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3CED73E3
 180000F8 00000000
 
-;--- Floret ---
+; --- Floret ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3DE3F1C1
 28000024 05F5E0FF
 
@@ -7154,15 +7039,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3DE3F1C1
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3DE3F1C1
 180000F8 00000000
 
-;--- Florid Floret ---
+; --- Florid Floret ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3FA54F98
 28000024 05F5E0FF
 
@@ -7207,15 +7092,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3FA54F98
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3FA54F98
 180000F8 00000000
 
-;--- Flubius ---
+; --- Flubius ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 857DF453
 28000024 05F5E0FF
 
@@ -7260,15 +7145,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 857DF453
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 857DF453
 180000F8 00000000
 
-;--- Flummox Floret ---
+; --- Flummox Floret ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3C219BF6
 28000024 05F5E0FF
 
@@ -7313,15 +7198,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3C219BF6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3C219BF6
 180000F8 00000000
 
-;--- Fluoroboros ---
+; --- Fluoroboros ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 600E4324
 28000024 05F5E0FF
 
@@ -7366,15 +7251,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 600E4324
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 600E4324
 180000F8 00000000
 
-;--- Fluorongo (Gold Version) ---
+; --- Fluorongo (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 26BA519A
 28000024 05F5E0FF
 
@@ -7419,15 +7304,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 26BA519A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 26BA519A
 180000F8 00000000
 
-;--- Fluorongo ---
+; --- Fluorongo ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3BBF6122
 28000024 05F5E0FF
 
@@ -7472,15 +7357,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3BBF6122
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3BBF6122
 180000F8 00000000
 
-;--- Flutterby ---
+; --- Flutterby ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 2C1E6254
 28000024 05F5E0FF
 
@@ -7525,15 +7410,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 2C1E6254
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 2C1E6254
 180000F8 00000000
 
-;--- Forest Flutterby ---
+; --- Forest Flutterby ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 2DDC0863
 28000024 05F5E0FF
 
@@ -7578,15 +7463,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 2DDC0863
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 2DDC0863
 180000F8 00000000
 
-;--- Fountainhead ---
+; --- Fountainhead ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 264E3134
 28000024 05F5E0FF
 
@@ -7631,15 +7516,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 264E3134
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 264E3134
 180000F8 00000000
 
-;--- Fuddy-Duddy ---
+; --- Fuddy-Duddy ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 7EC3AB80
 28000024 05F5E0FF
 
@@ -7684,15 +7569,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 7EC3AB80
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 7EC3AB80
 180000F8 00000000
 
-;--- Fug ---
+; --- Fug ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A9C22C81
 28000024 05F5E0FF
 
@@ -7737,15 +7622,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A9C22C81
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A9C22C81
 180000F8 00000000
 
-;--- Full Boar ---
+; --- Full Boar ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 80D13417
 28000024 05F5E0FF
 
@@ -7790,15 +7675,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 80D13417
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 80D13417
 180000F8 00000000
 
-;--- Ghost Wisperer ---
+; --- Ghost Wisperer ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 31753C69
 28000024 05F5E0FF
 
@@ -7843,15 +7728,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 31753C69
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 31753C69
 180000F8 00000000
 
-;--- Girlfiend ---
+; --- Girlfiend ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 DAD6F8EF
 28000024 05F5E0FF
 
@@ -7896,15 +7781,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 DAD6F8EF
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 DAD6F8EF
 180000F8 00000000
 
-;--- Gobfather (Gold Version) ---
+; --- Gobfather (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F3FD68C2
 28000024 05F5E0FF
 
@@ -7949,15 +7834,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F3FD68C2
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F3FD68C2
 180000F8 00000000
 
-;--- Gobfather ---
+; --- Gobfather ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 53FADC8B
 28000024 05F5E0FF
 
@@ -8002,15 +7887,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 53FADC8B
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 53FADC8B
 180000F8 00000000
 
-;--- Gobforsaken (Gold Version) ---
+; --- Gobforsaken (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F079BCAC
 28000024 05F5E0FF
 
@@ -8055,15 +7940,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F079BCAC
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F079BCAC
 180000F8 00000000
 
-;--- Gobforsaken ---
+; --- Gobforsaken ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 507E08E5
 28000024 05F5E0FF
 
@@ -8108,15 +7993,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 507E08E5
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 507E08E5
 180000F8 00000000
 
-;--- Gobspeed (Gold Version) ---
+; --- Gobspeed (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F1BBD69B
 28000024 05F5E0FF
 
@@ -8161,15 +8046,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F1BBD69B
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F1BBD69B
 180000F8 00000000
 
-;--- Gobspeed ---
+; --- Gobspeed ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 51BC62D2
 28000024 05F5E0FF
 
@@ -8214,15 +8099,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 51BC62D2
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 51BC62D2
 180000F8 00000000
 
-;--- Godsun ---
+; --- Godsun ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 CA078BAF
 28000024 05F5E0FF
 
@@ -8267,15 +8152,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 CA078BAF
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 CA078BAF
 180000F8 00000000
 
-;--- Grand-Daddy ---
+; --- Grand-Daddy ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 7D477FEE
 28000024 05F5E0FF
 
@@ -8320,15 +8205,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 7D477FEE
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 7D477FEE
 180000F8 00000000
 
-;--- Grandamned ---
+; --- Grandamned ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 D89046B6
 28000024 05F5E0FF
 
@@ -8373,15 +8258,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 D89046B6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 D89046B6
 180000F8 00000000
 
-;--- Grandsun ---
+; --- Grandsun ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 C9835FC1
 28000024 05F5E0FF
 
@@ -8426,15 +8311,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 C9835FC1
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 C9835FC1
 180000F8 00000000
 
-;--- Greater Griffy ---
+; --- Greater Griffy ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 2762D1E1
 28000024 05F5E0FF
 
@@ -8479,15 +8364,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 2762D1E1
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 2762D1E1
 180000F8 00000000
 
-;--- Greater Naiad ---
+; --- Greater Naiad ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1070C9C6
 28000024 05F5E0FF
 
@@ -8532,15 +8417,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1070C9C6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1070C9C6
 180000F8 00000000
 
-;--- Green Buncher ---
+; --- Green Buncher ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 40EBBE4B
 28000024 05F5E0FF
 
@@ -8585,15 +8470,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 40EBBE4B
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 40EBBE4B
 180000F8 00000000
 
-;--- Griffrigerator ---
+; --- Griffrigerator ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 24E6058F
 28000024 05F5E0FF
 
@@ -8638,15 +8523,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 24E6058F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 24E6058F
 180000F8 00000000
 
-;--- Griffurnace ---
+; --- Griffurnace ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 25246FB8
 28000024 05F5E0FF
 
@@ -8691,15 +8576,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 25246FB8
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 25246FB8
 180000F8 00000000
 
-;--- Griffy ---
+; --- Griffy ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 26A0BBD6
 28000024 05F5E0FF
 
@@ -8744,15 +8629,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 26A0BBD6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 26A0BBD6
 180000F8 00000000
 
-;--- Grimpaler ---
+; --- Grimpaler ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 FC39735D
 28000024 05F5E0FF
 
@@ -8797,15 +8682,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 FC39735D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 FC39735D
 180000F8 00000000
 
-;--- Grimray ---
+; --- Grimray ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0AF1E9E6
 28000024 05F5E0FF
 
@@ -8850,15 +8735,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0AF1E9E6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0AF1E9E6
 180000F8 00000000
 
-;--- Grubby Fug ---
+; --- Grubby Fug ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 AB8492D8
 28000024 05F5E0FF
 
@@ -8903,15 +8788,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 AB8492D8
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 AB8492D8
 180000F8 00000000
 
-;--- Gruffian ---
+; --- Gruffian ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 D3CE97F4
 28000024 05F5E0FF
 
@@ -8956,15 +8841,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 D3CE97F4
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 D3CE97F4
 180000F8 00000000
 
-;--- Grumpeafowl ---
+; --- Grumpeafowl ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 C5FB188B
 28000024 05F5E0FF
 
@@ -9009,15 +8894,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 C5FB188B
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 C5FB188B
 180000F8 00000000
 
-;--- Habber ---
+; --- Habber ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 55960D4F
 28000024 05F5E0FF
 
@@ -9062,15 +8947,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 55960D4F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 55960D4F
 180000F8 00000000
 
-;--- Hackrabbot ---
+; --- Hackrabbot ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 8D859388
 28000024 05F5E0FF
 
@@ -9115,15 +9000,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 8D859388
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 8D859388
 180000F8 00000000
 
-;--- Hierophant (Gold Version) ---
+; --- Hierophant (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 10A6CB9F
 28000024 05F5E0FF
 
@@ -9168,15 +9053,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 10A6CB9F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 10A6CB9F
 180000F8 00000000
 
-;--- Hierophant ---
+; --- Hierophant ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 C09B30DA
 28000024 05F5E0FF
 
@@ -9221,15 +9106,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 C09B30DA
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 C09B30DA
 180000F8 00000000
 
-;--- Hip-Hooray ---
+; --- Hip-Hooray ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 08B757BF
 28000024 05F5E0FF
 
@@ -9274,15 +9159,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 08B757BF
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 08B757BF
 180000F8 00000000
 
-;--- Hippeafowl ---
+; --- Hippeafowl ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 C7BDA6D2
 28000024 05F5E0FF
 
@@ -9327,15 +9212,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 C7BDA6D2
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 C7BDA6D2
 180000F8 00000000
 
-;--- Hog-Goblin (Gold Version) ---
+; --- Hog-Goblin (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F23F02F5
 28000024 05F5E0FF
 
@@ -9380,15 +9265,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F23F02F5
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F23F02F5
 180000F8 00000000
 
-;--- Hog-Goblin ---
+; --- Hog-Goblin ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 5238B6BC
 28000024 05F5E0FF
 
@@ -9433,15 +9318,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 5238B6BC
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 5238B6BC
 180000F8 00000000
 
-;--- Hoggle-Boggle ---
+; --- Hoggle-Boggle ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9DBA6A2A
 28000024 05F5E0FF
 
@@ -9486,15 +9371,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 9DBA6A2A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 9DBA6A2A
 180000F8 00000000
 
-;--- Honky-Tonker (Gold Version) ---
+; --- Honky-Tonker (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B011DA96
 28000024 05F5E0FF
 
@@ -9539,15 +9424,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B011DA96
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B011DA96
 180000F8 00000000
 
-;--- Honky-Tonker ---
+; --- Honky-Tonker ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 018D5A53
 28000024 05F5E0FF
 
@@ -9592,15 +9477,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 018D5A53
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 018D5A53
 180000F8 00000000
 
-;--- Hooray ---
+; --- Hooray ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 09753D88
 28000024 05F5E0FF
 
@@ -9645,15 +9530,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 09753D88
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 09753D88
 180000F8 00000000
 
-;--- Hooting-Star ---
+; --- Hooting-Star ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 01AF38A4
 28000024 05F5E0FF
 
@@ -9698,15 +9583,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 01AF38A4
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 01AF38A4
 180000F8 00000000
 
-;--- Horrid Floret ---
+; --- Horrid Floret ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3E6725AF
 28000024 05F5E0FF
 
@@ -9751,15 +9636,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3E6725AF
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3E6725AF
 180000F8 00000000
 
-;--- Hot Cog ---
+; --- Hot Cog ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 194AC42A
 28000024 05F5E0FF
 
@@ -9804,15 +9689,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 194AC42A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 194AC42A
 180000F8 00000000
 
-;--- Hot-Air Balloonatic ---
+; --- Hot-Air Balloonatic ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 CC2F9F85
 28000024 05F5E0FF
 
@@ -9857,15 +9742,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 CC2F9F85
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 CC2F9F85
 180000F8 00000000
 
-;--- Hotpot ---
+; --- Hotpot ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B72DA6D2
 28000024 05F5E0FF
 
@@ -9910,15 +9795,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B72DA6D2
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B72DA6D2
 180000F8 00000000
 
-;--- Hubber Blubber ---
+; --- Hubber Blubber ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9D76823F
 28000024 05F5E0FF
 
@@ -9963,15 +9848,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 9D76823F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 9D76823F
 180000F8 00000000
 
-;--- Hullaballoon ---
+; --- Hullaballoon ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 CFAB4BEB
 28000024 05F5E0FF
 
@@ -10016,15 +9901,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 CFAB4BEB
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 CFAB4BEB
 180000F8 00000000
 
-;--- Humpty Bumpty ---
+; --- Humpty Bumpty ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F5EDF453
 28000024 05F5E0FF
 
@@ -10069,15 +9954,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F5EDF453
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F5EDF453
 180000F8 00000000
 
-;--- Hurlabaloo ---
+; --- Hurlabaloo ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 82C16C70
 28000024 05F5E0FF
 
@@ -10122,15 +10007,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 82C16C70
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 82C16C70
 180000F8 00000000
 
-;--- Hurlabaloo (Gold Version) ---
+; --- Hurlabaloo (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9FC45CC8
 28000024 05F5E0FF
 
@@ -10175,15 +10060,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 9FC45CC8
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 9FC45CC8
 180000F8 00000000
 
-;--- Hurlcules ---
+; --- Hurlcules ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 83030647
 28000024 05F5E0FF
 
@@ -10228,15 +10113,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 83030647
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 83030647
 180000F8 00000000
 
-;--- Hurlcules (Gold Version) ---
+; --- Hurlcules (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9E0636FF
 28000024 05F5E0FF
 
@@ -10281,15 +10166,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 9E0636FF
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 9E0636FF
 180000F8 00000000
 
-;--- Hurly ---
+; --- Hurly ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 8087D229
 28000024 05F5E0FF
 
@@ -10334,15 +10219,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 8087D229
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 8087D229
 180000F8 00000000
 
-;--- Hurly (Gold Version) ---
+; --- Hurly (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9D82E291
 28000024 05F5E0FF
 
@@ -10387,15 +10272,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 9D82E291
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 9D82E291
 180000F8 00000000
 
-;--- Hymnpaler ---
+; --- Hymnpaler ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 FDFB196A
 28000024 05F5E0FF
 
@@ -10440,15 +10325,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 FDFB196A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 FDFB196A
 180000F8 00000000
 
-;--- Hyperboar ---
+; --- Hyperboar ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 81135E20
 28000024 05F5E0FF
 
@@ -10493,15 +10378,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 81135E20
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 81135E20
 180000F8 00000000
 
-;--- Ice Maiden ---
+; --- Ice Maiden ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0A3D01F3
 28000024 05F5E0FF
 
@@ -10546,15 +10431,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0A3D01F3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0A3D01F3
 180000F8 00000000
 
-;--- Ice Ogrr ---
+; --- Ice Ogrr ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 09DF7284
 28000024 05F5E0FF
 
@@ -10599,15 +10484,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 09DF7284
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 09DF7284
 180000F8 00000000
 
-;--- Ice Queen ---
+; --- Ice Queen ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0BFF6BC4
 28000024 05F5E0FF
 
@@ -10652,15 +10537,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0BFF6BC4
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0BFF6BC4
 180000F8 00000000
 
-;--- Idler ---
+; --- Idler ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 6F589F0C
 28000024 05F5E0FF
 
@@ -10705,15 +10590,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 6F589F0C
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 6F589F0C
 180000F8 00000000
 
-;--- Igneous Supremus ---
+; --- Igneous Supremus ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 86F9203D
 28000024 05F5E0FF
 
@@ -10758,15 +10643,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 86F9203D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 86F9203D
 180000F8 00000000
 
-;--- Impaler ---
+; --- Impaler ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 FE7FCD04
 28000024 05F5E0FF
 
@@ -10811,15 +10696,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 FE7FCD04
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 FE7FCD04
 180000F8 00000000
 
-;--- Imphant (Gold Version) ---
+; --- Imphant (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 12E075C6
 28000024 05F5E0FF
 
@@ -10864,15 +10749,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 12E075C6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 12E075C6
 180000F8 00000000
 
-;--- Incy ---
+; --- Incy ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F8317E37
 28000024 05F5E0FF
 
@@ -10917,15 +10802,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F8317E37
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F8317E37
 180000F8 00000000
 
-;--- Inphant ---
+; --- Inphant ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 C2DD8E83
 28000024 05F5E0FF
 
@@ -10970,15 +10855,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 C2DD8E83
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 C2DD8E83
 180000F8 00000000
 
-;--- Ionic Collum ---
+; --- Ionic Collum ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 47EF4AB4
 28000024 05F5E0FF
 
@@ -11023,15 +10908,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 47EF4AB4
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 47EF4AB4
 180000F8 00000000
 
-;--- Iron-Man (Gold Version) ---
+; --- Iron-Man (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 4B410FA7
 28000024 05F5E0FF
 
@@ -11076,15 +10961,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 4B410FA7
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 4B410FA7
 180000F8 00000000
 
-;--- Iron-man ---
+; --- Iron-man ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 7BA383D1
 28000024 05F5E0FF
 
@@ -11129,15 +11014,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 7BA383D1
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 7BA383D1
 180000F8 00000000
 
-;--- Jabberguppy ---
+; --- Jabberguppy ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 57D0B316
 28000024 05F5E0FF
 
@@ -11182,15 +11067,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 57D0B316
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 57D0B316
 180000F8 00000000
 
-;--- Jackpotty ---
+; --- Jackpotty ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B4A972BC
 28000024 05F5E0FF
 
@@ -11235,15 +11120,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B4A972BC
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B4A972BC
 180000F8 00000000
 
-;--- Jackrabbot ---
+; --- Jackrabbot ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 8E0147E6
 28000024 05F5E0FF
 
@@ -11288,15 +11173,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 8E0147E6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 8E0147E6
 180000F8 00000000
 
-;--- Kill-0'-the-wisp ---
+; --- Kill-0'-the-wisp ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 33338230
 28000024 05F5E0FF
 
@@ -11341,15 +11226,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 33338230
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 33338230
 180000F8 00000000
 
-;--- Kipper ---
+; --- Kipper ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 BB55E198
 28000024 05F5E0FF
 
@@ -11394,15 +11279,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 BB55E198
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 BB55E198
 180000F8 00000000
 
-;--- Knightingale ---
+; --- Knightingale ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 EB46BBEE
 28000024 05F5E0FF
 
@@ -11447,15 +11332,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 EB46BBEE
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 EB46BBEE
 180000F8 00000000
 
-;--- Legood Naiad ---
+; --- Legood Naiad ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1236779F
 28000024 05F5E0FF
 
@@ -11500,15 +11385,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1236779F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1236779F
 180000F8 00000000
 
-;--- Lesser Spotted Naiad ---
+; --- Lesser Spotted Naiad ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 11B2A3F1
 28000024 05F5E0FF
 
@@ -11553,15 +11438,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 11B2A3F1
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 11B2A3F1
 180000F8 00000000
 
-;--- Lickety-Spitoo ---
+; --- Lickety-Spitoo ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A3B01D16
 28000024 05F5E0FF
 
@@ -11606,15 +11491,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A3B01D16
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A3B01D16
 180000F8 00000000
 
-;--- Lightshade ---
+; --- Lightshade ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 E7B6D15F
 28000024 05F5E0FF
 
@@ -11659,15 +11544,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 E7B6D15F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 E7B6D15F
 180000F8 00000000
 
-;--- Limberwood ---
+; --- Limberwood ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 AB487ACD
 28000024 05F5E0FF
 
@@ -11712,15 +11597,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 AB487ACD
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 AB487ACD
 180000F8 00000000
 
-;--- Little Bighorn ---
+; --- Little Bighorn ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 BFF7A3FE
 28000024 05F5E0FF
 
@@ -11765,15 +11650,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 BFF7A3FE
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 BFF7A3FE
 180000F8 00000000
 
-;--- Lone Shark ---
+; --- Lone Shark ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9F303C66
 28000024 05F5E0FF
 
@@ -11818,15 +11703,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 9F303C66
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 9F303C66
 180000F8 00000000
 
-;--- Lotus Buddud ---
+; --- Lotus Buddud ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 C6B324F0
 28000024 05F5E0FF
 
@@ -11871,15 +11756,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 C6B324F0
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 C6B324F0
 180000F8 00000000
 
-;--- Lubber Cub ---
+; --- Lubber Cub ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 78C9DD5D
 28000024 05F5E0FF
 
@@ -11924,15 +11809,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 78C9DD5D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 78C9DD5D
 180000F8 00000000
 
-;--- Lumberwood ---
+; --- Lumberwood ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 AA8A10FA
 28000024 05F5E0FF
 
@@ -11977,15 +11862,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 AA8A10FA
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 AA8A10FA
 180000F8 00000000
 
-;--- Mad Cap ---
+; --- Mad Cap ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B24D8E83
 28000024 05F5E0FF
 
@@ -12030,15 +11915,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B24D8E83
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B24D8E83
 180000F8 00000000
 
-;--- Magimech Sentry ---
+; --- Magimech Sentry ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 8F2DA733
 28000024 05F5E0FF
 
@@ -12083,15 +11968,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 8F2DA733
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 8F2DA733
 180000F8 00000000
 
-;--- Magimech ---
+; --- Magimech ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 8CA9735D
 28000024 05F5E0FF
 
@@ -12136,15 +12021,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 8CA9735D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 8CA9735D
 180000F8 00000000
 
-;--- Magmadame ---
+; --- Magmadame ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F34DCD82
 28000024 05F5E0FF
 
@@ -12189,15 +12074,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F34DCD82
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F34DCD82
 180000F8 00000000
 
-;--- Magmadonna ---
+; --- Magmadonna ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F10B73DB
 28000024 05F5E0FF
 
@@ -12242,15 +12127,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F10B73DB
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F10B73DB
 180000F8 00000000
 
-;--- Magmoiselle ---
+; --- Magmoiselle ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F28FA7B5
 28000024 05F5E0FF
 
@@ -12295,15 +12180,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F28FA7B5
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F28FA7B5
 180000F8 00000000
 
-;--- Mahanaja ---
+; --- Mahanaja ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 DEDEF585
 28000024 05F5E0FF
 
@@ -12348,15 +12233,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 DEDEF585
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 DEDEF585
 180000F8 00000000
 
-;--- Major Byrde ---
+; --- Major Byrde ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 7B81E126
 28000024 05F5E0FF
 
@@ -12401,15 +12286,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 7B81E126
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 7B81E126
 180000F8 00000000
 
-;--- Mama Sasquash ---
+; --- Mama Sasquash ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A13A4B5A
 28000024 05F5E0FF
 
@@ -12454,15 +12339,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A13A4B5A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A13A4B5A
 180000F8 00000000
 
-;--- Mandragorer ---
+; --- Mandragorer ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A016AB8F
 28000024 05F5E0FF
 
@@ -12507,15 +12392,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A016AB8F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A016AB8F
 180000F8 00000000
 
-;--- Manglerfish ---
+; --- Manglerfish ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 5CAC00A3
 28000024 05F5E0FF
 
@@ -12560,15 +12445,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 5CAC00A3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 5CAC00A3
 180000F8 00000000
 
-;--- Manic Magimech ---
+; --- Manic Magimech ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 8D6B196A
 28000024 05F5E0FF
 
@@ -12613,15 +12498,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 8D6B196A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 8D6B196A
 180000F8 00000000
 
-;--- Master Key ---
+; --- Master Key ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1190C106
 28000024 05F5E0FF
 
@@ -12666,15 +12551,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1190C106
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1190C106
 180000F8 00000000
 
-;--- Medixx ---
+; --- Medixx ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 099BB76A
 28000024 05F5E0FF
 
@@ -12719,15 +12604,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 099BB76A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 099BB76A
 180000F8 00000000
 
-;--- Megalith ---
+; --- Megalith ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F4E37671
 28000024 05F5E0FF
 
@@ -12772,15 +12657,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F4E37671
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F4E37671
 180000F8 00000000
 
-;--- Megimech Master ---
+; --- Megimech Master ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 8EEFCD04
 28000024 05F5E0FF
 
@@ -12825,15 +12710,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 8EEFCD04
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 8EEFCD04
 180000F8 00000000
 
-;--- Megmadiva ---
+; --- Megmadiva ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F0C919EC
 28000024 05F5E0FF
 
@@ -12878,15 +12763,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F0C919EC
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F0C919EC
 180000F8 00000000
 
-;--- Mendragorer ---
+; --- Mendragorer ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A3927FE1
 28000024 05F5E0FF
 
@@ -12931,15 +12816,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A3927FE1
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A3927FE1
 180000F8 00000000
 
-;--- Mermite (Gold Version) ---
+; --- Mermite (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 35CD9443
 28000024 05F5E0FF
 
@@ -12984,15 +12869,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 35CD9443
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 35CD9443
 180000F8 00000000
 
-;--- Mermite ---
+; --- Mermite ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 28C8A4FB
 28000024 05F5E0FF
 
@@ -13037,15 +12922,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 28C8A4FB
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 28C8A4FB
 180000F8 00000000
 
-;--- Messy plessie ---
+; --- Messy plessie ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 E51EE5E4
 28000024 05F5E0FF
 
@@ -13090,15 +12975,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 E51EE5E4
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 E51EE5E4
 180000F8 00000000
 
-;--- Midday Flutterby ---
+; --- Midday Flutterby ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 2E58DC0D
 28000024 05F5E0FF
 
@@ -13143,15 +13028,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 2E58DC0D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 2E58DC0D
 180000F8 00000000
 
-;--- Midnight Flutterby ---
+; --- Midnight Flutterby ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 2F9AB63A
 28000024 05F5E0FF
 
@@ -13196,15 +13081,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 2F9AB63A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 2F9AB63A
 180000F8 00000000
 
-;--- Mighty Mite (Gold Version) ---
+; --- Mighty Mite (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3649402D
 28000024 05F5E0FF
 
@@ -13249,15 +13134,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3649402D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3649402D
 180000F8 00000000
 
-;--- Mighty Mite ---
+; --- Mighty Mite ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 2B4C7095
 28000024 05F5E0FF
 
@@ -13302,15 +13187,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 2B4C7095
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 2B4C7095
 180000F8 00000000
 
-;--- Minor Byrde ---
+; --- Minor Byrde ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 7A438B11
 28000024 05F5E0FF
 
@@ -13355,15 +13240,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 7A438B11
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 7A438B11
 180000F8 00000000
 
-;--- Mite (Gold Version) ---
+; --- Mite (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 378B2A1A
 28000024 05F5E0FF
 
@@ -13408,15 +13293,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 378B2A1A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 378B2A1A
 180000F8 00000000
 
-;--- Mite ---
+; --- Mite ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 2A8E1AA2
 28000024 05F5E0FF
 
@@ -13461,15 +13346,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 2A8E1AA2
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 2A8E1AA2
 180000F8 00000000
 
-;--- Moggle-Boggle ---
+; --- Moggle-Boggle ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9C78001D
 28000024 05F5E0FF
 
@@ -13514,15 +13399,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 9C78001D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 9C78001D
 180000F8 00000000
 
-;--- Mohawk ---
+; --- Mohawk ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 FE5DAFF3
 28000024 05F5E0FF
 
@@ -13567,15 +13452,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 FE5DAFF3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 FE5DAFF3
 180000F8 00000000
 
-;--- Monolith ---
+; --- Monolith ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F5211C46
 28000024 05F5E0FF
 
@@ -13620,15 +13505,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F5211C46
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F5211C46
 180000F8 00000000
 
-;--- Mumbo Zombo ---
+; --- Mumbo Zombo ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 8399086C
 28000024 05F5E0FF
 
@@ -13673,15 +13558,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 8399086C
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 8399086C
 180000F8 00000000
 
-;--- Naja ---
+; --- Naja ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 DD5A21EB
 28000024 05F5E0FF
 
@@ -13726,15 +13611,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 DD5A21EB
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 DD5A21EB
 180000F8 00000000
 
-;--- Najalisk ---
+; --- Najalisk ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 DC984BDC
 28000024 05F5E0FF
 
@@ -13779,15 +13664,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 DC984BDC
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 DC984BDC
 180000F8 00000000
 
-;--- Najapatra ---
+; --- Najapatra ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 DF1C9FB2
 28000024 05F5E0FF
 
@@ -13832,15 +13717,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 DF1C9FB2
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 DF1C9FB2
 180000F8 00000000
 
-;--- NapCap ---
+; --- NapCap ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B1C95AED
 28000024 05F5E0FF
 
@@ -13885,15 +13770,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B1C95AED
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B1C95AED
 180000F8 00000000
 
-;--- Napdragon ---
+; --- Napdragon ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 ABA6F02F
 28000024 05F5E0FF
 
@@ -13938,15 +13823,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 ABA6F02F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 ABA6F02F
 180000F8 00000000
 
-;--- Neolith ---
+; --- Neolith ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F767A21F
 28000024 05F5E0FF
 
@@ -13991,15 +13876,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F767A21F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F767A21F
 180000F8 00000000
 
-;--- Nightcap ---
+; --- Nightcap ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B38FE4B4
 28000024 05F5E0FF
 
@@ -14044,15 +13929,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B38FE4B4
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B38FE4B4
 180000F8 00000000
 
-;--- Nightshade ---
+; --- Nightshade ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 E5F06F06
 28000024 05F5E0FF
 
@@ -14097,15 +13982,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 E5F06F06
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 E5F06F06
 180000F8 00000000
 
-;--- Obscuroboros ---
+; --- Obscuroboros ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 61CC2913
 28000024 05F5E0FF
 
@@ -14150,15 +14035,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 61CC2913
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 61CC2913
 180000F8 00000000
 
-;--- Oroboros ---
+; --- Oroboros ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 6248FD7D
 28000024 05F5E0FF
 
@@ -14203,15 +14088,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 6248FD7D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 6248FD7D
 180000F8 00000000
 
-;--- Overripe Buncher ---
+; --- Overripe Buncher ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 42AD0012
 28000024 05F5E0FF
 
@@ -14256,15 +14141,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 42AD0012
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 42AD0012
 180000F8 00000000
 
-;--- Paladin Partridge ---
+; --- Paladin Partridge ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 E90005B7
 28000024 05F5E0FF
 
@@ -14309,15 +14194,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 E90005B7
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 E90005B7
 180000F8 00000000
 
-;--- Paleolith ---
+; --- Paleolith ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F6A5C828
 28000024 05F5E0FF
 
@@ -14362,15 +14247,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F6A5C828
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F6A5C828
 180000F8 00000000
 
-;--- Pandoragorer ---
+; --- Pandoragorer ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A1D4C1B8
 28000024 05F5E0FF
 
@@ -14415,15 +14300,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A1D4C1B8
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A1D4C1B8
 180000F8 00000000
 
-;--- Papa Sasquash ---
+; --- Papa Sasquash ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A0F8216D
 28000024 05F5E0FF
 
@@ -14468,15 +14353,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A0F8216D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A0F8216D
 180000F8 00000000
 
-;--- Petramander ---
+; --- Petramander ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 4C93F901
 28000024 05F5E0FF
 
@@ -14521,15 +14406,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 4C93F901
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 4C93F901
 180000F8 00000000
 
-;--- Phantasma ---
+; --- Phantasma ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 D9522C81
 28000024 05F5E0FF
 
@@ -14574,15 +14459,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 D9522C81
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 D9522C81
 180000F8 00000000
 
-;--- Pike Tyke ---
+; --- Pike Tyke ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1AEC72B3
 28000024 05F5E0FF
 
@@ -14627,15 +14512,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1AEC72B3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1AEC72B3
 180000F8 00000000
 
-;--- Plessie ---
+; --- Plessie ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 E4DC8FD3
 28000024 05F5E0FF
 
@@ -14680,15 +14565,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 E4DC8FD3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 E4DC8FD3
 180000F8 00000000
 
-;--- Pom Pom ---
+; --- Pom Pom ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 7753E960
 28000024 05F5E0FF
 
@@ -14733,15 +14618,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 7753E960
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 7753E960
 180000F8 00000000
 
-;--- Pomagranite ---
+; --- Pomagranite ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 75155739
 28000024 05F5E0FF
 
@@ -14786,15 +14671,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 75155739
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 75155739
 180000F8 00000000
 
-;--- Pompeii ---
+; --- Pompeii ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 74D73D0E
 28000024 05F5E0FF
 
@@ -14839,15 +14724,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 74D73D0E
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 74D73D0E
 180000F8 00000000
 
-;--- Pond Pom ---
+; --- Pond Pom ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 76918357
 28000024 05F5E0FF
 
@@ -14892,15 +14777,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 76918357
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 76918357
 180000F8 00000000
 
-;--- Potty ---
+; --- Potty ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B56B188B
 28000024 05F5E0FF
 
@@ -14945,15 +14830,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B56B188B
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B56B188B
 180000F8 00000000
 
-;--- Prince of Whales ---
+; --- Prince of Whales ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9EF25651
 28000024 05F5E0FF
 
@@ -14998,15 +14883,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 9EF25651
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 9EF25651
 180000F8 00000000
 
-;--- Prohawk ---
+; --- Prohawk ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 FC1B11AA
 28000024 05F5E0FF
 
@@ -15051,15 +14936,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 FC1B11AA
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 FC1B11AA
 180000F8 00000000
 
-;--- Psych Tyke ---
+; --- Psych Tyke ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1B2E1884
 28000024 05F5E0FF
 
@@ -15104,15 +14989,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1B2E1884
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1B2E1884
 180000F8 00000000
 
-;--- Psychophant (Gold Version) ---
+; --- Psychophant (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 13221FF1
 28000024 05F5E0FF
 
@@ -15157,15 +15042,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 13221FF1
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 13221FF1
 180000F8 00000000
 
-;--- Psychophant ---
+; --- Psychophant ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 C31FE4B4
 28000024 05F5E0FF
 
@@ -15210,15 +15095,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 C31FE4B4
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 C31FE4B4
 180000F8 00000000
 
-;--- Purrloiner ---
+; --- Purrloiner ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 77172C8E
 28000024 05F5E0FF
 
@@ -15263,15 +15148,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 77172C8E
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 77172C8E
 180000F8 00000000
 
-;--- Puss in Boats ---
+; --- Puss in Boats ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 755192D7
 28000024 05F5E0FF
 
@@ -15316,15 +15201,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 755192D7
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 755192D7
 180000F8 00000000
 
-;--- Puss in bouts ---
+; --- Puss in bouts ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 7493F8E0
 28000024 05F5E0FF
 
@@ -15369,15 +15254,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 7493F8E0
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 7493F8E0
 180000F8 00000000
 
-;--- Pyromander ---
+; --- Pyromander ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 4D519336
 28000024 05F5E0FF
 
@@ -15422,15 +15307,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 4D519336
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 4D519336
 180000F8 00000000
 
-;--- Queen Bumbler ---
+; --- Queen Bumbler ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 27AE39F4
 28000024 05F5E0FF
 
@@ -15475,15 +15360,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 27AE39F4
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 27AE39F4
 180000F8 00000000
 
-;--- Rabbot ---
+; --- Rabbot ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 8FC32DD1
 28000024 05F5E0FF
 
@@ -15528,15 +15413,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 8FC32DD1
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 8FC32DD1
 180000F8 00000000
 
-;--- Red Napper ---
+; --- Red Napper ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 BA978BAF
 28000024 05F5E0FF
 
@@ -15581,15 +15466,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 BA978BAF
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 BA978BAF
 180000F8 00000000
 
-;--- Relixx ---
+; --- Relixx ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0A1F6304
 28000024 05F5E0FF
 
@@ -15634,15 +15519,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0A1F6304
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0A1F6304
 180000F8 00000000
 
-;--- Rhinobore ---
+; --- Rhinobore ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 4E19AF4D
 28000024 05F5E0FF
 
@@ -15687,15 +15572,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 4E19AF4D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 4E19AF4D
 180000F8 00000000
 
-;--- Rhinosaur ---
+; --- Rhinosaur ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 4D9D7B23
 28000024 05F5E0FF
 
@@ -15740,15 +15625,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 4D9D7B23
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 4D9D7B23
 180000F8 00000000
 
-;--- Rhinosaw ---
+; --- Rhinosaw ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 4FDBC57A
 28000024 05F5E0FF
 
@@ -15793,15 +15678,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 4FDBC57A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 4FDBC57A
 180000F8 00000000
 
-;--- Rhinosnore ---
+; --- Rhinosnore ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 4C5F1114
 28000024 05F5E0FF
 
@@ -15846,15 +15731,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 4C5F1114
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 4C5F1114
 180000F8 00000000
 
-;--- Ruff ---
+; --- Ruff ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 D04A439A
 28000024 05F5E0FF
 
@@ -15899,15 +15784,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 D04A439A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 D04A439A
 180000F8 00000000
 
-;--- Ruffian ---
+; --- Ruffian ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 D18829AD
 28000024 05F5E0FF
 
@@ -15952,15 +15837,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 D18829AD
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 D18829AD
 180000F8 00000000
 
-;--- Sapdragon ---
+; --- Sapdragon ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A9E04E76
 28000024 05F5E0FF
 
@@ -16005,15 +15890,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A9E04E76
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A9E04E76
 180000F8 00000000
 
-;--- Sasquash ---
+; --- Sasquash ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A2BE9F34
 28000024 05F5E0FF
 
@@ -16058,15 +15943,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A2BE9F34
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A2BE9F34
 180000F8 00000000
 
-;--- Sasquish ---
+; --- Sasquish ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A37CF503
 28000024 05F5E0FF
 
@@ -16111,15 +15996,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A37CF503
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A37CF503
 180000F8 00000000
 
-;--- Scrambled Eggroll ---
+; --- Scrambled Eggroll ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F7AB4A0A
 28000024 05F5E0FF
 
@@ -16164,15 +16049,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F7AB4A0A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F7AB4A0A
 180000F8 00000000
 
-;--- Scrapdragon ---
+; --- Scrapdragon ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 AA649A18
 28000024 05F5E0FF
 
@@ -16217,15 +16102,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 AA649A18
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 AA649A18
 180000F8 00000000
 
-;--- Scruffian ---
+; --- Scruffian ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 D20CFDC3
 28000024 05F5E0FF
 
@@ -16270,15 +16155,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 D20CFDC3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 D20CFDC3
 180000F8 00000000
 
-;--- Sea Naiad ---
+; --- Sea Naiad ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 13F41DA8
 28000024 05F5E0FF
 
@@ -16323,15 +16208,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 13F41DA8
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 13F41DA8
 180000F8 00000000
 
-;--- Seed Sprite ---
+; --- Seed Sprite ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 97C85BBD
 28000024 05F5E0FF
 
@@ -16376,15 +16261,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 97C85BBD
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 97C85BBD
 180000F8 00000000
 
-;--- Sharp-Hooter ---
+; --- Sharp-Hooter ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 006D5293
 28000024 05F5E0FF
 
@@ -16429,15 +16314,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 006D5293
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 006D5293
 180000F8 00000000
 
-;--- Sharper-Parper (Gold Version) ---
+; --- Sharper-Parper (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B3950EF8
 28000024 05F5E0FF
 
@@ -16482,15 +16367,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B3950EF8
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B3950EF8
 180000F8 00000000
 
-;--- Sharper-Parper ---
+; --- Sharper-Parper ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 02098E3D
 28000024 05F5E0FF
 
@@ -16535,15 +16420,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 02098E3D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 02098E3D
 180000F8 00000000
 
-;--- Shellfire ---
+; --- Shellfire ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 D87ECC54
 28000024 05F5E0FF
 
@@ -16588,15 +16473,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 D87ECC54
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 D87ECC54
 180000F8 00000000
 
-;--- Shellmet ---
+; --- Shellmet ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 DBFA183A
 28000024 05F5E0FF
 
@@ -16641,15 +16526,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 DBFA183A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 DBFA183A
 180000F8 00000000
 
-;--- Shellraiser ---
+; --- Shellraiser ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 D9BCA663
 28000024 05F5E0FF
 
@@ -16694,15 +16579,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 D9BCA663
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 D9BCA663
 180000F8 00000000
 
-;--- ShellShocker ---
+; --- ShellShocker ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 DA38720D
 28000024 05F5E0FF
 
@@ -16747,15 +16632,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 DA38720D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 DA38720D
 180000F8 00000000
 
-;--- Shonky-Honker ---
+; --- Shonky-Honker ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 03CBE40A
 28000024 05F5E0FF
 
@@ -16800,15 +16685,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 03CBE40A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 03CBE40A
 180000F8 00000000
 
-;--- Shrimpaler ---
+; --- Shrimpaler ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 FFBDA733
 28000024 05F5E0FF
 
@@ -16853,15 +16738,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 FFBDA733
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 FFBDA733
 180000F8 00000000
 
-;--- Siestar Fish ---
+; --- Siestar Fish ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B9135FC1
 28000024 05F5E0FF
 
@@ -16906,15 +16791,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B9135FC1
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B9135FC1
 180000F8 00000000
 
-;--- Sinister Sovereign ---
+; --- Sinister Sovereign ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 087BBFAA
 28000024 05F5E0FF
 
@@ -16959,15 +16844,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 087BBFAA
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 087BBFAA
 180000F8 00000000
 
-;--- Slamander ---
+; --- Slamander ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 4F172D6F
 28000024 05F5E0FF
 
@@ -17012,15 +16897,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 4F172D6F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 4F172D6F
 180000F8 00000000
 
-;--- Sleepeafowl ---
+; --- Sleepeafowl ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 C67FCCE5
 28000024 05F5E0FF
 
@@ -17065,15 +16950,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 C67FCCE5
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 C67FCCE5
 180000F8 00000000
 
-;--- Small Fry ---
+; --- Small Fry ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3EABCDBA
 28000024 05F5E0FF
 
@@ -17118,15 +17003,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3EABCDBA
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3EABCDBA
 180000F8 00000000
 
-;--- Smoggy Fug ---
+; --- Smoggy Fug ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 AA46F8EF
 28000024 05F5E0FF
 
@@ -17171,15 +17056,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 AA46F8EF
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 AA46F8EF
 180000F8 00000000
 
-;--- Snapper ---
+; --- Snapper ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 5FE43CD8
 28000024 05F5E0FF
 
@@ -17224,15 +17109,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 5FE43CD8
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 5FE43CD8
 180000F8 00000000
 
-;--- SnapTrap ---
+; --- SnapTrap ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 2CD28A41
 28000024 05F5E0FF
 
@@ -17277,15 +17162,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 2CD28A41
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 2CD28A41
 180000F8 00000000
 
-;--- Sniper Spitoo ---
+; --- Sniper Spitoo ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A2727721
 28000024 05F5E0FF
 
@@ -17330,15 +17215,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A2727721
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A2727721
 180000F8 00000000
 
-;--- Snipper ---
+; --- Snipper ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 5E2656EF
 28000024 05F5E0FF
 
@@ -17383,15 +17268,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 5E2656EF
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 5E2656EF
 180000F8 00000000
 
-;--- Snowhawk ---
+; --- Snowhawk ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 FDD97B9D
 28000024 05F5E0FF
 
@@ -17436,15 +17321,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 FDD97B9D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 FDD97B9D
 180000F8 00000000
 
-;--- Soldier Bumbler ---
+; --- Soldier Bumbler ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 266C53C3
 28000024 05F5E0FF
 
@@ -17489,15 +17374,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 266C53C3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 266C53C3
 180000F8 00000000
 
-;--- Sore Boar ---
+; --- Sore Boar ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 82978A4E
 28000024 05F5E0FF
 
@@ -17542,15 +17427,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 82978A4E
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 82978A4E
 180000F8 00000000
 
-;--- Sparkee ---
+; --- Sparkee ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 6BBE1884
 28000024 05F5E0FF
 
@@ -17595,15 +17480,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 6BBE1884
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 6BBE1884
 180000F8 00000000
 
-;--- Spike Tyke ---
+; --- Spike Tyke ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1968A6DD
 28000024 05F5E0FF
 
@@ -17648,15 +17533,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1968A6DD
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1968A6DD
 180000F8 00000000
 
-;--- Spitoo ---
+; --- Spitoo ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A034C978
 28000024 05F5E0FF
 
@@ -17701,15 +17586,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A034C978
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A034C978
 180000F8 00000000
 
-;--- Spitooligan ---
+; --- Spitooligan ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A1F6A34F
 28000024 05F5E0FF
 
@@ -17754,15 +17639,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A1F6A34F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A1F6A34F
 180000F8 00000000
 
-;--- Splasher ---
+; --- Splasher ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 5DA28281
 28000024 05F5E0FF
 
@@ -17807,15 +17692,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 5DA28281
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 5DA28281
 180000F8 00000000
 
-;--- Splatterhorn ---
+; --- Splatterhorn ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 BDB11DA7
 28000024 05F5E0FF
 
@@ -17860,15 +17745,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 BDB11DA7
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 BDB11DA7
 180000F8 00000000
 
-;--- Splisher ---
+; --- Splisher ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 5C60E8B6
 28000024 05F5E0FF
 
@@ -17913,15 +17798,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 5C60E8B6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 5C60E8B6
 180000F8 00000000
 
-;--- Sponge Bubbud ---
+; --- Sponge Bubbud ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 C4F59AA9
 28000024 05F5E0FF
 
@@ -17966,15 +17851,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 C4F59AA9
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 C4F59AA9
 180000F8 00000000
 
-;--- Sponky-Honker (Gold Version) ---
+; --- Sponky-Honker (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B25764CF
 28000024 05F5E0FF
 
@@ -18019,15 +17904,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B25764CF
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B25764CF
 180000F8 00000000
 
-;--- SpringRay ---
+; --- SpringRay ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0B3383D1
 28000024 05F5E0FF
 
@@ -18072,15 +17957,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0B3383D1
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0B3383D1
 180000F8 00000000
 
-;--- Sprog Cog ---
+; --- Sprog Cog ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1888AE1D
 28000024 05F5E0FF
 
@@ -18125,15 +18010,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1888AE1D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1888AE1D
 180000F8 00000000
 
-;--- Sprout Sprite ---
+; --- Sprout Sprite ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 960A318A
 28000024 05F5E0FF
 
@@ -18178,15 +18063,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 960A318A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 960A318A
 180000F8 00000000
 
-;--- Stabber ---
+; --- Stabber ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 54546778
 28000024 05F5E0FF
 
@@ -18231,15 +18116,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 54546778
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 54546778
 180000F8 00000000
 
-;--- Stabberwocky ---
+; --- Stabberwocky ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 5612D921
 28000024 05F5E0FF
 
@@ -18284,15 +18169,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 5612D921
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 5612D921
 180000F8 00000000
 
-;--- Starshade ---
+; --- Starshade ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 E4320531
 28000024 05F5E0FF
 
@@ -18337,15 +18222,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 E4320531
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 E4320531
 180000F8 00000000
 
-;--- Steam-Man (Gold Version) ---
+; --- Steam-Man (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 4907B1FE
 28000024 05F5E0FF
 
@@ -18390,15 +18275,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 4907B1FE
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 4907B1FE
 180000F8 00000000
 
-;--- Steam-Man ---
+; --- Steam-Man ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 79E53D88
 28000024 05F5E0FF
 
@@ -18443,15 +18328,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 79E53D88
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 79E53D88
 180000F8 00000000
 
-;--- Stillymander ---
+; --- Stillymander ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 4ED54758
 28000024 05F5E0FF
 
@@ -18496,15 +18381,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 4ED54758
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 4ED54758
 180000F8 00000000
 
-;--- StranglerFish ---
+; --- StranglerFish ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 5EEABEFA
 28000024 05F5E0FF
 
@@ -18549,15 +18434,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 5EEABEFA
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 5EEABEFA
 180000F8 00000000
 
-;--- Stressy Plessie ---
+; --- Stressy Plessie ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 E7585BBD
 28000024 05F5E0FF
 
@@ -18602,15 +18487,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 E7585BBD
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 E7585BBD
 180000F8 00000000
 
-;--- Strongo (Gold Version) ---
+; --- Strongo (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 24FCEFC3
 28000024 05F5E0FF
 
@@ -18655,15 +18540,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 24FCEFC3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 24FCEFC3
 180000F8 00000000
 
-;--- Strongo ---
+; --- Strongo ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 39F9DF7B
 28000024 05F5E0FF
 
@@ -18708,15 +18593,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 39F9DF7B
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 39F9DF7B
 180000F8 00000000
 
-;--- Sugerplum Sprite ---
+; --- Sugerplum Sprite ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 958EE5E4
 28000024 05F5E0FF
 
@@ -18761,15 +18646,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 958EE5E4
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 958EE5E4
 180000F8 00000000
 
-;--- Sunshade ---
+; --- Sunshade ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 E674BB68
 28000024 05F5E0FF
 
@@ -18814,15 +18699,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 E674BB68
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 E674BB68
 180000F8 00000000
 
-;--- SunShine ---
+; --- SunShine ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 C84135F6
 28000024 05F5E0FF
 
@@ -18867,15 +18752,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 C84135F6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 C84135F6
 180000F8 00000000
 
-;--- Supercogductor ---
+; --- Supercogductor ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1B0C7A73
 28000024 05F5E0FF
 
@@ -18920,15 +18805,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1B0C7A73
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1B0C7A73
 180000F8 00000000
 
-;--- Sweet Bream ---
+; --- Sweet Bream ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B8D135F6
 28000024 05F5E0FF
 
@@ -18973,15 +18858,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B8D135F6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B8D135F6
 180000F8 00000000
 
-;--- SweetPea Sprite ---
+; --- SweetPea Sprite ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 944C8FD3
 28000024 05F5E0FF
 
@@ -19026,15 +18911,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 944C8FD3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 944C8FD3
 180000F8 00000000
 
-;--- Tadabout ---
+; --- Tadabout ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 EEAEBE44
 28000024 05F5E0FF
 
@@ -19079,15 +18964,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 EEAEBE44
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 EEAEBE44
 180000F8 00000000
 
-;--- Taddlywink ---
+; --- Taddlywink ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 ED2A6A2A
 28000024 05F5E0FF
 
@@ -19132,15 +19017,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 ED2A6A2A
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 ED2A6A2A
 180000F8 00000000
 
-;--- Tadolescent ---
+; --- Tadolescent ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 ECE8001D
 28000024 05F5E0FF
 
@@ -19185,15 +19070,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 ECE8001D
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 ECE8001D
 180000F8 00000000
 
-;--- Tadorable ---
+; --- Tadorable ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 EF6CD473
 28000024 05F5E0FF
 
@@ -19238,15 +19123,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 EF6CD473
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 EF6CD473
 180000F8 00000000
 
-;--- Teeny Bopper (Gold Version) ---
+; --- Teeny Bopper (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 AA5C12A3
 28000024 05F5E0FF
 
@@ -19291,15 +19176,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 AA5C12A3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 AA5C12A3
 180000F8 00000000
 
-;--- Teeny Bopper ---
+; --- Teeny Bopper ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3DC19336
 28000024 05F5E0FF
 
@@ -19344,15 +19229,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3DC19336
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3DC19336
 180000F8 00000000
 
-;--- Tempestus Majora ---
+; --- Tempestus Majora ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 84BF9E64
 28000024 05F5E0FF
 
@@ -19397,15 +19282,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 84BF9E64
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 84BF9E64
 180000F8 00000000
 
-;--- Thumbelemur ---
+; --- Thumbelemur ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 94A20531
 28000024 05F5E0FF
 
@@ -19450,15 +19335,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 94A20531
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 94A20531
 180000F8 00000000
 
-;--- Thunderbyrde ---
+; --- Thunderbyrde ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 78053548
 28000024 05F5E0FF
 
@@ -19503,15 +19388,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 78053548
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 78053548
 180000F8 00000000
 
-;--- Thunderhead ---
+; --- Thunderhead ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 278C5B03
 28000024 05F5E0FF
 
@@ -19556,15 +19441,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 278C5B03
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 278C5B03
 180000F8 00000000
 
-;--- Tin-Man (Gold Version) ---
+; --- Tin-Man (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 4A836590
 28000024 05F5E0FF
 
@@ -19609,15 +19494,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 4A836590
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 4A836590
 180000F8 00000000
 
-;--- Tin-Man ---
+; --- Tin-Man ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 7A61E9E6
 28000024 05F5E0FF
 
@@ -19662,15 +19547,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 7A61E9E6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 7A61E9E6
 180000F8 00000000
 
-;--- Toko (Gold Version) ---
+; --- Toko (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0055DA28
 28000024 05F5E0FF
 
@@ -19715,15 +19600,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0055DA28
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0055DA28
 180000F8 00000000
 
-;--- Toko ---
+; --- Toko ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1D50EA90
 28000024 05F5E0FF
 
@@ -19768,15 +19653,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1D50EA90
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1D50EA90
 180000F8 00000000
 
-;--- Tokotocold (Gold Version) ---
+; --- Tokotocold (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 03D10E46
 28000024 05F5E0FF
 
@@ -19821,15 +19706,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 03D10E46
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 03D10E46
 180000F8 00000000
 
-;--- Tokotocold ---
+; --- Tokotocold ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1ED43EFE
 28000024 05F5E0FF
 
@@ -19874,15 +19759,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1ED43EFE
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1ED43EFE
 180000F8 00000000
 
-;--- Tokotoko (Gold Version) ---
+; --- Tokotoko (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0197B01F
 28000024 05F5E0FF
 
@@ -19927,15 +19812,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0197B01F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0197B01F
 180000F8 00000000
 
-;--- Tokotoko ---
+; --- Tokotoko ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1C9280A7
 28000024 05F5E0FF
 
@@ -19980,15 +19865,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1C9280A7
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1C9280A7
 180000F8 00000000
 
-;--- Trapper Snapper ---
+; --- Trapper Snapper ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 2E943418
 28000024 05F5E0FF
 
@@ -20033,15 +19918,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 2E943418
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 2E943418
 180000F8 00000000
 
-;--- Triumphant (Gold Version) ---
+; --- Triumphant (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 1164A1A8
 28000024 05F5E0FF
 
@@ -20086,15 +19971,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 1164A1A8
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 1164A1A8
 180000F8 00000000
 
-;--- Triumphant ---
+; --- Triumphant ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 C1595AED
 28000024 05F5E0FF
 
@@ -20139,15 +20024,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 C1595AED
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 C1595AED
 180000F8 00000000
 
-;--- Tropical Bubbud ---
+; --- Tropical Bubbud ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 C7714EC7
 28000024 05F5E0FF
 
@@ -20192,15 +20077,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 C7714EC7
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 C7714EC7
 180000F8 00000000
 
-;--- Trumpy-Bumper ---
+; --- Trumpy-Bumper ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 004F3064
 28000024 05F5E0FF
 
@@ -20245,15 +20130,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 004F3064
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 004F3064
 180000F8 00000000
 
-;--- Trumpy-Pumper (Gold Version) ---
+; --- Trumpy-Pumper (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 B1D3B0A1
 28000024 05F5E0FF
 
@@ -20298,15 +20183,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 B1D3B0A1
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 B1D3B0A1
 180000F8 00000000
 
-;--- Tu-Whit ---
+; --- Tu-Whit ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 03E986FD
 28000024 05F5E0FF
 
@@ -20351,15 +20236,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 03E986FD
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 03E986FD
 180000F8 00000000
 
-;--- Tu-Whoo ---
+; --- Tu-Whoo ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 022BECCA
 28000024 05F5E0FF
 
@@ -20404,15 +20289,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 022BECCA
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 022BECCA
 180000F8 00000000
 
-;--- Tundragorer ---
+; --- Tundragorer ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A25015D6
 28000024 05F5E0FF
 
@@ -20457,15 +20342,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A25015D6
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A25015D6
 180000F8 00000000
 
-;--- Turban Legend ---
+; --- Turban Legend ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 D5A24630
 28000024 05F5E0FF
 
@@ -20510,15 +20395,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 D5A24630
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 D5A24630
 180000F8 00000000
 
-;--- Turban Myth ---
+; --- Turban Myth ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 D4602C07
 28000024 05F5E0FF
 
@@ -20563,15 +20448,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 D4602C07
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 D4602C07
 180000F8 00000000
 
-;--- Turbandit ---
+; --- Turbandit ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 D7E4F869
 28000024 05F5E0FF
 
@@ -20616,15 +20501,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 D7E4F869
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 D7E4F869
 180000F8 00000000
 
-;--- Turburn ---
+; --- Turburn ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 D626925E
 28000024 05F5E0FF
 
@@ -20669,15 +20554,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 D626925E
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 D626925E
 180000F8 00000000
 
-;--- TurnKey ---
+; --- TurnKey ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 13D67F5F
 28000024 05F5E0FF
 
@@ -20722,15 +20607,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 13D67F5F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 13D67F5F
 180000F8 00000000
 
-;--- Tyke ---
+; --- Tyke ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 18AACCEA
 28000024 05F5E0FF
 
@@ -20775,15 +20660,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 18AACCEA
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 18AACCEA
 180000F8 00000000
 
-;--- Ulk ---
+; --- Ulk ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 9376CD10
 28000024 05F5E0FF
 
@@ -20828,15 +20713,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 9376CD10
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 9376CD10
 180000F8 00000000
 
-;--- Umberwood ---
+; --- Umberwood ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A90EC494
 28000024 05F5E0FF
 
@@ -20881,15 +20766,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A90EC494
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A90EC494
 180000F8 00000000
 
-;--- Umbralynx ---
+; --- Umbralynx ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0C1515D9
 28000024 05F5E0FF
 
@@ -20934,15 +20819,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0C1515D9
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0C1515D9
 180000F8 00000000
 
-;--- Underripe Buncher ---
+; --- Underripe Buncher ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 436F6A25
 28000024 05F5E0FF
 
@@ -20987,15 +20872,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 436F6A25
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 436F6A25
 180000F8 00000000
 
-;--- UniBopper (Gold Version) ---
+; --- UniBopper (Gold Version) ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A81AACFA
 28000024 05F5E0FF
 
@@ -21040,15 +20925,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A81AACFA
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A81AACFA
 180000F8 00000000
 
-;--- UniBopper ---
+; --- UniBopper ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 3F872D6F
 28000024 05F5E0FF
 
@@ -21093,15 +20978,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 3F872D6F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 3F872D6F
 180000F8 00000000
 
-;--- Water Ballonatic ---
+; --- Water Ballonatic ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 CDEDF5B2
 28000024 05F5E0FF
 
@@ -21146,15 +21031,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 CDEDF5B2
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 CDEDF5B2
 180000F8 00000000
 
-;--- Water Ogrrr ---
+; --- Water Ogrrr ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 0B99CCDD
 28000024 05F5E0FF
 
@@ -21199,15 +21084,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 0B99CCDD
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 0B99CCDD
 180000F8 00000000
 
-;--- Wattee ---
+; --- Wattee ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 6A7C72B3
 28000024 05F5E0FF
 
@@ -21252,15 +21137,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 6A7C72B3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 6A7C72B3
 180000F8 00000000
 
-;--- wayward sun ---
+; --- wayward sun ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 CBC5E198
 28000024 05F5E0FF
 
@@ -21305,15 +21190,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 CBC5E198
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 CBC5E198
 180000F8 00000000
 
-;--- Weaver Diva ---
+; --- Weaver Diva ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 FA77C06E
 28000024 05F5E0FF
 
@@ -21358,15 +21243,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 FA77C06E
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 FA77C06E
 180000F8 00000000
 
-;--- Web Master ---
+; --- Web Master ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 FBB5AA59
 28000024 05F5E0FF
 
@@ -21411,15 +21296,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 FBB5AA59
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 FBB5AA59
 180000F8 00000000
 
-;--- Whackyrabbot ---
+; --- Whackyrabbot ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 8C47F9BF
 28000024 05F5E0FF
 
@@ -21464,15 +21349,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 8C47F9BF
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 8C47F9BF
 180000F8 00000000
 
-;--- Whambat ---
+; --- Whambat ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F2CB625B
 28000024 05F5E0FF
 
@@ -21517,15 +21402,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F2CB625B
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F2CB625B
 180000F8 00000000
 
-;--- Whampire Bat ---
+; --- Whampire Bat ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F14FB635
 28000024 05F5E0FF
 
@@ -21570,15 +21455,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F14FB635
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F14FB635
 180000F8 00000000
 
-;--- WhipperSnapper ---
+; --- WhipperSnapper ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 2F565E2F
 28000024 05F5E0FF
 
@@ -21623,15 +21508,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 2F565E2F
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 2F565E2F
 180000F8 00000000
 
-;--- Wild Idler ---
+; --- Wild Idler ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 6E9AF53B
 28000024 05F5E0FF
 
@@ -21676,15 +21561,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 6E9AF53B
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 6E9AF53B
 180000F8 00000000
 
-;--- WildWood ---
+; --- WildWood ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 A8CCAEA3
 28000024 05F5E0FF
 
@@ -21729,15 +21614,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 A8CCAEA3
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 A8CCAEA3
 180000F8 00000000
 
-;--- Wimpeafowl ---
+; --- Wimpeafowl ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 C43972BC
 28000024 05F5E0FF
 
@@ -21782,15 +21667,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 C43972BC
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 C43972BC
 180000F8 00000000
 
-;--- Wincy ---
+; --- Wincy ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F9F31400
 28000024 05F5E0FF
 
@@ -21835,15 +21720,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F9F31400
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F9F31400
 180000F8 00000000
 
-;--- Wishing Whambat ---
+; --- Wishing Whambat ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 F309086C
 28000024 05F5E0FF
 
@@ -21888,15 +21773,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 F309086C
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 F309086C
 180000F8 00000000
 
-;--- Wisp ---
+; --- Wisp ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 30B7565E
 28000024 05F5E0FF
 
@@ -21941,15 +21826,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 30B7565E
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 30B7565E
 180000F8 00000000
 
-;--- Wispula ---
+; --- Wispula ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 32F1E807
 28000024 05F5E0FF
 
@@ -21994,15 +21879,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 32F1E807
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 32F1E807
 180000F8 00000000
 
-;--- Worker Bumbler ---
+; --- Worker Bumbler ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 25E887AD
 28000024 05F5E0FF
 
@@ -22047,15 +21932,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 25E887AD
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 25E887AD
 180000F8 00000000
 
-;--- Yellow Buncher ---
+; --- Yellow Buncher ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 4129D47C
 28000024 05F5E0FF
 
@@ -22100,15 +21985,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 4129D47C
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 4129D47C
 180000F8 00000000
 
-;--- Zombo ---
+; --- Zombo ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 81DFB635
 28000024 05F5E0FF
 
@@ -22153,15 +22038,15 @@ Level up to the next available level.
 [Max Familiarity]
 80010004 81DFB635
 080000FE 00000005
+; type: none
 
 [Min Fullness]
 80010004 81DFB635
 180000F8 00000000
 
-;--- Zomboatswain ---
+; --- Zomboatswain ---
 
-Level up to the next available level.
-[Level Up]
+; Level up to the next available level.<title>Level Up</title>
 80010004 801DDC02
 28000024 05F5E0FF
 

@@ -1,40 +1,48 @@
 [INFO: Same patches may not be supported by BSD yet]
-;Final Fantasy XIII-2
-;BLUS30776
+; Final Fantasy XIII-2
+; BLUS30776
 ;From Game Genie For PS3
 
 :BLUS30776-*\KEY.DAT
-;type: hidden
+; type: hidden
 
 :BLUS30776-*\APP.DAT
-;dependency: KEY.DAT
+; type: none
+; dependency: 
+; *** patches not supported by BSD ***
 
-[Max Gil]
+; Max Gil
+; BLUS30776
+;From Game Genie For PS3
 20002316 05F5E0FF
+; type: none
 
 [Max chip coin]
 20010CBA 3B9AC9FF
 
+; --- Character Codes ---
+; type: none
 
-;--- Character Codes ---
+; --- Serah ---
 
-;--- Serah ---
 [CP]
 20036C94 05F5E0FF
+; type: none
 
 [Equipment Max]
 00036C92 000000FF
 
+; --- Noel ---
 
-;--- Noel ---
 [CP]
 200342F4 05F5E0FF
+; type: none
 
 [Equipment Max]
 000342F2 000000FF
 
+; --- Tamed Monster Stats ---
 
-;--- Tamed Monster Stats ---
 [Slot 1 Max LVL 99]
 0006368C 00000063
 
@@ -3424,4 +3432,3 @@
 
 [Slot 226 Max ATB]
 00088A8F 0000003C
-

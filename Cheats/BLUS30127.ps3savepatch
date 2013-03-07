@@ -4,17 +4,18 @@
 ;From Game Genie For PS3
 
 :BLUS30127SGTA4*\RAGE.SAV
+; type: none
 
 [Max Money]
 200000EA 05F5E0FF
 200000F2 05F5E0FF
 
 ; --- Weapons ---
+; type: none
 
 ; --- Slot 1 ---
 
-; The Ballad Of Gay Tony only.
-[Advanced MG]
+; The Ballad Of Gay Tony only.<title>Advanced MG</title>
 20000142 00000022
 10000168 0000270F
 80020008 FFFFFFFF
@@ -25,8 +26,7 @@ FFFFFFFF 00000000
 4100030F 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Advanced Sniper]
+; The Ballad Of Gay Tony only.<title>Advanced Sniper</title>
 20000142 00000023
 10000168 0000270F
 80020008 FFFFFFFF
@@ -37,8 +37,7 @@ FFFFFFFF 00000000
 4100030F 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Assault Gun]
+; The Lost And Damned only.<title>Assault Gun</title>
 20000142 00000016
 10000168 0000270F
 80020008 FFFFFFFF
@@ -60,8 +59,7 @@ FFFFFFFF 00000000
 4100030F 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Assault SMG]
+; The Ballad Of Gay Tony only.<title>Assault SMG</title>
 20000142 00000020
 10000168 0000270F
 80020008 FFFFFFFF
@@ -72,8 +70,7 @@ FFFFFFFF 00000000
 4100030F 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Automatic 9mm]
+; The Lost And Damned only.<title>Automatic 9mm</title>
 20000142 0000001B
 10000168 0000270F
 80020008 FFFFFFFF
@@ -84,8 +81,7 @@ FFFFFFFF 00000000
 4100030F 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Automatic Shotgun]
+; The Ballad Of Gay Tony only.<title>Automatic Shotgun</title>
 20000142 0000001E
 10000168 0000270F
 80020008 FFFFFFFF
@@ -151,8 +147,7 @@ FFFFFFFF 00000000
 4100030F 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Explosive Shotgun]
+; The Ballad Of Gay Tony only.<title>Explosive Shotgun</title>
 20000142 0000001F
 10000168 0000270F
 80020008 FFFFFFFF
@@ -163,8 +158,7 @@ FFFFFFFF 00000000
 4100030F 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Gold SMG]
+; The Ballad Of Gay Tony only.<title>Gold SMG</title>
 20000142 00000021
 10000168 0000270F
 80020008 FFFFFFFF
@@ -186,8 +180,7 @@ FFFFFFFF 00000000
 4100030F 0000270F
 403B0041 00000000
 
-; The Lost And Damned and The Ballad Of Gay Tony only.
-[Grenade Launcher]
+; The Lost And Damned and The Ballad Of Gay Tony only.<title>Grenade Launcher</title>
 20000142 00000015
 10000168 0000270F
 80020008 FFFFFFFF
@@ -231,8 +224,7 @@ FFFFFFFF 00000000
 4100030F 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pipe Bomb]
+; The Lost And Damned only.<title>Pipe Bomb</title>
 20000142 0000001C
 10000168 0000270F
 80020008 FFFFFFFF
@@ -254,8 +246,7 @@ FFFFFFFF 00000000
 4100030F 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Pistol .44]
+; The Ballad Of Gay Tony only.<title>Pistol .44</title>
 20000142 0000001D
 10000168 0000270F
 80020008 FFFFFFFF
@@ -266,8 +257,7 @@ FFFFFFFF 00000000
 4100030F 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pool Cue]
+; The Lost And Damned only.<title>Pool Cue</title>
 20000142 00000018
 10000168 00000001
 80020008 FFFFFFFF
@@ -300,8 +290,7 @@ FFFFFFFF 00000000
 4100030F 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Sawn Off Shotgun]
+; The Lost And Damned only.<title>Sawn Off Shotgun</title>
 20000142 0000001A
 10000168 0000270F
 80020008 FFFFFFFF
@@ -322,6 +311,7 @@ FFFFFFFF 00000000
 40050041 00000000
 4100030F 0000270F
 403B0041 00000000
+; type: none
 
 [Sniper Rifle]
 20000142 00000011
@@ -334,8 +324,7 @@ FFFFFFFF 00000000
 4100030F 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Sticky Bombs]
+; The Ballad Of Gay Tony only.<title>Sticky Bombs</title>
 20000142 00000024
 10000168 0000270F
 80020008 FFFFFFFF
@@ -348,8 +337,7 @@ FFFFFFFF 00000000
 
 ; --- Slot 2 ---
 
-; The Ballad Of Gay Tony only.
-[Advanced MG]
+; The Ballad Of Gay Tony only.<title>Advanced MG</title>
 20000146 00000022
 1000016A 0000270F
 80020008 FFFFFFFF
@@ -360,8 +348,7 @@ FFFFFFFF 00000000
 41000311 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Advanced Sniper]
+; The Ballad Of Gay Tony only.<title>Advanced Sniper</title>
 20000146 00000023
 1000016A 0000270F
 80020008 FFFFFFFF
@@ -372,8 +359,7 @@ FFFFFFFF 00000000
 41000311 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Assault Gun]
+; The Lost And Damned only.<title>Assault Gun</title>
 20000146 00000016
 1000016A 0000270F
 80020008 FFFFFFFF
@@ -395,8 +381,7 @@ FFFFFFFF 00000000
 41000311 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Assault SMG]
+; The Ballad Of Gay Tony only.<title>Assault SMG</title>
 20000146 00000020
 1000016A 0000270F
 80020008 FFFFFFFF
@@ -407,8 +392,7 @@ FFFFFFFF 00000000
 41000311 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Automatic 9mm]
+; The Lost And Damned only.<title>Automatic 9mm</title>
 20000146 0000001B
 1000016A 0000270F
 80020008 FFFFFFFF
@@ -419,8 +403,7 @@ FFFFFFFF 00000000
 41000311 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Automatic Shotgun]
+; The Ballad Of Gay Tony only.<title>Automatic Shotgun</title>
 20000146 0000001E
 1000016A 0000270F
 80020008 FFFFFFFF
@@ -486,8 +469,7 @@ FFFFFFFF 00000000
 41000311 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Explosive Shotgun]
+; The Ballad Of Gay Tony only.<title>Explosive Shotgun</title>
 20000146 0000001F
 1000016A 0000270F
 80020008 FFFFFFFF
@@ -498,8 +480,7 @@ FFFFFFFF 00000000
 41000311 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Gold SMG]
+; The Ballad Of Gay Tony only.<title>Gold SMG</title>
 20000146 00000021
 1000016A 0000270F
 80020008 FFFFFFFF
@@ -521,8 +502,7 @@ FFFFFFFF 00000000
 41000311 0000270F
 403B0041 00000000
 
-; The Lost And Damned and The Ballad Of Gay Tony only.
-[Grenade Launcher]
+; The Lost And Damned and The Ballad Of Gay Tony only.<title>Grenade Launcher</title>
 20000146 00000015
 1000016A 0000270F
 80020008 FFFFFFFF
@@ -566,8 +546,7 @@ FFFFFFFF 00000000
 41000311 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pipe Bomb]
+; The Lost And Damned only.<title>Pipe Bomb</title>
 20000146 0000001C
 1000016A 0000270F
 80020008 FFFFFFFF
@@ -589,8 +568,7 @@ FFFFFFFF 00000000
 41000311 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Pistol .44]
+; The Ballad Of Gay Tony only.<title>Pistol .44</title>
 20000146 0000001D
 1000016A 0000270F
 80020008 FFFFFFFF
@@ -601,8 +579,7 @@ FFFFFFFF 00000000
 41000311 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pool Cue]
+; The Lost And Damned only.<title>Pool Cue</title>
 20000146 00000018
 1000016A 00000001
 80020008 FFFFFFFF
@@ -635,8 +612,7 @@ FFFFFFFF 00000000
 41000311 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Sawn Off Shotgun]
+; The Lost And Damned only.<title>Sawn Off Shotgun</title>
 20000146 0000001A
 1000016A 0000270F
 80020008 FFFFFFFF
@@ -657,6 +633,7 @@ FFFFFFFF 00000000
 40050041 00000000
 41000311 0000270F
 403B0041 00000000
+; type: none
 
 [Sniper Rifle]
 20000146 00000011
@@ -669,8 +646,7 @@ FFFFFFFF 00000000
 41000311 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Sticky Bombs]
+; The Ballad Of Gay Tony only.<title>Sticky Bombs</title>
 20000146 00000024
 1000016A 0000270F
 80020008 FFFFFFFF
@@ -683,8 +659,7 @@ FFFFFFFF 00000000
 
 ; --- Slot 3 ---
 
-; The Ballad Of Gay Tony only.
-[Advanced MG]
+; The Ballad Of Gay Tony only.<title>Advanced MG</title>
 2000014A 00000022
 1000016C 0000270F
 80020008 FFFFFFFF
@@ -695,8 +670,7 @@ FFFFFFFF 00000000
 41000313 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Advanced Sniper]
+; The Ballad Of Gay Tony only.<title>Advanced Sniper</title>
 2000014A 00000023
 1000016C 0000270F
 80020008 FFFFFFFF
@@ -707,8 +681,7 @@ FFFFFFFF 00000000
 41000313 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Assault Gun]
+; The Lost And Damned only.<title>Assault Gun</title>
 2000014A 00000016
 1000016C 0000270F
 80020008 FFFFFFFF
@@ -730,8 +703,7 @@ FFFFFFFF 00000000
 41000313 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Assault SMG]
+; The Ballad Of Gay Tony only.<title>Assault SMG</title>
 2000014A 00000020
 1000016C 0000270F
 80020008 FFFFFFFF
@@ -742,8 +714,7 @@ FFFFFFFF 00000000
 41000313 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Automatic 9mm]
+; The Lost And Damned only.<title>Automatic 9mm</title>
 2000014A 0000001B
 1000016C 0000270F
 80020008 FFFFFFFF
@@ -754,8 +725,7 @@ FFFFFFFF 00000000
 41000313 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Automatic Shotgun]
+; The Ballad Of Gay Tony only.<title>Automatic Shotgun</title>
 2000014A 0000001E
 1000016C 0000270F
 80020008 FFFFFFFF
@@ -821,8 +791,7 @@ FFFFFFFF 00000000
 41000313 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Explosive Shotgun]
+; The Ballad Of Gay Tony only.<title>Explosive Shotgun</title>
 2000014A 0000001F
 1000016C 0000270F
 80020008 FFFFFFFF
@@ -833,8 +802,7 @@ FFFFFFFF 00000000
 41000313 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Gold SMG]
+; The Ballad Of Gay Tony only.<title>Gold SMG</title>
 2000014A 00000021
 1000016C 0000270F
 80020008 FFFFFFFF
@@ -856,8 +824,7 @@ FFFFFFFF 00000000
 41000313 0000270F
 403B0041 00000000
 
-; The Lost And Damned and The Ballad Of Gay Tony only.
-[Grenade Launcher]
+; The Lost And Damned and The Ballad Of Gay Tony only.<title>Grenade Launcher</title>
 2000014A 00000015
 1000016C 0000270F
 80020008 FFFFFFFF
@@ -901,8 +868,7 @@ FFFFFFFF 00000000
 41000313 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pipe Bomb]
+; The Lost And Damned only.<title>Pipe Bomb</title>
 2000014A 0000001C
 1000016C 0000270F
 80020008 FFFFFFFF
@@ -924,8 +890,7 @@ FFFFFFFF 00000000
 41000313 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Pistol .44]
+; The Ballad Of Gay Tony only.<title>Pistol .44</title>
 2000014A 0000001D
 1000016C 0000270F
 80020008 FFFFFFFF
@@ -936,8 +901,7 @@ FFFFFFFF 00000000
 41000313 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pool Cue]
+; The Lost And Damned only.<title>Pool Cue</title>
 2000014A 00000018
 1000016C 00000001
 80020008 FFFFFFFF
@@ -970,8 +934,7 @@ FFFFFFFF 00000000
 41000313 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Sawn Off Shotgun]
+; The Lost And Damned only.<title>Sawn Off Shotgun</title>
 2000014A 0000001A
 1000016C 0000270F
 80020008 FFFFFFFF
@@ -992,6 +955,7 @@ FFFFFFFF 00000000
 40050041 00000000
 41000313 0000270F
 403B0041 00000000
+; type: none
 
 [Sniper Rifle]
 2000014A 00000011
@@ -1004,8 +968,7 @@ FFFFFFFF 00000000
 41000313 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Sticky Bombs]
+; The Ballad Of Gay Tony only.<title>Sticky Bombs</title>
 2000014A 00000024
 1000016C 0000270F
 80020008 FFFFFFFF
@@ -1018,8 +981,7 @@ FFFFFFFF 00000000
 
 ; --- Slot 4 ---
 
-; The Ballad Of Gay Tony only.
-[Advanced MG]
+; The Ballad Of Gay Tony only.<title>Advanced MG</title>
 2000014E 00000022
 1000016E 0000270F
 80020008 FFFFFFFF
@@ -1030,8 +992,7 @@ FFFFFFFF 00000000
 41000315 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Advanced Sniper]
+; The Ballad Of Gay Tony only.<title>Advanced Sniper</title>
 2000014E 00000023
 1000016E 0000270F
 80020008 FFFFFFFF
@@ -1042,8 +1003,7 @@ FFFFFFFF 00000000
 41000315 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Assault Gun]
+; The Lost And Damned only.<title>Assault Gun</title>
 2000014E 00000016
 1000016E 0000270F
 80020008 FFFFFFFF
@@ -1065,8 +1025,7 @@ FFFFFFFF 00000000
 41000315 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Assault SMG]
+; The Ballad Of Gay Tony only.<title>Assault SMG</title>
 2000014E 00000020
 1000016E 0000270F
 80020008 FFFFFFFF
@@ -1077,8 +1036,7 @@ FFFFFFFF 00000000
 41000315 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Automatic 9mm]
+; The Lost And Damned only.<title>Automatic 9mm</title>
 2000014E 0000001B
 1000016E 0000270F
 80020008 FFFFFFFF
@@ -1089,8 +1047,7 @@ FFFFFFFF 00000000
 41000315 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Automatic Shotgun]
+; The Ballad Of Gay Tony only.<title>Automatic Shotgun</title>
 2000014E 0000001E
 1000016E 0000270F
 80020008 FFFFFFFF
@@ -1156,8 +1113,7 @@ FFFFFFFF 00000000
 41000315 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Explosive Shotgun]
+; The Ballad Of Gay Tony only.<title>Explosive Shotgun</title>
 2000014E 0000001F
 1000016E 0000270F
 80020008 FFFFFFFF
@@ -1168,8 +1124,7 @@ FFFFFFFF 00000000
 41000315 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Gold SMG]
+; The Ballad Of Gay Tony only.<title>Gold SMG</title>
 2000014E 00000021
 1000016E 0000270F
 80020008 FFFFFFFF
@@ -1191,8 +1146,7 @@ FFFFFFFF 00000000
 41000315 0000270F
 403B0041 00000000
 
-; The Lost And Damned and The Ballad Of Gay Tony only.
-[Grenade Launcher]
+; The Lost And Damned and The Ballad Of Gay Tony only.<title>Grenade Launcher</title>
 2000014E 00000015
 1000016E 0000270F
 80020008 FFFFFFFF
@@ -1236,8 +1190,7 @@ FFFFFFFF 00000000
 41000315 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pipe Bomb]
+; The Lost And Damned only.<title>Pipe Bomb</title>
 2000014E 0000001C
 1000016E 0000270F
 80020008 FFFFFFFF
@@ -1259,8 +1212,7 @@ FFFFFFFF 00000000
 41000315 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Pistol .44]
+; The Ballad Of Gay Tony only.<title>Pistol .44</title>
 2000014E 0000001D
 1000016E 0000270F
 80020008 FFFFFFFF
@@ -1271,8 +1223,7 @@ FFFFFFFF 00000000
 41000315 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pool Cue]
+; The Lost And Damned only.<title>Pool Cue</title>
 2000014E 00000018
 1000016E 00000001
 80020008 FFFFFFFF
@@ -1305,8 +1256,7 @@ FFFFFFFF 00000000
 41000315 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Sawn Off Shotgun]
+; The Lost And Damned only.<title>Sawn Off Shotgun</title>
 2000014E 0000001A
 1000016E 0000270F
 80020008 FFFFFFFF
@@ -1327,6 +1277,7 @@ FFFFFFFF 00000000
 40050041 00000000
 41000315 0000270F
 403B0041 00000000
+; type: none
 
 [Sniper Rifle]
 2000014E 00000011
@@ -1339,8 +1290,7 @@ FFFFFFFF 00000000
 41000315 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Sticky Bombs]
+; The Ballad Of Gay Tony only.<title>Sticky Bombs</title>
 2000014E 00000024
 1000016E 0000270F
 80020008 FFFFFFFF
@@ -1353,8 +1303,7 @@ FFFFFFFF 00000000
 
 ; --- Slot 5 ---
 
-; The Ballad Of Gay Tony only.
-[Advanced MG]
+; The Ballad Of Gay Tony only.<title>Advanced MG</title>
 20000152 00000022
 10000170 0000270F
 80020008 FFFFFFFF
@@ -1365,8 +1314,7 @@ FFFFFFFF 00000000
 41000317 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Advanced Sniper]
+; The Ballad Of Gay Tony only.<title>Advanced Sniper</title>
 20000152 00000023
 10000170 0000270F
 80020008 FFFFFFFF
@@ -1377,8 +1325,7 @@ FFFFFFFF 00000000
 41000317 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Assault Gun]
+; The Lost And Damned only.<title>Assault Gun</title>
 20000152 00000016
 10000170 0000270F
 80020008 FFFFFFFF
@@ -1400,8 +1347,7 @@ FFFFFFFF 00000000
 41000317 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Assault SMG]
+; The Ballad Of Gay Tony only.<title>Assault SMG</title>
 20000152 00000020
 10000170 0000270F
 80020008 FFFFFFFF
@@ -1412,8 +1358,7 @@ FFFFFFFF 00000000
 41000317 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Automatic 9mm]
+; The Lost And Damned only.<title>Automatic 9mm</title>
 20000152 0000001B
 10000170 0000270F
 80020008 FFFFFFFF
@@ -1424,8 +1369,7 @@ FFFFFFFF 00000000
 41000317 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Automatic Shotgun]
+; The Ballad Of Gay Tony only.<title>Automatic Shotgun</title>
 20000152 0000001E
 10000170 0000270F
 80020008 FFFFFFFF
@@ -1491,8 +1435,7 @@ FFFFFFFF 00000000
 41000317 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Explosive Shotgun]
+; The Ballad Of Gay Tony only.<title>Explosive Shotgun</title>
 20000152 0000001F
 10000170 0000270F
 80020008 FFFFFFFF
@@ -1503,8 +1446,7 @@ FFFFFFFF 00000000
 41000317 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Gold SMG]
+; The Ballad Of Gay Tony only.<title>Gold SMG</title>
 20000152 00000021
 10000170 0000270F
 80020008 FFFFFFFF
@@ -1526,8 +1468,7 @@ FFFFFFFF 00000000
 41000317 0000270F
 403B0041 00000000
 
-; The Lost And Damned and The Ballad Of Gay Tony only.
-[Grenade Launcher]
+; The Lost And Damned and The Ballad Of Gay Tony only.<title>Grenade Launcher</title>
 20000152 00000015
 10000170 0000270F
 80020008 FFFFFFFF
@@ -1571,8 +1512,7 @@ FFFFFFFF 00000000
 41000317 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pipe Bomb]
+; The Lost And Damned only.<title>Pipe Bomb</title>
 20000152 0000001C
 10000170 0000270F
 80020008 FFFFFFFF
@@ -1594,8 +1534,7 @@ FFFFFFFF 00000000
 41000317 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Pistol .44]
+; The Ballad Of Gay Tony only.<title>Pistol .44</title>
 20000152 0000001D
 10000170 0000270F
 80020008 FFFFFFFF
@@ -1606,8 +1545,7 @@ FFFFFFFF 00000000
 41000317 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pool Cue]
+; The Lost And Damned only.<title>Pool Cue</title>
 20000152 00000018
 10000170 00000001
 80020008 FFFFFFFF
@@ -1640,8 +1578,7 @@ FFFFFFFF 00000000
 41000317 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Sawn Off Shotgun]
+; The Lost And Damned only.<title>Sawn Off Shotgun</title>
 20000152 0000001A
 10000170 0000270F
 80020008 FFFFFFFF
@@ -1662,6 +1599,7 @@ FFFFFFFF 00000000
 40050041 00000000
 41000317 0000270F
 403B0041 00000000
+; type: none
 
 [Sniper Rifle]
 20000152 00000011
@@ -1674,8 +1612,7 @@ FFFFFFFF 00000000
 41000317 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Sticky Bombs]
+; The Ballad Of Gay Tony only.<title>Sticky Bombs</title>
 20000152 00000024
 10000170 0000270F
 80020008 FFFFFFFF
@@ -1688,8 +1625,7 @@ FFFFFFFF 00000000
 
 ; --- Slot 6 ---
 
-; The Ballad Of Gay Tony only.
-[Advanced MG]
+; The Ballad Of Gay Tony only.<title>Advanced MG</title>
 20000156 00000022
 10000172 0000270F
 80020008 FFFFFFFF
@@ -1700,8 +1636,7 @@ FFFFFFFF 00000000
 41000319 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Advanced Sniper]
+; The Ballad Of Gay Tony only.<title>Advanced Sniper</title>
 20000156 00000023
 10000172 0000270F
 80020008 FFFFFFFF
@@ -1712,8 +1647,7 @@ FFFFFFFF 00000000
 41000319 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Assault Gun]
+; The Lost And Damned only.<title>Assault Gun</title>
 20000156 00000016
 10000172 0000270F
 80020008 FFFFFFFF
@@ -1735,8 +1669,7 @@ FFFFFFFF 00000000
 41000319 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Assault SMG]
+; The Ballad Of Gay Tony only.<title>Assault SMG</title>
 20000156 00000020
 10000172 0000270F
 80020008 FFFFFFFF
@@ -1747,8 +1680,7 @@ FFFFFFFF 00000000
 41000319 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Automatic 9mm]
+; The Lost And Damned only.<title>Automatic 9mm</title>
 20000156 0000001B
 10000172 0000270F
 80020008 FFFFFFFF
@@ -1759,8 +1691,7 @@ FFFFFFFF 00000000
 41000319 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Automatic Shotgun]
+; The Ballad Of Gay Tony only.<title>Automatic Shotgun</title>
 20000156 0000001E
 10000172 0000270F
 80020008 FFFFFFFF
@@ -1826,8 +1757,7 @@ FFFFFFFF 00000000
 41000319 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Explosive Shotgun]
+; The Ballad Of Gay Tony only.<title>Explosive Shotgun</title>
 20000156 0000001F
 10000172 0000270F
 80020008 FFFFFFFF
@@ -1838,8 +1768,7 @@ FFFFFFFF 00000000
 41000319 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Gold SMG]
+; The Ballad Of Gay Tony only.<title>Gold SMG</title>
 20000156 00000021
 10000172 0000270F
 80020008 FFFFFFFF
@@ -1861,8 +1790,7 @@ FFFFFFFF 00000000
 41000319 0000270F
 403B0041 00000000
 
-; The Lost And Damned and The Ballad Of Gay Tony only.
-[Grenade Launcher]
+; The Lost And Damned and The Ballad Of Gay Tony only.<title>Grenade Launcher</title>
 20000156 00000015
 10000172 0000270F
 80020008 FFFFFFFF
@@ -1906,8 +1834,7 @@ FFFFFFFF 00000000
 41000319 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pipe Bomb]
+; The Lost And Damned only.<title>Pipe Bomb</title>
 20000156 0000001C
 10000172 0000270F
 80020008 FFFFFFFF
@@ -1929,8 +1856,7 @@ FFFFFFFF 00000000
 41000319 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Pistol .44]
+; The Ballad Of Gay Tony only.<title>Pistol .44</title>
 20000156 0000001D
 10000172 0000270F
 80020008 FFFFFFFF
@@ -1941,8 +1867,7 @@ FFFFFFFF 00000000
 41000319 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pool Cue]
+; The Lost And Damned only.<title>Pool Cue</title>
 20000156 00000018
 10000172 00000001
 80020008 FFFFFFFF
@@ -1975,8 +1900,7 @@ FFFFFFFF 00000000
 41000319 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Sawn Off Shotgun]
+; The Lost And Damned only.<title>Sawn Off Shotgun</title>
 20000156 0000001A
 10000172 0000270F
 80020008 FFFFFFFF
@@ -1997,6 +1921,7 @@ FFFFFFFF 00000000
 40050041 00000000
 41000319 0000270F
 403B0041 00000000
+; type: none
 
 [Sniper Rifle]
 20000156 00000011
@@ -2009,8 +1934,7 @@ FFFFFFFF 00000000
 41000319 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Sticky Bombs]
+; The Ballad Of Gay Tony only.<title>Sticky Bombs</title>
 20000156 00000024
 10000172 0000270F
 80020008 FFFFFFFF
@@ -2023,8 +1947,7 @@ FFFFFFFF 00000000
 
 ; --- Slot 7 ---
 
-; The Ballad Of Gay Tony only.
-[Advanced MG]
+; The Ballad Of Gay Tony only.<title>Advanced MG</title>
 2000015A 00000022
 10000174 0000270F
 80020008 FFFFFFFF
@@ -2035,8 +1958,7 @@ FFFFFFFF 00000000
 4100031B 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Advanced Sniper]
+; The Ballad Of Gay Tony only.<title>Advanced Sniper</title>
 2000015A 00000023
 10000174 0000270F
 80020008 FFFFFFFF
@@ -2047,8 +1969,7 @@ FFFFFFFF 00000000
 4100031B 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Assault Gun]
+; The Lost And Damned only.<title>Assault Gun</title>
 2000015A 00000016
 10000174 0000270F
 80020008 FFFFFFFF
@@ -2070,8 +1991,7 @@ FFFFFFFF 00000000
 4100031B 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Assault SMG]
+; The Ballad Of Gay Tony only.<title>Assault SMG</title>
 2000015A 00000020
 10000174 0000270F
 80020008 FFFFFFFF
@@ -2082,8 +2002,7 @@ FFFFFFFF 00000000
 4100031B 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Automatic 9mm]
+; The Lost And Damned only.<title>Automatic 9mm</title>
 2000015A 0000001B
 10000174 0000270F
 80020008 FFFFFFFF
@@ -2094,8 +2013,7 @@ FFFFFFFF 00000000
 4100031B 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Automatic Shotgun]
+; The Ballad Of Gay Tony only.<title>Automatic Shotgun</title>
 2000015A 0000001E
 10000174 0000270F
 80020008 FFFFFFFF
@@ -2161,8 +2079,7 @@ FFFFFFFF 00000000
 4100031B 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Explosive Shotgun]
+; The Ballad Of Gay Tony only.<title>Explosive Shotgun</title>
 2000015A 0000001F
 10000174 0000270F
 80020008 FFFFFFFF
@@ -2173,8 +2090,7 @@ FFFFFFFF 00000000
 4100031B 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Gold SMG]
+; The Ballad Of Gay Tony only.<title>Gold SMG</title>
 2000015A 00000021
 10000174 0000270F
 80020008 FFFFFFFF
@@ -2196,8 +2112,7 @@ FFFFFFFF 00000000
 4100031B 0000270F
 403B0041 00000000
 
-; The Lost And Damned and The Ballad Of Gay Tony only.
-[Grenade Launcher]
+; The Lost And Damned and The Ballad Of Gay Tony only.<title>Grenade Launcher</title>
 2000015A 00000015
 10000174 0000270F
 80020008 FFFFFFFF
@@ -2241,8 +2156,7 @@ FFFFFFFF 00000000
 4100031B 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pipe Bomb]
+; The Lost And Damned only.<title>Pipe Bomb</title>
 2000015A 0000001C
 10000174 0000270F
 80020008 FFFFFFFF
@@ -2264,8 +2178,7 @@ FFFFFFFF 00000000
 4100031B 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Pistol .44]
+; The Ballad Of Gay Tony only.<title>Pistol .44</title>
 2000015A 0000001D
 10000174 0000270F
 80020008 FFFFFFFF
@@ -2276,8 +2189,7 @@ FFFFFFFF 00000000
 4100031B 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pool Cue]
+; The Lost And Damned only.<title>Pool Cue</title>
 2000015A 00000018
 10000174 00000001
 80020008 FFFFFFFF
@@ -2310,8 +2222,7 @@ FFFFFFFF 00000000
 4100031B 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Sawn Off Shotgun]
+; The Lost And Damned only.<title>Sawn Off Shotgun</title>
 2000015A 0000001A
 10000174 0000270F
 80020008 FFFFFFFF
@@ -2332,6 +2243,7 @@ FFFFFFFF 00000000
 40050041 00000000
 4100031B 0000270F
 403B0041 00000000
+; type: none
 
 [Sniper Rifle]
 2000015A 00000011
@@ -2344,8 +2256,7 @@ FFFFFFFF 00000000
 4100031B 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Sticky Bombs]
+; The Ballad Of Gay Tony only.<title>Sticky Bombs</title>
 2000015A 00000024
 10000174 0000270F
 80020008 FFFFFFFF
@@ -2358,8 +2269,7 @@ FFFFFFFF 00000000
 
 ; --- Slot 8 ---
 
-; The Ballad Of Gay Tony only.
-[Advanced MG]
+; The Ballad Of Gay Tony only.<title>Advanced MG</title>
 2000015E 00000022
 10000176 0000270F
 80020008 FFFFFFFF
@@ -2370,8 +2280,7 @@ FFFFFFFF 00000000
 4100031D 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Advanced Sniper]
+; The Ballad Of Gay Tony only.<title>Advanced Sniper</title>
 2000015E 00000023
 10000176 0000270F
 80020008 FFFFFFFF
@@ -2382,8 +2291,7 @@ FFFFFFFF 00000000
 4100031D 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Assault Gun]
+; The Lost And Damned only.<title>Assault Gun</title>
 2000015E 00000016
 10000176 0000270F
 80020008 FFFFFFFF
@@ -2405,8 +2313,7 @@ FFFFFFFF 00000000
 4100031D 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Assault SMG]
+; The Ballad Of Gay Tony only.<title>Assault SMG</title>
 2000015E 00000020
 10000176 0000270F
 80020008 FFFFFFFF
@@ -2417,8 +2324,7 @@ FFFFFFFF 00000000
 4100031D 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Automatic 9mm]
+; The Lost And Damned only.<title>Automatic 9mm</title>
 2000015E 0000001B
 10000176 0000270F
 80020008 FFFFFFFF
@@ -2429,8 +2335,7 @@ FFFFFFFF 00000000
 4100031D 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Automatic Shotgun]
+; The Ballad Of Gay Tony only.<title>Automatic Shotgun</title>
 2000015E 0000001E
 10000176 0000270F
 80020008 FFFFFFFF
@@ -2496,8 +2401,7 @@ FFFFFFFF 00000000
 4100031D 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Explosive Shotgun]
+; The Ballad Of Gay Tony only.<title>Explosive Shotgun</title>
 2000015E 0000001F
 10000176 0000270F
 80020008 FFFFFFFF
@@ -2508,8 +2412,7 @@ FFFFFFFF 00000000
 4100031D 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Gold SMG]
+; The Ballad Of Gay Tony only.<title>Gold SMG</title>
 2000015E 00000021
 10000176 0000270F
 80020008 FFFFFFFF
@@ -2531,8 +2434,7 @@ FFFFFFFF 00000000
 4100031D 0000270F
 403B0041 00000000
 
-; The Lost And Damned and The Ballad Of Gay Tony only.
-[Grenade Launcher]
+; The Lost And Damned and The Ballad Of Gay Tony only.<title>Grenade Launcher</title>
 2000015E 00000015
 10000176 0000270F
 80020008 FFFFFFFF
@@ -2576,8 +2478,7 @@ FFFFFFFF 00000000
 4100031D 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pipe Bomb]
+; The Lost And Damned only.<title>Pipe Bomb</title>
 2000015E 0000001C
 10000176 0000270F
 80020008 FFFFFFFF
@@ -2599,8 +2500,7 @@ FFFFFFFF 00000000
 4100031D 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Pistol .44]
+; The Ballad Of Gay Tony only.<title>Pistol .44</title>
 2000015E 0000001D
 10000176 0000270F
 80020008 FFFFFFFF
@@ -2611,8 +2511,7 @@ FFFFFFFF 00000000
 4100031D 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Pool Cue]
+; The Lost And Damned only.<title>Pool Cue</title>
 2000015E 00000018
 10000176 00000001
 80020008 FFFFFFFF
@@ -2645,8 +2544,7 @@ FFFFFFFF 00000000
 4100031D 0000270F
 403B0041 00000000
 
-; The Lost And Damned only.
-[Sawn Off Shotgun]
+; The Lost And Damned only.<title>Sawn Off Shotgun</title>
 2000015E 0000001A
 10000176 0000270F
 80020008 FFFFFFFF
@@ -2679,8 +2577,7 @@ FFFFFFFF 00000000
 4100031D 0000270F
 403B0041 00000000
 
-; The Ballad Of Gay Tony only.
-[Sticky Bombs]
+; The Ballad Of Gay Tony only.<title>Sticky Bombs</title>
 2000015E 00000024
 10000176 0000270F
 80020008 FFFFFFFF
