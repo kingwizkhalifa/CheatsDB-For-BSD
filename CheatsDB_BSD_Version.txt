@@ -4,6 +4,16 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.21 (Mar 10, 2013) - 246
+- Added Mortal Kombat BLES01132 // From GG
+- Updated BioShock BLUS30166 // From GG
+- Updated Gran Turismo 5 BCUS98114 // From GG
+- Updated Gran Turismo 5 BCES00569 // From GG
+- Updated Naruto Shippuden: Ultimate Ninja Storm 3 BLUS31066 // From GG
+- Updated Naruto Shippuden: Ultimate Ninja Storm 3 BLAS50577 // From GG
+- Updated Naruto Shippuden: Ultimate Ninja Storm 3 BLJS10200 // From GG
+- Updated White Knight Chronicles BCUS98146 // From GG
+
 Version 0.20 (Mar 08, 2013) - 245
 - Added Lollipop Chainsaw BLJS10168 // From savedata.jp
 - Added Okami HD BLJM60467 // From savedata.jp
