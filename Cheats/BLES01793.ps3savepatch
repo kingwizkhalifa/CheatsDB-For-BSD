@@ -1,0 +1,36 @@
+; Atelier Ayesha: The Alchemist of Dusk
+; BLES01793
+;From KE-HA
+
+:USR-DATA
+
+[Money 9999999]
+2000BD4C 0098967F
+ 
+[Memory Pts 9999]
+2009D381 0000270F
+2009D385 0000270F
+ 
+[Ayesha Altugle Alchemy Exp 9999999]
+2008AAD5 0098967F
+ 
+[Ayesha Altugle Exp 999999]
+2000BD64 000F423F
+ 
+[Wilbell voll Erslied Exp 999999]
+2000BFEC 000F423F
+ 
+[Regina Curtis Exp 999999]
+2000C274 000F423F
+ 
+[Rinka Exp 999999]
+2000C4FC 000F423F
+ 
+[Juris Grunden Exp 999999]
+2000C784 000F423F
+ 
+[Keithgrif Hazeldine Exp 999999]
+2000CA0C 000F423F
+ 
+[Nio Altugle Exp 999999]
+2000CC94 000F423F
