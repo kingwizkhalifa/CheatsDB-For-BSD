@@ -7,6 +7,8 @@ Version History
 Version 0.22 (Mar 13, 2013) - 248
 - Added Tomb Raider BLUS31036 // From GG
 - Added Atelier Ayesha: The Alchemist of Dusk BLES01793 // From KE-HA
+- Updated Dynasty Warriors 7 Empires BCUS50563 // From KE-HA
+- Updated Dynasty Warriors 7 Empires BLES01796 // From KE-HA
 
 Version 0.21 (Mar 10, 2013) - 246
 - Added Mortal Kombat BLES01132 // From GG
