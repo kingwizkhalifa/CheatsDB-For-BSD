@@ -4,6 +4,11 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.23 (Mar 14, 2013) - 251
+- Added God of War: Ascension BCUS99188 // From KE-HA
+- Added God of War: Ascension BCES01741 // From KE-HA
+- Added Darkstalkers Resurrection BLJM60567 // From KE-HA
+
 Version 0.22 (Mar 13, 2013) - 248
 - Added Tomb Raider BLUS31036 // From GG
 - Added Atelier Ayesha: The Alchemist of Dusk BLES01793 // From KE-HA
