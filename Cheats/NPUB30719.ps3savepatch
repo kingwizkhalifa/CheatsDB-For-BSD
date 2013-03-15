@@ -1,0 +1,17 @@
+;Black Knight Sword (PSN)
+;NPUB30719
+;From gingerbread
+
+:PAYLOAD
+
+[Hearts 255]
+set pointer:0x00000095
+write next 0:FF
+
+
+
+
+
+
+
+

@@ -4,6 +4,11 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.25 (Mar 16, 2013) - 256
+- Added Black Knight Sword (PSN) NPUB30719 // From gingerbread
+- Added Hyperdimension Neptunia Victory BLJM60491 // From savedata.jp
+- Added Hyperdimension Neptunia Victory BLES01788 // From savedata.jp
+
 Version 0.24 (Mar 15, 2013) - 253
 - Added Darkstalkers Resurrection (PSN) NPUB30666 // From KE-HA
 - Added Dai-2-Ji Super Robot Taisen OG BLJS10133 // From savedata.jp
