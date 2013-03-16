@@ -4,8 +4,14 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.26 (Mar 16, 2013) - 257
+- Added Hustle Kings™ (PSN) NPUA80291 // From gingerbread (Using BSD's Pacth Creator)
+- Updated Atelier Meruru: The Apprentice Of Arland BLES01593 // From Game Genie & savedata.jp
+- Updated Atelier Meruru: The Apprentice Of Arland BLUS30941 // From Game Genie & savedata.jp
+- Updated Black Knight Sword (PSN) NPUB30719 // From gingerbread (Using BSD's Pacth Creator)
+
 Version 0.25 (Mar 16, 2013) - 256
-- Added Black Knight Sword (PSN) NPUB30719 // From gingerbread
+- Added Black Knight Sword (PSN) NPUB30719 // From gingerbread (Using BSD's Pacth Creator)
 - Added Hyperdimension Neptunia Victory BLJM60491 // From savedata.jp
 - Added Hyperdimension Neptunia Victory BLES01788 // From savedata.jp
 
