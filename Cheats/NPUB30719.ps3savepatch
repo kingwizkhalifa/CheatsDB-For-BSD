@@ -22,6 +22,7 @@ write next 0:270F
 set pointer:0x00000099
 write next 0:FF
 
+;Only use this cheat after stage 1.
 ;Will reset to 03 when you die, always save at Checkpoint. Always load from checkpoint.
 [Magic Attack 99]
 set pointer:0x000000A1
