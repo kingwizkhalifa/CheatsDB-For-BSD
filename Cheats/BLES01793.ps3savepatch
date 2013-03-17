@@ -2,35 +2,66 @@
 ; BLES01793
 ;From KE-HA
 
-:USR-DATA
+:BLES01793-SETTINGS\SYS-DATA
+; type: none
 
-[Money 9999999]
+:BLES01793-LIST-*\USR-DATA
+; type: none
+
+[Max Money]
 2000BD4C 0098967F
- 
-[Memory Pts 9999]
+
+[Max Memory Pts]
 2009D381 0000270F
 2009D385 0000270F
- 
-[Ayesha Altugle Alchemy Exp 9999999]
+; type: none
+
+[Reset Game Time]
+20089058 00000000
+
+; --- Characters ---
+; type: none
+
+; --- Ayesha ---
+
+[Max Alchemy Exp]
 2008AAD5 0098967F
- 
-[Ayesha Altugle Exp 999999]
+; type: none
+
+[Max Exp]
 2000BD64 000F423F
- 
-[Wilbell voll Erslied Exp 999999]
-2000BFEC 000F423F
- 
-[Regina Curtis Exp 999999]
-2000C274 000F423F
- 
-[Rinka Exp 999999]
-2000C4FC 000F423F
- 
-[Juris Grunden Exp 999999]
+
+; --- Juris ---
+; type: none
+
+[Max Exp]
 2000C784 000F423F
- 
-[Keithgrif Hazeldine Exp 999999]
+
+; --- Keithgrif ---
+; type: none
+
+[Max Exp]
 2000CA0C 000F423F
- 
-[Nio Altugle Exp 999999]
+
+; --- Nio ---
+; type: none
+
+[Max Exp]
 2000CC94 000F423F
+
+; --- Regina ---
+; type: none
+
+[Max Exp]
+2000C274 000F423F
+
+; --- Rinka ---
+; type: none
+
+[Max Exp]
+2000C4FC 000F423F
+
+; --- Wilbell ---
+
+[Max Exp]
+2000BFEC 000F423F

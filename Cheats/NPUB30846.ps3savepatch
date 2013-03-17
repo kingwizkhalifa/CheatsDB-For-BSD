@@ -1,8 +1,8 @@
 ; Dynasty Warriors 7 Empires
-; BCUS50563
+; NPUB30846
 ; From KE-HA
 
-:BCUS50563-PLAY*\DATA.BIN
+:NPUB30846-PLAY*\DATA.BIN
 ; type: none
 
 ;Play Data Only
@@ -68,7 +68,7 @@
 [Max Info]
 1002BD12 000003E7
 
-:BCUS50563-SYSTEM\DATA.BIN
+:NPUB30846-SYSTEM\DATA.BIN
 ; type: none
 
 ;SYSTEM Data Only

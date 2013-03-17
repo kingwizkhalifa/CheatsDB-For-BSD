@@ -2,7 +2,9 @@
 ; BLES01796
 ; From KE-HA
 
-:DATA.BIN
+:BLES01796-PLAY*\DATA.BIN
+; type: none
+
 ;Play Data Only
 [Food 999/Info 999/Gold 999 *Play Data Only]
 1002BD0E 000003E7
@@ -53,6 +55,21 @@
 [Brave Wise Kind Orderly Affluent Evil - All Lv.9 - Zhu Rong]
 4100813E 00006B6C
 40060002 00000000
+
+;Play Data Only
+[Max Gold]
+1002BD16 000003E7
+
+;Play Data Only
+[Max Food]
+1002BD0E 000003E7
+
+;Play Data Only
+[Max Info]
+1002BD12 000003E7
+
+:BLES01796-SYSTEM\DATA.BIN
+; type: none
 
 ;SYSTEM Data Only
 [Bonus 99999 *System Data Only]
