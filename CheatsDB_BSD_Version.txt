@@ -4,6 +4,19 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.28 (Mar 18, 2013) - 262
+- Added Dead Or Alive 5 BLUS30971 // From KE-HA
+- Added Dead Or Alive 5 BLES01623 // From KE-HA
+- Added Far Cry 3 BLUS30687 // From KE-HA
+- Added Saints Row: The Third  BLUS30666 // From KE-HA
+- Updated God Of War: Ascension BCUS98232 // From KE-HA
+- Updated God Of War: Ascension BCES01741 // From KE-HA
+- Updated Dead Or Alive 5 (PSN) NPUB30893 // From KE-HA
+- Updated Metal Gear Rising: Revengance BLUS31045 // From KE-HA
+- Updated Metal Gear Rising: Revengance BLES01750 // From KE-HA
+- Updated Resident Evil 6 BLUS30855 // From KE-HA
+- Updated Resident Evil 6 BLES01465 // From KE-HA
+
 Version 0.27 (Mar 17, 2013) - 258
 - Added Dynasty Warriors 7 Empires (PSN) NPUB30846 // From KE-HA
 - Updated God Of War: Ascension BCUS98232 // From KE-HA
@@ -11,7 +24,7 @@ Version 0.27 (Mar 17, 2013) - 258
 - Updated Dynasty Warriors 7 Empires BCUS50563 // From KE-HA
 - Updated Dynasty Warriors 7 Empires BLES01796 // From KE-HA
 - Updated Atelier Ayesha: The Alchemist of Dusk BLES01793 // From KE-HA
-- Updated Atelier Ayesha: The Alchemist of Dusk BLUS31152 // From KE-HA
+- Updated Atelier Ayesha: The Alchemist of Dusk BLUS31152BLUS31152 // From KE-HA
 
 Version 0.26 (Mar 16, 2013) - 257
 - Added Hustle Kings™ (PSN) NPUA80291 // From gingerbread (Using BSD's Pacth Creator)
@@ -277,7 +290,7 @@ Version 0.01 (Feb 19, 2013) - 169
 - Added Conflict: Denied Ops BLUS30107 // From GG
 - Added Cross Edge BLUS30348 // From GG
 - Added Darksiders II BLUS30829 // From GG
-- Added Dead Or Alive 5 NPUB30893 // From GG
+- Added Dead Or Alive 5 (PSN) NPUB30893 // From GG
 - Added Dead Rising 2 BLUS30439 // From GG
 - Added Dead Rising 2: Off The Record BLUS30763 // From GG
 - Added Dead Space 2 (PSN) BLUS30717 // From GG
