@@ -3,13 +3,12 @@
 ; From KE-HA
 
 :USR-DATA
-[Update CRC32 (Required)]
-set crc32:0
-write at 0x00000000:xor:CF012886
-
 [Cash $999000]
 8001000A 57616C6C
 65744361 73680000
 2800000F 39393930
 18000013 00003030
 
+[default:Update CRC32 (Required)]
+set crc32:0
+write at 0x00000000:xor:CF012886
