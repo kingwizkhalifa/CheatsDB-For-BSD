@@ -4,6 +4,10 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.29 (Mar 18, 2013) - 264
+- Added Army of TWO™ The Devil's Cartel BLES01767 // From KE-HA
+- Added Army of TWO™ The Devil's Cartel BLUS31069 // From KE-HA
+
 Version 0.28 (Mar 18, 2013) - 262
 - Added Dead Or Alive 5 BLUS30971 // From KE-HA
 - Added Dead Or Alive 5 BLES01623 // From KE-HA
