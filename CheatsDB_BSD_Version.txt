@@ -4,6 +4,13 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.30 (Mar 19, 2013) - 266
+- Added Lollipop Chainsaw BLES01525 // From KE-HA
+- Added Lollipop Chainsaw BLUS30917 // From KE-HA
+- Updated Lollipop Chainsaw BLJS10168 // From KE-HA
+- Set Status/Info Army of TWO™ The Devil's Cartel BLES01767 // From KE-HA
+- Set Status/Info Army of TWO™ The Devil's Cartel BLUS31069 // From KE-HA
+
 Version 0.29 (Mar 18, 2013) - 264
 - Added Army of TWO™ The Devil's Cartel BLES01767 // From KE-HA
 - Added Army of TWO™ The Devil's Cartel BLUS31069 // From KE-HA
@@ -67,8 +74,8 @@ Version 0.21 (Mar 10, 2013) - 246
 - Updated White Knight Chronicles BCUS98146 // From GG
 
 Version 0.20 (Mar 08, 2013) - 245
-- Added Lollipop Chainsaw BLJS10168 // From savedata.jp
-- Added Okami HD BLJM60467 // From savedata.jp
+- Added Lollipop Chainsaw BLJS10168 // From KE-HA
+- Added Okami HD BLJM60467 // From KE-HA
 
 Version 0.19 (Mar 07, 2013) - 243
 - Added Naruto Shippuden: Ultimate Ninja Storm 3 BLUS31066 // From KE-HA
