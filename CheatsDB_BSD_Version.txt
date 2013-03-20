@@ -4,6 +4,10 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.31 (Mar 20, 2013) - 268
+- Added One Piece: Pirate Warriors 2 BLJM60572 // From KE-HA
+- Added The Walking Dead: Survival Instinct BLUS31065 // From KE-HA
+
 Version 0.30 (Mar 19, 2013) - 266
 - Added Lollipop Chainsaw BLES01525 // From KE-HA
 - Added Lollipop Chainsaw BLUS30917 // From KE-HA
