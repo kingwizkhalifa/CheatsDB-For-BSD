@@ -1,3 +1,4 @@
+[INFO: Same patches may not be supported by BSD yet]
 ;The Walking Dead: Survival Instinct
 ;BLUS31065
 ;From KE-HA
@@ -6,3 +7,12 @@
 [Inventory Item No.1-No.10 Stock 9,999]
 42001C2C 0000270F
 400A0144 00000000
+
+[Jess Condition 999,999,999]
+2000073C 3B9AC9FF
+ 
+[Vehicle # of Seats 999,999,999]
+20001990 3B9AC9FF
+ 
+[Vehicle Storage Cap 999,999,999]
+20001994 3B9AC9FF

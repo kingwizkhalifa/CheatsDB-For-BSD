@@ -4,6 +4,10 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.32 (Mar 21, 2013) - 269
+- Added Disgaea D2: A Brighter Darkness BLJS10205 // From KE-HA
+- Updated The Walking Dead: Survival Instinct BLUS31065 // From KE-HA
+
 Version 0.31 (Mar 20, 2013) - 268
 - Added One Piece: Pirate Warriors 2 BLJM60572 // From KE-HA
 - Added The Walking Dead: Survival Instinct BLUS31065 // From KE-HA
