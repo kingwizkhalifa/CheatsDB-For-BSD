@@ -4,6 +4,17 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.35 (Mar 24, 2013) - 275
+- Added Resident Evil: The Darkside Chronicles (PSN) NPUB30648 // From Zephyer
+- Added Resident Evil: The Umbrella Chronicles (PSN) NPUB30650 // From Zephyer
+- Added Yu-Gi-Oh! 5D's Decade Duels Plus (PSN) NPUB30903 // From Zephyer
+- Removed Status/Info Twisted Metal BCUS98106
+- Set Status/Info Castlevania: Lords Of Shadow BLES01047
+- Set Status/Info Castlevania: Lords Of Shadow BLUS30339
+- Set Status/Info Conan BLES00076
+- Set Status/Info Conan BLUS30069
+- Set Status/Info Yu-Gi-Oh! 5D's Decade Duels Plus (PSN) NPUB3090
+
 Version 0.34 (Mar 23, 2013) - 272
 - Added Fist Of The North Star: Kens Rage 2 (PSN) // From GG
 - Added The Walking Dead: Survival Instinct BLES01779 // From KE-HA & GG
@@ -26,35 +37,35 @@ Version 0.31 (Mar 20, 2013) - 268
 Version 0.30 (Mar 19, 2013) - 266
 - Added Lollipop Chainsaw BLES01525 // From KE-HA
 - Added Lollipop Chainsaw BLUS30917 // From KE-HA
-- Updated Lollipop Chainsaw BLJS10168 // From KE-HA
 - Set Status/Info Army of TWO™ The Devil's Cartel BLES01767 // From KE-HA
 - Set Status/Info Army of TWO™ The Devil's Cartel BLUS31069 // From KE-HA
+- Updated Lollipop Chainsaw BLJS10168 // From KE-HA
 
 Version 0.29 (Mar 18, 2013) - 264
 - Added Army of TWO™ The Devil's Cartel BLES01767 // From KE-HA
 - Added Army of TWO™ The Devil's Cartel BLUS31069 // From KE-HA
 
 Version 0.28 (Mar 18, 2013) - 262
-- Added Dead Or Alive 5 BLUS30971 // From KE-HA
 - Added Dead Or Alive 5 BLES01623 // From KE-HA
+- Added Dead Or Alive 5 BLUS30971 // From KE-HA
 - Added Far Cry 3 BLUS30687 // From KE-HA
 - Added Saints Row: The Third  BLUS30666 // From KE-HA
-- Updated God Of War: Ascension BCUS98232 // From KE-HA
-- Updated God Of War: Ascension BCES01741 // From KE-HA
 - Updated Dead Or Alive 5 (PSN) NPUB30893 // From KE-HA
-- Updated Metal Gear Rising: Revengance BLUS31045 // From KE-HA
+- Updated God Of War: Ascension BCES01741 // From KE-HA
+- Updated God Of War: Ascension BCUS98232 // From KE-HA
 - Updated Metal Gear Rising: Revengance BLES01750 // From KE-HA
-- Updated Resident Evil 6 BLUS30855 // From KE-HA
+- Updated Metal Gear Rising: Revengance BLUS31045 // From KE-HA
 - Updated Resident Evil 6 BLES01465 // From KE-HA
+- Updated Resident Evil 6 BLUS30855 // From KE-HA
 
 Version 0.27 (Mar 17, 2013) - 258
 - Added Dynasty Warriors 7 Empires (PSN) NPUB30846 // From KE-HA
-- Updated God Of War: Ascension BCUS98232 // From KE-HA
-- Updated God Of War: Ascension BCES01741 // From KE-HA
-- Updated Dynasty Warriors 7 Empires BCUS50563 // From KE-HA
-- Updated Dynasty Warriors 7 Empires BLES01796 // From KE-HA
 - Updated Atelier Ayesha: The Alchemist of Dusk BLES01793 // From KE-HA
 - Updated Atelier Ayesha: The Alchemist of Dusk BLUS31152 // From KE-HA
+- Updated Dynasty Warriors 7 Empires BCUS50563 // From KE-HA
+- Updated Dynasty Warriors 7 Empires BLES01796 // From KE-HA
+- Updated God Of War: Ascension BCES01741 // From KE-HA
+- Updated God Of War: Ascension BCUS98232 // From KE-HA
 
 Version 0.26 (Mar 16, 2013) - 257
 - Added Hustle Kings™ (PSN) NPUA80291 // From gingerbread (Using BSD's Pacth Creator)
@@ -68,28 +79,28 @@ Version 0.25 (Mar 16, 2013) - 256
 - Added Hyperdimension Neptunia Victory BLES01788 // From savedata.jp
 
 Version 0.24 (Mar 15, 2013) - 253
-- Added Darkstalkers Resurrection (PSN) NPUB30666 // From KE-HA
 - Added Dai-2-Ji Super Robot Taisen OG BLJS10133 // From savedata.jp
+- Added Darkstalkers Resurrection (PSN) NPUB30666 // From KE-HA
 
 Version 0.23 (Mar 14, 2013) - 251
-- Added God Of War: Ascension BCUS98232 // From KE-HA
-- Added God Of War: Ascension BCES01741 // From KE-HA
 - Added Darkstalkers Resurrection BLJM60567 // From KE-HA
+- Added God Of War: Ascension BCES01741 // From KE-HA
+- Added God Of War: Ascension BCUS98232 // From KE-HA
 
 Version 0.22 (Mar 13, 2013) - 248
-- Added Tomb Raider BLUS31036 // From GG
 - Added Atelier Ayesha: The Alchemist of Dusk BLES01793 // From KE-HA
+- Added Tomb Raider BLUS31036 // From GG
 - Updated Dynasty Warriors 7 Empires BCUS50563 // From KE-HA
 - Updated Dynasty Warriors 7 Empires BLES01796 // From KE-HA
 
 Version 0.21 (Mar 10, 2013) - 246
 - Added Mortal Kombat BLES01132 // From GG
 - Updated BioShock BLUS30166 // From GG
-- Updated Gran Turismo 5 BCUS98114 // From GG
 - Updated Gran Turismo 5 BCES00569 // From GG
-- Updated Naruto Shippuden: Ultimate Ninja Storm 3 BLUS31066 // From GG
+- Updated Gran Turismo 5 BCUS98114 // From GG
 - Updated Naruto Shippuden: Ultimate Ninja Storm 3 BLAS50577 // From GG
 - Updated Naruto Shippuden: Ultimate Ninja Storm 3 BLJS10200 // From GG
+- Updated Naruto Shippuden: Ultimate Ninja Storm 3 BLUS31066 // From GG
 - Updated White Knight Chronicles BCUS98146 // From GG
 
 Version 0.20 (Mar 08, 2013) - 245
@@ -97,21 +108,21 @@ Version 0.20 (Mar 08, 2013) - 245
 - Added Okami HD BLJM60467 // From KE-HA
 
 Version 0.19 (Mar 07, 2013) - 243
-- Added Naruto Shippuden: Ultimate Ninja Storm 3 BLUS31066 // From KE-HA
+- Added Atelier Ayesha: The Alchemist of Dusk BLUS31152 // From KE-HA
 - Added Naruto Shippuden: Ultimate Ninja Storm 3 BLAS50577 // From KE-HA
 - Added Naruto Shippuden: Ultimate Ninja Storm 3 BLJS10200 // From KE-HA
-- Added Atelier Ayesha: The Alchemist of Dusk BLUS31152 // From KE-HA
-- Updated inFamous BCES00609 // From GG
-- Updated Just Cause 2 BLUS30400 // From GG
+- Added Naruto Shippuden: Ultimate Ninja Storm 3 BLUS31066 // From KE-HA
 - Updated Just Cause 2 BLES00517 // From GG
-- Updated Yakuza 3 BLUS30494 // From GG
+- Updated Just Cause 2 BLUS30400 // From GG
 - Updated Yakuza 3 BLES00834 // From GG
+- Updated Yakuza 3 BLUS30494 // From GG
+- Updated inFamous BCES00609 // From GG
 
 Version 0.18 (Mar 06, 2013) - 239
-- Added inFamous BCES00609 // From GG
 - Added Yakuza 3 BLES00834 // From GG
-- Updated Just Cause 2 BLUS30400 // From GG
+- Added inFamous BCES00609 // From GG
 - Updated Just Cause 2 BLES00517 // From GG
+- Updated Just Cause 2 BLUS30400 // From GG
 - Updated Yakuza 3 BLUS30494 // From GG
 
 Version 0.17 (Mar 05, 2013) - 237
@@ -144,60 +155,59 @@ Version 0.12 (Feb 27, 2013) - 231
 - Updated Example Format (_EXAMPLE.ps3savepatch) // gingerbread
 
 Version 0.11 (Feb 26, 2013) - 225
-- Set Status/Info Twisted Metal BCUS98106
+- Set Status/Info 3D Dot Game Heroes BLES00875
+- Set Status/Info 3D Dot Game Heroes BLUS30490
+- Set Status/Info Alpha Protocol BLES00704
+- Set Status/Info Alpha Protocol BLUS30341
+- Set Status/Info Asura's Wrath BLES01227
+- Set Status/Info Asura's Wrath BLUS30721
+- Set Status/Info Batman: Arkham Asylum (GOTY) BLUS30515
+- Set Status/Info Batman: Arkham Asylum BLES00503
+- Set Status/Info Batman: Arkham Asylum BLUS30279
+- Set Status/Info Batman: Arkham City (GOTY) BLUS30978
+- Set Status/Info Batman: Arkham City BLES00926
+- Set Status/Info Batman: Arkham City BLUS30538
+- Set Status/Info Borderlands 2 BLES01684
+- Set Status/Info Borderlands 2 BLUS30982
+- Set Status/Info Borderlands BLUS30386
+- Set Status/Info Castlevania: Lords Of Shadow BLES01047
+- Set Status/Info Castlevania: Lords Of Shadow BLUS30339
+- Set Status/Info Conan BLES00076
+- Set Status/Info Conan BLUS30069
+- Set Status/Info Darksiders II BLUS30829
+- Set Status/Info Dead Space 2 (PSN) BLUS30717
+- Set Status/Info Dead Space 2 BLUS30624
+- Set Status/Info Dead Space 3 (PSN) NPUB30906
+- Set Status/Info Dead Space 3 BLES01733
+- Set Status/Info Dead Space 3 BLUS31053
+- Set Status/Info Disney Universe BLUS30773
+- Set Status/Info DmC: Devil May Cry BLES01690
+- Set Status/Info DmC: Devil May Cry BLUS30723
+- Set Status/Info Dungeon Siege III BLUS30510
+- Set Status/Info Final Fantasy XIII MRTC00003
+- Set Status/Info Final Fantasy XIII-2 BLUS30776
+- Set Status/Info GoldenEye 007: Reloaded BLES01292
+- Set Status/Info GoldenEye 007: Reloaded BLUS30755
+- Set Status/Info Grand Theft Auto IV / Grand Theft Auto: Episodes From Liberty City BLUS30127
+- Set Status/Info Just Cause 2 BLUS30400
+- Set Status/Info Midnight Club: Los Angeles BLES00362
+- Set Status/Info Midnight Club: Los Angeles BLUS30190
+- Set Status/Info Ni No Kuni: Wrath Of The White Witch (PSN) NPUB30932
+- Set Status/Info Ni No Kuni: Wrath Of The White Witch BLUS30947
+- Set Status/Info Prototype 2 BLUS30756
+- Set Status/Info Prototype BLUS30145
+- Set Status/Info SSX BLAS50445
+- Set Status/Info SSX BLES01437
+- Set Status/Info SSX BLUS30849
+- Set Status/Info Silent Hill: HD Collection BLUS30810
+- Set Status/Info Singularity BLUS30296
+- Set Status/Info Spider-Man: Edge Of Time BLUS30760
 - Set Status/Info Splatterhouse BLAS50259
 - Set Status/Info Splatterhouse BLES01120
 - Set Status/Info Splatterhouse BLUS30335
-- Set Status/Info SSX BLAS50445
-- Set Status/Info Conan BLES00076
-- Set Status/Info Midnight Club: Los Angeles BLES00362
-- Set Status/Info Batman: Arkham Asylum BLES00503
-- Set Status/Info Alpha Protocol BLES00704
-- Set Status/Info 3D Dot Game Heroes BLES00875
-- Set Status/Info Batman: Arkham City BLES00926
-- Set Status/Info Castlevania: Lords Of Shadow BLES01047
-- Set Status/Info Asura's Wrath BLES01227
-- Set Status/Info GoldenEye 007: Reloaded BLES01292
-- Set Status/Info SSX BLES01437
-- Set Status/Info Borderlands 2 BLES01684
-- Set Status/Info DmC: Devil May Cry BLES01690
-- Set Status/Info Dead Space 3 BLES01733
-- Set Status/Info Conan BLUS30069
-- Set Status/Info Turning Point: Fall Of Liberty BLUS30119
-- Set Status/Info Grand Theft Auto IV / Grand Theft Auto: Episodes From Liberty City BLUS30127
-- Set Status/Info Prototype BLUS30145
-- Set Status/Info Twisted Metal BCUS98106
-- Set Status/Info Midnight Club: Los Angeles BLUS30190
-- Set Status/Info Batman: Arkham Asylum BLUS30279
-- Set Status/Info Singularity BLUS30296
-- Set Status/Info Castlevania: Lords Of Shadow BLUS30339
-- Set Status/Info Alpha Protocol BLUS30341
-- Set Status/Info Borderlands BLUS30386
-- Set Status/Info Just Cause 2 BLUS30400
-- Set Status/Info 3D Dot Game Heroes BLUS30490
-- Set Status/Info Dungeon Siege III BLUS30510
-- Set Status/Info Batman: Arkham Asylum (GOTY) BLUS30515
-- Set Status/Info Batman: Arkham City BLUS30538
 - Set Status/Info Thor: God Of Thunder BLUS30539
-- Set Status/Info Dead Space 2 BLUS30624
-- Set Status/Info Dead Space 2 (PSN) BLUS30717
-- Set Status/Info Asura's Wrath BLUS30721
-- Set Status/Info DmC: Devil May Cry BLUS30723
-- Set Status/Info GoldenEye 007: Reloaded BLUS30755
-- Set Status/Info Prototype 2 BLUS30756
-- Set Status/Info Spider-Man: Edge Of Time BLUS30760
-- Set Status/Info Disney Universe BLUS30773
-- Set Status/Info Silent Hill: HD Collection BLUS30810
-- Set Status/Info Darksiders II BLUS30829
-- Set Status/Info SSX BLUS30849
-- Set Status/Info Batman: Arkham City (GOTY) BLUS30978
-- Set Status/Info Borderlands 2 BLUS30982
-- Set Status/Info Dead Space 3 BLUS31053
-- Set Status/Info Final Fantasy XIII MRTC00003
-- Set Status/Info Dead Space 3 (PSN) NPUB30906
-- Set Status/Info Ni No Kuni: Wrath Of The White Witch BLUS30947
-- Set Status/Info Ni No Kuni: Wrath Of The White Witch (PSN) NPUB30932
-- Set Status/Info Final Fantasy XIII-2 BLUS30776
+- Set Status/Info Turning Point: Fall Of Liberty BLUS30119
+- Set Status/Info Twisted Metal BCUS98106
 
 Version 0.10 (Feb 26, 2013) - 225
 - Added Batman: Arkham City BLES00926  // From GG
@@ -207,17 +217,17 @@ Version 0.10 (Feb 26, 2013) - 225
 - Added Dead To Rights: Retribution BLES00824 // From GG
 - Added DmC: Devil May Cry BLES01690 // From GG
 - Added Dynasty Warriors: Strikeforce BLES00825 // From GG
-- Added inFamous 2 BCES01143 // From GG
 - Added LEGO Batman 2: DC Super Heroes BLES01613 // From GG
+- Added inFamous 2 BCES01143 // From GG
+- Updated Splatterhouse BLAS50259 // haxxxen
 - Updated Splatterhouse BLES01120 // haxxxen
 - Updated Splatterhouse BLUS30335 // haxxxen
-- Updated Splatterhouse BLAS50259 // haxxxen
 
 Version 0.09 (Feb 25, 2013) - 216
 - Added 3D Dot Game Heroes BLES00875 // From GG
 - Added Assassin's Creed III BLES01667 // From GG
-- Added Record Of Agarest: War BLES00594 // From GG
 - Added Metal Gear Rising: Revengance BLUS31045 // From GG
+- Added Record Of Agarest: War BLES00594 // From GG
 - Updated Metal Gear Rising: Revengance BLES01750 // From GG
 
 Version 0.08 (Feb 24, 2013) - 212
@@ -236,52 +246,51 @@ Version 0.08 (Feb 24, 2013) - 212
 - Added Resident Evil 5 / Resident Evil 5 Gold Edition BLES00485 // From GG
 - Added Resident Evil 6 BLES01465 // From GG
 - Added Saints Row 2 BLES00373 // From GG
-- Added The Elder Scrolls V: Skyrim BLES01329 // From GG
 - Added Star Wars: The Force Unleashed BLES00262 // From GG
 - Added Super Street Fighter IV BLES00770 // From GG
+- Added The Elder Scrolls V: Skyrim BLES01329 // From GG
 - Updated Resident Evil 6 BLUS30855 // From GG
 - Updated White Knight Chronicles II BCES01085 // From GG
 - Updated White Knight Chronicles II BLUS30784 // From GG
 
 Version 0.07 (Feb 23, 2013) - 194
-- Added God Of War III BCES00510 // From GG
-- Added Kane & Lynch: Dead Men BLES00167 // From GG
-- Added Batman: Arkham Asylum BLES00503 // From GG
-- Added Nier BLES00826 // From GG
 - Added Assassin's Creed: Brotherhood BLES00909 // From GG
-- Added GoldenEye 007: Reloaded BLES01292 // From GG
 - Added Assassin's Creed: Revelations BLES01384 // From GG
-- Added Uncharted: Drake's Fortune BCES00064 // From GG
-- Added Dead Space BCES00310 // From GG
+- Added Batman: Arkham Asylum BLES00503 // From GG
 - Added Castlevania: Lords Of Shadow BLES01047 // From GG
+- Added Dead Space BCES00310 // From GG
+- Added God Of War III BCES00510 // From GG
+- Added GoldenEye 007: Reloaded BLES01292 // From GG
+- Added Kane & Lynch: Dead Men BLES00167 // From GG
+- Added Nier BLES00826 // From GG
+- Added Uncharted: Drake's Fortune BCES00064 // From GG
 
 Version 0.06 (Feb 22, 2013) - 184
-- Added Metal Gear Rising: Revengance BLES01750 // From GG
-- Added Max Payne 3 BLES00942 // From GG
-- Added The Darkness 2 BLES01388 // From GG
 - Added Gundam Extreme Vs BLJS10131 // From CMP
+- Added Max Payne 3 BLES00942 // From GG
+- Added Metal Gear Rising: Revengance BLES01750 // From GG
+- Added The Darkness 2 BLES01388 // From GG
 - Updated The Darkness 2 BLUS30743 // From GG
-	- Added Checksum
 
 Version 0.05 (Feb 20, 2013) - 180
 - Added White Knight Chronicles II BCES01085 // From GG
 - Updated White Knight Chronicles II BLUS30784 // From GG
 
 Version 0.04 (Feb 20, 2013) - 179
-- Added Splatterhouse BLES01120 // From GG
-- Added Splatterhouse BLAS50259 // From GG
 - Added Alpha Protocol BLES00704 // From GG
-- Added SSX BLES01437 // From GG
 - Added SSX BLAS50445 // From GG
+- Added SSX BLES01437 // From GG
+- Added Splatterhouse BLAS50259 // From GG
+- Added Splatterhouse BLES01120 // From GG
 - Added Tales Of Graces f BLJS10093 // From GG
 
 Version 0.03 (Feb 19, 2013) - 173
 - Added Example Format (_EXAMPLE.ps3savepatch) // gingerbread
 
 Version 0.02 (Feb 19, 2013) - 172
+- Added Star Ocean: The Last Hope International MRTC00001 // haxxxen
 - Added Trinity: Souls Of Zill O'll BLES01184 // haxxxen
 - Added Trinity: Souls Of Zill O'll BLJM60212 // haxxxen 
-- Added STAR OCEAN THE LAST HOPE -INTERNATIONAL- MRTC00001 // haxxxen
 - Updated Trinity: Souls Of Zill O'll BLUS30503 // haxxxen
 
 Version 0.01 (Feb 19, 2013) - 169
@@ -302,9 +311,9 @@ Version 0.01 (Feb 19, 2013) - 169
 - Added Batman: Arkham Asylum BLUS30279 // From GG
 - Added Batman: Arkham City (GOTY) BLUS30978 // From GG
 - Added Batman: Arkham City BLUS30538 // From GG
-- Added Bionic Commando BLUS30255 // From GG
 - Added BioShock 2 BLUS30420 // From GG
 - Added BioShock BLUS30166 // From GG
+- Added Bionic Commando BLUS30255 // From GG
 - Added Bladestorm: The Hundred Years' War BLUS30070 // From GG
 - Added BlazBlue: Continuum Shift BLUS30576 // From GG
 - Added BlazBlue: Continuum Shift Extend BLUS30869 // From GG
@@ -360,12 +369,9 @@ Version 0.01 (Feb 19, 2013) - 169
 - Added Hunted: The Demon's Forge BLUS30406 // From GG
 - Added Hyperdimension Neptunia BLUS30701 // From GG
 - Added Hyperdimension Neptunia mk2 BLUS30901 // From GG
-- Added inFamous 2 BCUS98125 // From GG
-- Added inFamous BCUS98119 // From GG
 - Added Jetpack Joyride (PSN) NPUB31097 // From GG
 - Added Just Cause 2 BLUS30400 // From GG
 - Added Kane & Lynch: Dead Men BLUS30102 // From GG
-- Added Last Rebellion BLUS30512 // From GG
 - Added LEGO Batman 2: DC Super Heroes BLUS30837 // From GG
 - Added LEGO Batman: The Videogame BLUS30175 // From GG
 - Added LEGO Harry Potter: Years 1-4 BLUS30437 // From GG
@@ -373,6 +379,7 @@ Version 0.01 (Feb 19, 2013) - 169
 - Added LEGO Indiana Jones 2: The Adventure Continues BLUS30425 // From GG
 - Added LEGO Indiana Jones: The Original Adventures BLUS30141 // From GG
 - Added LEGO Lord Of The Rings BLUS30963 // From GG
+- Added Last Rebellion BLUS30512 // From GG
 - Added Marvel Vs. Capcom 3: Fate Of Two Worlds BLUS30410 // From GG
 - Added Marvel: Ultimate Alliance BLUS30010 // From GG
 - Added Max Payne 3 BLUS30557 // From GG
@@ -415,6 +422,7 @@ Version 0.01 (Feb 19, 2013) - 169
 - Added Resistance 3 BCUS98176 // From GG
 - Added Rise Of The Guardians BLUS31067 // From GG
 - Added Rune Factory: Tides Of Destiny BLUS30759 // From GG
+- Added SSX BLUS30849 // From GG
 - Added Saints Row 2 BLUS30201 // From GG
 - Added Silent Hill: HD Collection BLUS30810 // From GG
 - Added Silent Hill: Homecoming BLUS30169 // From GG
@@ -426,7 +434,6 @@ Version 0.01 (Feb 19, 2013) - 169
 - Added Soul Calibur V BLUS30736 // From GG
 - Added Spider-Man: Edge Of Time BLUS30760 // From GG
 - Added Splatterhouse BLUS30335 // From GG
-- Added SSX BLUS30849 // From GG
 - Added Star Wars: The Force Unleashed BLUS30144 // From GG
 - Added Street Fighter X Tekken BLUS30722 // From GG
 - Added Super Street Fighter IV BLUS30453 // From GG
@@ -454,3 +461,5 @@ Version 0.01 (Feb 19, 2013) - 169
 - Added Wizardry: Labyrinth Of Lost Souls (PSN) NPUB30452 // From GG
 - Added Yakuza 3 BLUS30494 // From GG
 - Added Yakuza 4 BLUS30643 // From GG
+- Added inFamous 2 BCUS98125 // From GG
+- Added inFamous BCUS98119 // From GG

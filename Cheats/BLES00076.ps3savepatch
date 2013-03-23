@@ -5,14 +5,15 @@
 
 :BLES00076SAVE*\RPGDATA.NSG
 :BLES00076_PREFS\PROFILE.NSI
-[Unlock King Difficulty  (Not Working)]
+
+[Unlock King Difficulty]
 700000A1 00000080
 
-[Unlock All Concept Art (Not Working)]
+[Unlock All Concept Art]
 2000009C FFFFFFFF
 720000A0 007FFFFF
 
-[Unlock All Cheats (Not Working)]
+[Unlock All Cheats]
 700000A0 0000000F
 
 [Max Experience (Not Working)]

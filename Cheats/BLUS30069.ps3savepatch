@@ -6,14 +6,14 @@
 :BLUS30069_PREFS\PROFILE.NSI
 :BLUS30069SAVE*\RPGDATA.NSG
 
-[Unlock King Difficulty (Not Working)]
+[Unlock King Difficulty]
 700000A1 00000080
 
-[Unlock All Concept Art (Not Working)]
+[Unlock All Concept Art]
 2000009C FFFFFFFF
 720000A0 007FFFFF
 
-[Unlock All Cheats (Not Working)]
+[Unlock All Cheats]
 700000A0 0000000F
 
 [Max Experience (Not Working)]

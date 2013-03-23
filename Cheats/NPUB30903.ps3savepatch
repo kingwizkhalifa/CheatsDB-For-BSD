@@ -1,0 +1,10 @@
+[INFO::The following code will not work without checksum.]
+; NPUB30903
+; Yu-Gi-Oh! 5D's Decade Duels Plus (PSN)
+; From Zephyer
+
+:AUTOSAVE
+
+[Have All Cards (x3) (Not Working)]
+400020F0 00000006
+4F3C0004 00000000
