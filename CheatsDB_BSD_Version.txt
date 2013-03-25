@@ -4,6 +4,9 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.36 (Mar 25, 2013) - 276
+- Added Pro Yakyuu Spirits 2013 BLJM60581 // From KE-HA and savedata.jp
+
 Version 0.35 (Mar 24, 2013) - 275
 - Added Resident Evil: The Darkside Chronicles (PSN) NPUB30648 // From Zephyer
 - Added Resident Evil: The Umbrella Chronicles (PSN) NPUB30650 // From Zephyer
