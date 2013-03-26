@@ -4,6 +4,12 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.37 (Mar 26, 2013) - 278
+- Added Pro Yakyuu Spirits 2013 BLAS50575 // From KE-HA and savedata.jp
+- Added One Piece: Pirate Warriors BLES01672 // From GG
+- Updated Pro Yakyuu Spirits 2013 BLJM60581 // From KE-HA and savedata.jp
+- Updated One Piece: Pirate Warriors (PSN) NPUB30836 // From GG
+
 Version 0.36 (Mar 25, 2013) - 276
 - Added Pro Yakyuu Spirits 2013 BLJM60581 // From KE-HA and savedata.jp
 
