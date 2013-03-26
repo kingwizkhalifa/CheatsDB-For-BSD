@@ -4,6 +4,10 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.38 (Mar 27, 2013) - 279
+- Added Kingdom Hearts HD 1.5 ReMIX BLJM60589 // From bokosukagames and savedata.jp
+- Set Status/Info Kingdom Hearts HD 1.5 ReMIX BLJM60589 
+
 Version 0.37 (Mar 26, 2013) - 278
 - Added Pro Yakyuu Spirits 2013 BLAS50575 // From KE-HA and savedata.jp
 - Added One Piece: Pirate Warriors BLES01672 // From GG
