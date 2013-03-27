@@ -4,6 +4,35 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.39 (Mar 27, 2013) - 279
+- Removed Status/Info  Darksiders II BLUS30829
+- Removed Status/Info Alpha Protocol BLES00704
+- Removed Status/Info Alpha Protocol BLUS30341
+- Removed Status/Info Asura's Wrath BLES01227
+- Removed Status/Info Asura's Wrath BLUS30721
+- Removed Status/Info Castlevania: Lords Of Shadow BLES01047
+- Removed Status/Info Castlevania: Lords Of Shadow BLUS30339
+- Removed Status/Info Just Cause 2 BLUS30400
+- Removed Status/Info Just Cause 2 BLES00517
+- Removed Status/Info Midnight Club: Los Angeles BLES00362
+- Removed Status/Info Midnight Club: Los Angeles BLUS30190
+- Removed Status/Info SSX BLAS50445
+- Removed Status/Info SSX BLES01437
+- Removed Status/Info SSX BLUS30849
+- Removed Status/Info Silent Hill: HD Collection BLUS30810
+- Removed Status/Info Singularity BLUS30296
+- Removed Status/Info Spider-Man: Edge Of Time BLUS30760
+- Removed Status/Info Splatterhouse BLAS50259
+- Removed Status/Info Splatterhouse BLES01120
+- Removed Status/Info Splatterhouse BLUS30335
+- Removed Status/Info Thor: God Of Thunder BLUS30539
+- Removed Status/Info Turning Point: Fall Of Liberty BLUS30119
+- Set Status/Info Borderlands 2 BLES01684
+- Set Status/Info Borderlands 2 BLUS30982
+- Set Status/Info DmC: Devil May Cry BLES01690
+- Set Status/Info DmC: Devil May Cry BLUS30723
+- Set Status/Info Grand Theft Auto IV / Grand Theft Auto: Episodes From Liberty City BLUS30127
+
 Version 0.38 (Mar 27, 2013) - 279
 - Added Kingdom Hearts HD 1.5 ReMIX BLJM60589 // From bokosukagames and savedata.jp
 - Set Status/Info Kingdom Hearts HD 1.5 ReMIX BLJM60589 

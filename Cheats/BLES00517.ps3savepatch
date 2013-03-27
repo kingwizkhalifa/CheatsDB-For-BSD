@@ -1,4 +1,3 @@
-[INFO: Same patches may not be supported by BSD yet]
 ; Just Cause 2
 ; BLES00517
 ;From Game Genie For PS3
@@ -11,17 +10,17 @@
 28000000 0098967F
 
 ; Unlocks all weapons and vehicles.
-[Max Chaos (Not Working)]
+[Max Chaos]
 80010004 F3C2E15D
 93000000 0000001A
 28000000 000F423F
 
-[Max Weapon Parts (Not Working)]
+[Max Weapon Parts]
 80010004 F3C2E15D
 93000000 00000042
 28000000 000003E8
 
-[Max Vehicle Parts (Not Working)]
+[Max Vehicle Parts]
 80010004 F3C2E15D
 93000000 0000002E
 28000000 000003E8

@@ -1,11 +1,10 @@
-[INFO: Same patches may not be supported by BSD yet]
 ; SSX
 ; BLUS30849
 ;From Game Genie For PS3
 
 :BLUS3084900*\SYS-DATA
 
-[Max Credits (Not Working)]
+[Max Credits]
 80010008 20737949
 76000000 20000000
 28000009 BB9AC9FF

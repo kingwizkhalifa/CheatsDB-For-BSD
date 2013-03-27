@@ -1,4 +1,3 @@
-[INFO: Same patches may not be supported by BSD yet]
 ; Spider-Man: Edge Of Time
 ; BLUS30760
 ;From Game Genie For PS3
@@ -17,11 +16,10 @@
 40000770 00000003
 40AF0001 00000000
 
-[Costumes (Not Working)]
+[Costumes]
 70000527 0000008D
 71000528 0000101C
 7000052F 0000000F
-
 
 [Shattered Dimensions Costumes]
 0000000C 00000001

@@ -1,4 +1,3 @@
-[INFO: Same patches may not be supported by BSD yet]
 ; Turning Point: Fall Of Liberty
 ; BLUS30119
 ;From Game Genie For PS3
@@ -8,7 +7,7 @@
 ; --- Max Ammo ---
 
 ; You must have this weapon equipped.
-[Gewehr 47 (Not Working)]
+[Gewehr 47]
 8000000C 436F6E74
 656E742E 47343700
 2800000C 00000032
@@ -22,21 +21,21 @@
 28000010 00000003
 
 ; You must have this weapon equipped.
-[M1 Garand (Not Working)]
+[M1 Garand]
 8000000C 65436F6E
 74656E74 2E4D3100
 2800000C 00000008
 28000010 000003E7
 
 ; You must have this weapon equipped.
-[MP50 (Not Working)]
+[MP50]
 8000000C 6F6E7465
 6E742E4D 50353000
 2800000C 00000032
 28000010 000003E7
 
 ; You must have this weapon equipped.
-[Thompson Submachine Gun (Not Working)]
+[Thompson Submachine Gun]
 8000000C 6E742E54
 686F6D70 736F6E00
 2800000C 00000032
