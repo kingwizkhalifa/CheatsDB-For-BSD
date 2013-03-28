@@ -10,6 +10,11 @@
 2800000F 39393930
 18000013 00003030
 
+;From X-GHOST-X (Using BSD's Pacth Creator)
+[Level 25]
+search 0x000B436172656572436173680000000005
+write at 0x000021E1:0x393939303030000002000000
+
 [default:Update crc32 (required)]
 set range:0x4,0x63FFF
 set [hash]:crc32

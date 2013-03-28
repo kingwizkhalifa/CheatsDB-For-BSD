@@ -4,6 +4,10 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.41 (Mar 29, 2013) - 282
+- Updated Army of TWO™ The Devil's Cartel BLES01767 // From X-GHOST-X (Using BSD's Pacth Creator)
+- Updated Army of TWO™ The Devil's Cartel BLUS31069 // From X-GHOST-X (Using BSD's Pacth Creator)
+
 Version 0.40 (Mar 28, 2013) - 282
 - Added Accel World: Kasoku no Chouten BLJS10176 // From KE-HA
 - Added Little Busters! Converted Edition BLJM61009 // From savedata.jp
