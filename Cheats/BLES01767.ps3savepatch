@@ -10,6 +10,8 @@
 2800000F 39393930
 18000013 00003030
 
-[default:Update CRC32 (Required)]
-set crc32:0
-write at 0x00000000:xor:CF012886
+[default:Update crc32 (required)]
+set range:0x4,0x63FFF
+set [hash]:crc32
+write at 0x0:[hash]
+write at 0x0:xor:CF012886

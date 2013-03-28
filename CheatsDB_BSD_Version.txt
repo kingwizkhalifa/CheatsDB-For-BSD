@@ -4,8 +4,15 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.40 (Mar 28, 2013) - 282
+- Added Accel World: Kasoku no Chouten BLJS10176 // From KE-HA
+- Added Little Busters! Converted Edition BLJM61009 // From savedata.jp
+- Added Tiger Woods PGA Tour 14 BLUS31063 // From KE-HA
+- Updated Army of TWO™ The Devil's Cartel BLES01767 // From KE-HA
+- Updated Army of TWO™ The Devil's Cartel BLUS31069 // From KE-HA
+
 Version 0.39 (Mar 27, 2013) - 279
-- Removed Status/Info  Darksiders II BLUS30829
+- Removed Status/Info Darksiders II BLUS30829
 - Removed Status/Info Alpha Protocol BLES00704
 - Removed Status/Info Alpha Protocol BLUS30341
 - Removed Status/Info Asura's Wrath BLES01227
