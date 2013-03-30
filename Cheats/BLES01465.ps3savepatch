@@ -74,3 +74,8 @@
 [All Character Rocket Launcher Ammo 30,000]
 42004B34 011B7530
 40070070 00000000
+
+;From X-GHOST-X (Using BSD's Patch Creator)
+[Green:Mercs Training Skill Set 8 (Working)]
+search 0x00000960
+write next (11):0x54000000

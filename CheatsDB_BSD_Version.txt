@@ -4,9 +4,17 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.42 (Mar 30, 2013) - 284
+- Added Dragon Ball Z Budokai: HD Collection BLUS30966 // From GG
+- Added Hyperdimension Neptunia Victory BLUS31150 // From GG
+- Updated Army of TWO™ The Devil's Cartel BLES01767 // From X-GHOST-X (Using BSD's Patch Creator)
+- Updated Army of TWO™ The Devil's Cartel BLUS31069 // From X-GHOST-X (Using BSD's Patch Creator)
+- Updated Resident Evil 6 BLES01465 // From X-GHOST-X (Using BSD's Patch Creator)
+- Updated Resident Evil 6 BLUS30855 // From X-GHOST-X (Using BSD's Patch Creator)
+
 Version 0.41 (Mar 29, 2013) - 282
-- Updated Army of TWO™ The Devil's Cartel BLES01767 // From X-GHOST-X (Using BSD's Pacth Creator)
-- Updated Army of TWO™ The Devil's Cartel BLUS31069 // From X-GHOST-X (Using BSD's Pacth Creator)
+- Updated Army of TWO™ The Devil's Cartel BLES01767 // From X-GHOST-X (Using BSD's Patch Creator)
+- Updated Army of TWO™ The Devil's Cartel BLUS31069 // From X-GHOST-X (Using BSD's Patch Creator)
 
 Version 0.40 (Mar 28, 2013) - 282
 - Added Accel World: Kasoku no Chouten BLJS10176 // From KE-HA
@@ -121,13 +129,13 @@ Version 0.27 (Mar 17, 2013) - 258
 - Updated God Of War: Ascension BCUS98232 // From KE-HA
 
 Version 0.26 (Mar 16, 2013) - 257
-- Added Hustle Kings™ (PSN) NPUA80291 // From gingerbread (Using BSD's Pacth Creator)
+- Added Hustle Kings™ (PSN) NPUA80291 // From gingerbread (Using BSD's Patch Creator)
 - Updated Atelier Meruru: The Apprentice Of Arland BLES01593 // From Game Genie & savedata.jp
 - Updated Atelier Meruru: The Apprentice Of Arland BLUS30941 // From Game Genie & savedata.jp
-- Updated Black Knight Sword (PSN) NPUB30719 // From gingerbread (Using BSD's Pacth Creator)
+- Updated Black Knight Sword (PSN) NPUB30719 // From gingerbread (Using BSD's Patch Creator)
 
 Version 0.25 (Mar 16, 2013) - 256
-- Added Black Knight Sword (PSN) NPUB30719 // From gingerbread (Using BSD's Pacth Creator)
+- Added Black Knight Sword (PSN) NPUB30719 // From gingerbread (Using BSD's Patch Creator)
 - Added Hyperdimension Neptunia Victory BLJM60491 // From savedata.jp
 - Added Hyperdimension Neptunia Victory BLES01788 // From savedata.jp
 
