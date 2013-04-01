@@ -4,6 +4,11 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.43 (Apr 01, 2013) - 287
+- Added Dead Nation: Road of Devastation (PSN) NPEA00143 // From zeick (Using BSD's Patch Creator)
+- Added Deus Ex: Human Revolution BLJM60353 // From KE-HA
+- Added Shutsugeki!! Otometachi no Senjou 2: Yuukoku o Kakeru Koujo no Tsubasa BLJS10165 // From savedata.jp
+
 Version 0.42 (Mar 30, 2013) - 284
 - Added Dragon Ball Z Budokai: HD Collection BLUS30966 // From GG
 - Added Hyperdimension Neptunia Victory BLUS31150 // From GG
@@ -24,15 +29,15 @@ Version 0.40 (Mar 28, 2013) - 282
 - Updated Army of TWO™ The Devil's Cartel BLUS31069 // From KE-HA
 
 Version 0.39 (Mar 27, 2013) - 279
-- Removed Status/Info Darksiders II BLUS30829
 - Removed Status/Info Alpha Protocol BLES00704
 - Removed Status/Info Alpha Protocol BLUS30341
 - Removed Status/Info Asura's Wrath BLES01227
 - Removed Status/Info Asura's Wrath BLUS30721
 - Removed Status/Info Castlevania: Lords Of Shadow BLES01047
 - Removed Status/Info Castlevania: Lords Of Shadow BLUS30339
-- Removed Status/Info Just Cause 2 BLUS30400
+- Removed Status/Info Darksiders II BLUS30829
 - Removed Status/Info Just Cause 2 BLES00517
+- Removed Status/Info Just Cause 2 BLUS30400
 - Removed Status/Info Midnight Club: Los Angeles BLES00362
 - Removed Status/Info Midnight Club: Los Angeles BLUS30190
 - Removed Status/Info SSX BLAS50445

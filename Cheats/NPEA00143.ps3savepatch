@@ -1,0 +1,58 @@
+;NPEA00143
+;Dead Nation: Road of Devastation (PSN)
+;From zeick (Using BSD's Patch Creator)
+
+:SAVEDATA.DAT
+
+[16777215 money]
+write at 0x00005D07:FFFFFF
+
+[9999 ammo smg]
+write at 0x005D7B:270F
+
+[9999 ammo shotgun]
+write at 0x005D9B:270F
+
+[9999 ammo flamethrower]
+write at 0x005DBB:270F
+
+[9999 ammo blade cannon]
+write at 0x005DDB:270F
+
+[9999 ammo launcher]
+write at 0x005DFB:270F
+
+[9999 ammo shocker]
+write at 0x005E1B:270F
+
+[9999 ammo FLARE]
+write at 0x005E3B:270F
+
+[9999 ammo grenade]
+write at 0x005E5B:270F
+
+[9999 ammo mine]
+write at 0x005E7B:270F
+
+[9999 ammo molotov]
+write at 0x005E9B:270F
+
+[9999 ammo dynamite]
+write at 0x005EAB:270F
+
+[9999 ammo assault rifle]
+write at 0x005D5B:270F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
