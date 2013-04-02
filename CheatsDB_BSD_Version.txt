@@ -4,6 +4,10 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.44 (Apr 02, 2013) - 289
+- Added Beyond Good & Evil HD (PSN) NPEB00435 // From zeick (Using BSD's Patch Creator)
+- Added Dragon Ball Z Budokai: HD Collection BLES01658 // From GG
+
 Version 0.43 (Apr 01, 2013) - 287
 - Added Dead Nation: Road of Devastation (PSN) NPEA00143 // From zeick (Using BSD's Patch Creator)
 - Added Deus Ex: Human Revolution BLJM60353 // From KE-HA
