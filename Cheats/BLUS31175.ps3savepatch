@@ -1,0 +1,13 @@
+; Ninja Gaiden 3: Razor's Edge
+; BLUS31175
+; From bokosukagames
+
+;STORY DATA/CHECK POINT DATA
+
+:SAVE_STR.DAT
+
+[Ryu Karma 999,999,999]
+200011E8 3B9AC9FF
+
+[Ayane Karma 999,999,999]
+200011F0 3B9AC9FF

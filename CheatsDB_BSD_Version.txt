@@ -4,6 +4,11 @@ Cheats Database For Bruteforce Save Data
 Version History
 ===============
 
+Version 0.47 (Apr 04, 2013) - 297
+- Added Ninja Gaiden 3: Razor's Edge BLUS31175 // From bokosukagames
+- Added Ninja Gaiden 3: Razor's Edge BLJM61010 // From bokosukagames
+- Added Ninja Gaiden 3: Razor's Edge NPJB00361 // From bokosukagames
+
 Version 0.46 (Apr 04, 2013) - 294
 - Added Castle Crashers (PSN) NPUB30181 // From zeick (Using BSD's Patch Creator)
 - Updated Moe Moe Daisensou * Gendaiban++ BLJM10163 // From KE-HA
