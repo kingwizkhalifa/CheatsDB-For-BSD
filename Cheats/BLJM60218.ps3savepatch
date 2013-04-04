@@ -2,8 +2,6 @@
 ; BLJM60218
 ; From KE-HA & krustytoe
 
-;Missing Checksum
-
 :DATA0.DAT
 
 [Max Money]
@@ -49,3 +47,18 @@
 [All Characters Weapon1 Slot.6]
 40004BBB 00000006
 401007F6 00000000
+
+;Try either one of crc32 setting. Please report back on which one works.
+
+[default:Update crc32 (required)]
+set range:0x0,0xEFFB
+set [csum]:crc32
+write at 0xEFFC:[csum]
+
+;Or  
+
+[default:Update crc32]
+set range:0x0,0xEFFB
+set [csum]:crc32
+write at 0xEFFC:[csum]
+write at 0xEFFC:xor:FFFFFFFF

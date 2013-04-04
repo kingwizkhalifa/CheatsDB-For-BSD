@@ -7,6 +7,8 @@ Version History
 Version 0.46 (Apr 04, 2013) - 294
 - Added Castle Crashers (PSN) NPUB30181 // From zeick (Using BSD's Patch Creator)
 - Updated Moe Moe Daisensou * Gendaiban++ BLJM10163 // From KE-HA
+- Updated Sengoku Basara: Samurai Heroes BLJM60218 // From KE-HA & krustytoe
+- Updated Sengoku Basara: Samurai Heroes BLUS30492 // From KE-HA & krustytoe
 
 Version 0.45 (Apr 03, 2013) - 293
 - Added Moe Moe Daisensou * Gendaiban++ BLJM10163 // From KE-HA
